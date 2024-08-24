@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FEM Software/Table of FEMs.md",
-                "mode": "preview",
+                "file": "FEM Software/What is known about FEniCSx0.8.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FEM Software/Table of FEMs.md",
+                "file": "FEM Software/What is known about FEniCSx0.8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FEM Software/Table of FEMs.md",
+                "file": "FEM Software/What is known about FEniCSx0.8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FEM Software/Table of FEMs.md"
+                "file": "FEM Software/What is known about FEniCSx0.8.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
-    "index.md",
-    "FEM Software/Table of FEMs.md",
     "FEM Software/What is known about Elmer FEM.md",
-    "FEM Software/What is known about FEniCSx0.8.md",
-    "Elmer FEM.md",
+    "Topology/Fractal Geometry.md",
     "Topology/Metric Spaces.md",
-    "Topology/Fractal Geometry.md"
+    "FEM Software/Table of FEMs.md",
+    "index.md",
+    "FEM Software/What is known about FEniCSx0.8.md",
+    "Elmer FEM.md"
   ]
 }
