@@ -1,3 +1,7 @@
+---
+aliases:
+  - FEniCSx
+---
 ## Summary of FEniCSx 0.8
 
 1. FEniCSx is a powerful tool that is most compatible with Linux operating systems.
