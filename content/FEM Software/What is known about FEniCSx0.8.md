@@ -2,13 +2,13 @@
 aliases:
   - FEniCSx
 ---
-## Summary of FEniCSx 0.8
+## Summary of FEniCSx0.8
 
 1. FEniCSx is a powerful tool that is most compatible with Linux operating systems.
 2. It has extensive tutorials and a wide range of use cases, as shown in this [link](https://jsdokken.com/dolfinx-tutorial/).
 3. The language used to operate FEniCSx 0.8 is Python.
 
-## Steps for Installing and Using FEniCSx 0.8 on Windows
+## Steps for Installing and Using FEniCSx0.8 on Windows
 
 1. Open Windows PowerShell.
 2. Install WSL:
