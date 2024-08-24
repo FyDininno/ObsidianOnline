@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -150,11 +149,11 @@
   },
   "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
+    "index.md",
     "FEM Software/Table of FEMs.md",
     "FEM Software/What is known about Elmer FEM.md",
     "FEM Software/What is known about FEniCSx0.8.md",
     "Elmer FEM.md",
-    "index.md",
     "Topology/Metric Spaces.md",
     "Topology/Fractal Geometry.md"
   ]
