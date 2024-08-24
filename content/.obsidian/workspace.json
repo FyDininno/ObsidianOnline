@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "22451d9d152eb26f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a2d65bcddf9dbe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "228ec2d3e86023e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FEM Software/Table of FEMs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30b0151551e7d048",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9467babeadd898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca816a0edb5115c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a54c264c810e0d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf8bd8040fa911eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16299901d7716f13",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aaa42842115a639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edf7db0f105237f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FEM Software/Table of FEMs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a9567bf5ed1b200",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FEM Software/Table of FEMs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed0edbf2c57598e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58b8e2d35076bbb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FEM Software/Table of FEMs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "228ec2d3e86023e0",
+  "lastOpenFiles": [
+    "Topology/Metric Spaces.md",
+    "Topology/Fractal Geometry.md",
+    "FEM Software/What is known about FEniCSx0.8.md",
+    "FEM Software/Table of FEMs.md",
+    "FEM Software/What is known about Elmer FEM.md"
+  ]
+}
