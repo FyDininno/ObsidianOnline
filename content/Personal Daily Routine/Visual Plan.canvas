@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"4537feed223ff8f5","x":-320,"y":-460,"width":60,"height":905,"color":"6","type":"text","text":"Total Time in the Day: 2 cells = 1 hour"},
-		{"id":"2ab038d42796bf84","x":-460,"y":-460,"width":140,"height":50,"type":"text","text":"5 o'clock"},
+		{"id":"4537feed223ff8f5","type":"text","text":"Total Time in the Day: 2 cells = 1 hour","x":-320,"y":-460,"width":60,"height":905,"color":"6"},
+		{"id":"2ab038d42796bf84","type":"text","text":"5 o'clock","x":-460,"y":-460,"width":140,"height":50},
 		{"id":"1ae68d4fb16f24b6","type":"text","text":"6 o'clock","x":-460,"y":-410,"width":140,"height":50},
 		{"id":"4fc1db9b269f9735","type":"text","text":"7 o'clock","x":-460,"y":-360,"width":140,"height":50},
 		{"id":"79f4f100ada993d7","type":"text","text":"8 o'clock","x":-460,"y":-310,"width":140,"height":50},
@@ -19,7 +19,7 @@
 		{"id":"e316019e64326bd2","type":"text","text":"20 o'clock","x":-460,"y":295,"width":140,"height":50},
 		{"id":"8441bc92cefe03b5","type":"text","text":"21 o'clock","x":-460,"y":345,"width":140,"height":50},
 		{"id":"185f6a2b98705982","type":"text","text":"22 o'clock","x":-460,"y":395,"width":140,"height":50},
-		{"id":"3f3aea4dae9a8ae0","x":-260,"y":-310,"width":160,"height":70,"color":"2","type":"text","text":"SYN 2\n8:00-9:20"},
+		{"id":"3f3aea4dae9a8ae0","type":"text","text":"SYN 2\n8:00-9:20","x":-260,"y":-310,"width":160,"height":70,"color":"2"},
 		{"id":"7b041570f9ea125e","type":"text","text":"NANO 110\n10:00-10:50","x":-260,"y":-210,"width":160,"height":50,"color":"2"},
 		{"id":"e5a6b2c23cbdc763","type":"text","text":"NANO 119\n11:00-11:50","x":-260,"y":-160,"width":160,"height":50,"color":"2"},
 		{"id":"499c3abbfdeee9e7","type":"text","text":"ECE 182\n14:00-14:50","x":-260,"y":-7,"width":160,"height":50,"color":"2"},
@@ -32,10 +32,23 @@
 		{"id":"4bbf8eeab2cd9bda","type":"text","text":"DAY 6\nSATURDAY","x":540,"y":-530,"width":180,"height":70,"color":"5"},
 		{"id":"aaf3a3011ea43215","type":"text","text":"DAY 7\nSUNDAY","x":700,"y":-530,"width":160,"height":70,"color":"5"},
 		{"id":"98bc36df3cf23ebc","type":"text","text":"SYN 2\n8:00-9:20","x":60,"y":-310,"width":160,"height":70,"color":"2"},
+		{"id":"556d6d9d664733fc","type":"text","text":"","x":-100,"y":-462,"width":160,"height":905},
+		{"id":"b0d1a3db8686f1d4","type":"text","text":"","x":220,"y":-459,"width":160,"height":905},
+		{"id":"0addeccf7d11ab26","type":"text","text":"","x":540,"y":-460,"width":160,"height":905},
+		{"id":"46083c1b749950d4","type":"text","text":"ECE 182\n14:00-15:20","x":-100,"y":-6,"width":160,"height":67,"color":"2"},
+		{"id":"85c167ad74e34f93","type":"text","text":"CHEM 41A\n15:30-16:50","x":-100,"y":60,"width":160,"height":80,"color":"2"},
+		{"id":"8b882b91a8b6259a","type":"text","text":"","x":-460,"y":-530,"width":200,"height":70},
+		{"id":"75fd27b65c9367f0","type":"text","text":"","x":-460,"y":446,"width":1320,"height":60},
+		{"id":"ef65c9a2d407c440","type":"text","text":"","x":860,"y":-460,"width":60,"height":905},
+		{"id":"d31a5852bc9caa65","type":"text","text":"","x":860,"y":446,"width":60,"height":60},
+		{"id":"777190dac0367869","type":"text","text":"","x":860,"y":-530,"width":60,"height":70},
 		{"id":"aa9de99b7803a227","type":"text","text":"NANO 110\n10:00-10:50","x":60,"y":-210,"width":160,"height":50,"color":"2"},
-		{"id":"556d6d9d664733fc","x":-90,"y":-487,"width":160,"height":905,"type":"text","text":""},
-		{"id":"85c167ad74e34f93","type":"text","text":"CHEM 41A\n15:30-16:50","x":140,"y":60,"width":160,"height":80,"color":"2"},
-		{"id":"46083c1b749950d4","type":"text","text":"ECE 182\n14:00-15:20","x":-90,"y":-7,"width":160,"height":67,"color":"2"}
+		{"id":"97e950883d32b348","type":"text","text":"ECE 182\n14:00-15:20","x":220,"y":-5,"width":160,"height":67,"color":"2"},
+		{"id":"fd5f96182bf14525","type":"text","text":"CHEM 41A\n15:30-16:50","x":220,"y":61,"width":160,"height":80,"color":"2"},
+		{"id":"dfa2659f57c54141","type":"text","text":"NANO 110\n10:00-10:50","x":380,"y":-210,"width":160,"height":50,"color":"2"},
+		{"id":"4de2c77f2bb110b3","x":-260,"y":-370,"width":160,"height":60,"color":"1","type":"text","text":"Breakfast + Hike to Sch."},
+		{"id":"218aba87112ca6c0","x":-260,"y":-110,"width":160,"height":50,"color":"1","type":"text","text":"Lunch"},
+		{"id":"8d21eef71c7d91cd","x":-260,"y":-60,"width":160,"height":55,"color":"1","type":"text","text":"Workout"}
 	],
 	"edges":[]
 }
