@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FEM Software/What is known about FEniCSx0.8.md",
+                "file": "Topology/Sequences and Completeness.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FEM Software/What is known about FEniCSx0.8.md",
+                "file": "Topology/Sequences and Completeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FEM Software/What is known about FEniCSx0.8.md",
+                "file": "Topology/Sequences and Completeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FEM Software/What is known about FEniCSx0.8.md"
+                "file": "Topology/Sequences and Completeness.md"
               }
             }
           }
@@ -148,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
+    "Topology/Metric Spaces.md",
+    "Topology/Sequences and Completeness.md",
+    "index.md",
+    "FEM Software/What is known about FEniCSx0.8.md",
     "FEM Software/What is known about Elmer FEM.md",
     "FEM Software/Table of FEMs.md",
-    "Topology/Fractal Geometry.md",
-    "index.md",
-    "Topology/Metric Spaces.md",
-    "FEM Software/What is known about FEniCSx0.8.md",
     "Elmer FEM.md"
   ]
 }
