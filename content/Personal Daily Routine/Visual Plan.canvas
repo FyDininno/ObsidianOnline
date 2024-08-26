@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3f3aea4dae9a8ae0","x":-160,"y":-220,"width":120,"height":100,"type":"text","text":"Class Activity One"},
+		{"id":"4537feed223ff8f5","x":-320,"y":-220,"width":50,"height":700,"color":"6","type":"text","text":"Total Time in the Day"}
+	],
+	"edges":[]
+}
