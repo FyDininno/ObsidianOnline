@@ -13,24 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Test Files/Gif.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bfa2daec3d924c4f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Personal Plan/Routine/Visual Plan.canvas",
-                "viewState": {
-                  "x": 246.5120400695406,
-                  "y": 36.87358449851345,
-                  "zoom": -0.5406296699243103
-                }
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Test Files/Gif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Test Files/Gif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Test Files/Gif.md"
               }
             }
           }
@@ -162,14 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
+    "Pasted image 20240826163847.png",
+    "Personal Plan/Professional/Frank Dininno's Resume.md",
+    "Test Files/Gif.md",
+    "Test Files",
+    "Research/FEM Software/Table of FEMs.md",
+    "Personal Plan/Routine/Visual Plan.canvas",
+    "index.md",
+    "Personal Plan/Professional",
     "Personal Plan/Routine",
     "Personal Plan/Routine/Daily Plan.md",
-    "index.md",
     "Personal Plan/Routine/Visual Plan Image List.md",
     "Research",
-    "Personal Plan/Routine/Visual Plan.canvas",
     "Personal Plan/Routine/Images",
     "Personal Plan/Routine/Images/Pasted image 20240826162706.png",
     "Research/Topology/Metric Spaces.md",
@@ -177,7 +168,6 @@
     "Personal Plan",
     "Research/FEM Software/What is known about FEniCSx0.8.md",
     "Research/FEM Software/What is known about Elmer FEM.md",
-    "Research/FEM Software/Table of FEMs.md",
     "Elmer FEM.md"
   ]
 }
