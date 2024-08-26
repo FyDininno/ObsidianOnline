@@ -5,4 +5,5 @@ Fractal geometry is interested in the classification of subspaces of metric spac
 1. Simply connected
 2. Multiply connected
 ## Compactness
-## 
+## Space of compact sets
+## Distances between metric spaces

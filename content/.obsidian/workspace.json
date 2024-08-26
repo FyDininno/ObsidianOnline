@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology/Sequences and Completeness.md",
+                "file": "Personal Package/Daily Fitness Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topology/Sequences and Completeness.md",
+                "file": "Personal Package/Daily Fitness Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topology/Sequences and Completeness.md",
+                "file": "Personal Package/Daily Fitness Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topology/Sequences and Completeness.md"
+                "file": "Personal Package/Daily Fitness Plan.md"
               }
             }
           }
@@ -149,8 +150,10 @@
   },
   "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
-    "Topology/Metric Spaces.md",
     "Topology/Sequences and Completeness.md",
+    "Personal Package/Daily Fitness Plan.md",
+    "Personal Package",
+    "Topology/Metric Spaces.md",
     "index.md",
     "FEM Software/What is known about FEniCSx0.8.md",
     "FEM Software/What is known about Elmer FEM.md",
