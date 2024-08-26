@@ -19,9 +19,23 @@
 		{"id":"e316019e64326bd2","type":"text","text":"20 o'clock","x":-460,"y":295,"width":140,"height":50},
 		{"id":"8441bc92cefe03b5","type":"text","text":"21 o'clock","x":-460,"y":345,"width":140,"height":50},
 		{"id":"185f6a2b98705982","type":"text","text":"22 o'clock","x":-460,"y":395,"width":140,"height":50},
-		{"id":"3f3aea4dae9a8ae0","x":-260,"y":-310,"width":180,"height":70,"color":"2","type":"text","text":"SYN 2\n8:00-9:20"},
-		{"id":"7b041570f9ea125e","type":"text","text":"NANO 110\n10:00-10:50","x":-260,"y":-210,"width":180,"height":50,"color":"2"},
-		{"id":"e5a6b2c23cbdc763","type":"text","text":"NANO 110\n10:00-10:50","x":-260,"y":-160,"width":180,"height":50,"color":"2"}
+		{"id":"3f3aea4dae9a8ae0","x":-260,"y":-310,"width":160,"height":70,"color":"2","type":"text","text":"SYN 2\n8:00-9:20"},
+		{"id":"7b041570f9ea125e","type":"text","text":"NANO 110\n10:00-10:50","x":-260,"y":-210,"width":160,"height":50,"color":"2"},
+		{"id":"e5a6b2c23cbdc763","type":"text","text":"NANO 119\n11:00-11:50","x":-260,"y":-160,"width":160,"height":50,"color":"2"},
+		{"id":"499c3abbfdeee9e7","type":"text","text":"ECE 182\n14:00-14:50","x":-260,"y":-7,"width":160,"height":50,"color":"2"},
+		{"id":"821dd7386b84716b","type":"text","text":"CHEM 41A\n17:00-17:50","x":-260,"y":140,"width":160,"height":50,"color":"2"},
+		{"id":"04ff9c2585ce936f","type":"text","text":"DAY 1\nMONDAY","x":-260,"y":-530,"width":180,"height":70,"color":"5"},
+		{"id":"92718e535e0c3324","type":"text","text":"DAY 2\nTUESDAY","x":-100,"y":-530,"width":180,"height":70,"color":"5"},
+		{"id":"b0f67a464e99c8c5","type":"text","text":"DAY 3\nWEDNESDAY","x":60,"y":-530,"width":180,"height":70,"color":"5"},
+		{"id":"137a76da8a6cdc13","type":"text","text":"DAY 4\nTHURSDAY","x":220,"y":-530,"width":180,"height":70,"color":"5"},
+		{"id":"ebc1912b7f531dc9","type":"text","text":"DAY 5\nFRIDAY","x":380,"y":-530,"width":180,"height":70,"color":"5"},
+		{"id":"4bbf8eeab2cd9bda","type":"text","text":"DAY 6\nSATURDAY","x":540,"y":-530,"width":180,"height":70,"color":"5"},
+		{"id":"aaf3a3011ea43215","type":"text","text":"DAY 7\nSUNDAY","x":700,"y":-530,"width":160,"height":70,"color":"5"},
+		{"id":"98bc36df3cf23ebc","type":"text","text":"SYN 2\n8:00-9:20","x":60,"y":-310,"width":160,"height":70,"color":"2"},
+		{"id":"aa9de99b7803a227","type":"text","text":"NANO 110\n10:00-10:50","x":60,"y":-210,"width":160,"height":50,"color":"2"},
+		{"id":"556d6d9d664733fc","x":-90,"y":-487,"width":160,"height":905,"type":"text","text":""},
+		{"id":"85c167ad74e34f93","type":"text","text":"CHEM 41A\n15:30-16:50","x":140,"y":60,"width":160,"height":80,"color":"2"},
+		{"id":"46083c1b749950d4","type":"text","text":"ECE 182\n14:00-15:20","x":-90,"y":-7,"width":160,"height":67,"color":"2"}
 	],
 	"edges":[]
 }
