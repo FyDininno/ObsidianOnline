@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -149,13 +150,16 @@
   },
   "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
+    "halloween-five-loops.gif",
+    "index.md",
+    "Test Files/Gif.md",
+    "Test Files/Gif.md",
+    "Test Files/Gif",
     "Pasted image 20240826163847.png",
     "Personal Plan/Professional/Frank Dininno's Resume.md",
-    "Test Files/Gif.md",
     "Test Files",
     "Research/FEM Software/Table of FEMs.md",
     "Personal Plan/Routine/Visual Plan.canvas",
-    "index.md",
     "Personal Plan/Professional",
     "Personal Plan/Routine",
     "Personal Plan/Routine/Daily Plan.md",
