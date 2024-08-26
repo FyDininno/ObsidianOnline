@@ -84,10 +84,23 @@
 		{"id":"4758abe3efd123d9","type":"text","text":"Shower + Dinner","x":380,"y":315,"width":160,"height":75,"color":"1"},
 		{"id":"d398777c68dfd138","x":540,"y":290,"width":160,"height":50,"type":"text","text":"Sleep"},
 		{"id":"c1d36c04d528f5bb","type":"text","text":"Sleep","x":700,"y":240,"width":160,"height":50},
-		{"id":"749f2c92b07f6f75","x":1034,"y":-7,"width":126,"height":60,"type":"text","text":""},
-		{"id":"78f7d8e977d0ceaa","type":"text","text":"Wkout\n12:50-13:35","x":380,"y":13,"width":160,"height":50,"color":"1"},
-		{"id":"d2497e3ff84af660","type":"text","text":"Freework","x":380,"y":61,"width":160,"height":129,"color":"1"},
-		{"id":"f414ca046154e8c3","type":"text","text":"Schoolwork","x":540,"y":-9,"width":160,"height":123,"color":"1"}
+		{"id":"f414ca046154e8c3","type":"text","text":"Schoolwork","x":380,"y":-160,"width":160,"height":123,"color":"1"},
+		{"id":"fd5d851780326631","type":"text","text":"Lunch\n13:30-14:00","x":380,"y":-38,"width":160,"height":56,"color":"1"},
+		{"id":"d2497e3ff84af660","type":"text","text":"Freework","x":380,"y":18,"width":160,"height":172,"color":"1"},
+		{"id":"9f86547814d722e1","type":"text","text":"True Free Time","x":540,"y":230,"width":160,"height":60},
+		{"id":"338f44c69d1a6564","type":"text","text":"True Free Time","x":700,"y":180,"width":160,"height":60},
+		{"id":"eaec414528132671","type":"text","text":"Sailing: 4 hrs","x":700,"y":-135,"width":160,"height":200,"color":"4"},
+		{"id":"46e8378ddfaa2aa3","type":"text","text":"Freework","x":540,"y":118,"width":160,"height":117,"color":"1"},
+		{"id":"06c84bcef0c2eb7b","type":"text","text":"Freework","x":700,"y":65,"width":160,"height":115,"color":"1"},
+		{"id":"945513fa810dfb61","type":"text","text":"Schoolwork","x":540,"y":-258,"width":160,"height":176,"color":"1"},
+		{"id":"4b0bc268b4f19f74","type":"text","text":"Schoolwork","x":700,"y":-310,"width":160,"height":175,"color":"1"},
+		{"id":"0255452f20031949","type":"text","text":"Sleep","x":-260,"y":390,"width":160,"height":50},
+		{"id":"884387921031cd9c","type":"text","text":"Sleep","x":-100,"y":390,"width":160,"height":50},
+		{"id":"160f51002cee8c38","type":"text","text":"Sleep","x":60,"y":373,"width":160,"height":50},
+		{"id":"2c7b30e228ef43f0","type":"text","text":"Sleep","x":220,"y":390,"width":160,"height":50},
+		{"id":"6f52c50eff3139fb","type":"text","text":"Sleep","x":380,"y":390,"width":160,"height":50},
+		{"id":"4986ec8bb8db9f2f","x":540,"y":-82,"width":160,"height":200,"color":"4","type":"text","text":"Sailing: 4 hrs"},
+		{"id":"2ee9a8d1acc7ddb5","x":1421,"y":-184,"width":250,"height":60,"type":"text","text":"Average Hours Slept:\n"}
 	],
 	"edges":[]
 }
