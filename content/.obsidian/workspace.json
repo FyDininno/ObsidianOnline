@@ -15,9 +15,9 @@
               "state": {
                 "file": "Personal Daily Routine/Visual Plan.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 129.16666331620507,
-                  "zoom": 0
+                  "x": -212.8111076018185,
+                  "y": -101.602285837781,
+                  "zoom": 1
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",

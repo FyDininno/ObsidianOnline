@@ -1,7 +1,27 @@
 {
 	"nodes":[
-		{"id":"3f3aea4dae9a8ae0","x":-160,"y":-220,"width":120,"height":100,"type":"text","text":"Class Activity One"},
-		{"id":"4537feed223ff8f5","x":-320,"y":-220,"width":50,"height":700,"color":"6","type":"text","text":"Total Time in the Day"}
+		{"id":"4537feed223ff8f5","x":-320,"y":-460,"width":60,"height":905,"color":"6","type":"text","text":"Total Time in the Day: 2 cells = 1 hour"},
+		{"id":"2ab038d42796bf84","x":-460,"y":-460,"width":140,"height":50,"type":"text","text":"5 o'clock"},
+		{"id":"1ae68d4fb16f24b6","type":"text","text":"6 o'clock","x":-460,"y":-410,"width":140,"height":50},
+		{"id":"4fc1db9b269f9735","type":"text","text":"7 o'clock","x":-460,"y":-360,"width":140,"height":50},
+		{"id":"79f4f100ada993d7","type":"text","text":"8 o'clock","x":-460,"y":-310,"width":140,"height":50},
+		{"id":"09ea883d8c9f7de3","type":"text","text":"9 o'clock","x":-460,"y":-260,"width":140,"height":50},
+		{"id":"f2b6a6d96a9de06b","type":"text","text":"10 o'clock","x":-460,"y":-210,"width":140,"height":50},
+		{"id":"f541cf9aad065a06","type":"text","text":"11 o'clock","x":-460,"y":-160,"width":140,"height":50},
+		{"id":"d82690fadddfb0cb","type":"text","text":"12 o'clock","x":-460,"y":-110,"width":140,"height":50},
+		{"id":"fd942af777cf638a","type":"text","text":"13 o'clock","x":-460,"y":-60,"width":140,"height":50},
+		{"id":"2a810c00a6f083ee","type":"text","text":"14 o'clock","x":-460,"y":-10,"width":140,"height":50},
+		{"id":"b163f410e121256c","type":"text","text":"15 o'clock","x":-460,"y":40,"width":140,"height":50},
+		{"id":"32314aa32e5fec30","type":"text","text":"16 o'clock","x":-460,"y":90,"width":140,"height":50},
+		{"id":"f99275d668106fa7","type":"text","text":"17 o'clock","x":-460,"y":140,"width":140,"height":50},
+		{"id":"c4c0828a900f513c","type":"text","text":"18 o'clock","x":-460,"y":190,"width":140,"height":50},
+		{"id":"328103acd0c7fb20","type":"text","text":"19 o'clock","x":-460,"y":240,"width":140,"height":50},
+		{"id":"e316019e64326bd2","type":"text","text":"20 o'clock","x":-460,"y":295,"width":140,"height":50},
+		{"id":"8441bc92cefe03b5","type":"text","text":"21 o'clock","x":-460,"y":345,"width":140,"height":50},
+		{"id":"185f6a2b98705982","type":"text","text":"22 o'clock","x":-460,"y":395,"width":140,"height":50},
+		{"id":"3f3aea4dae9a8ae0","x":-260,"y":-310,"width":180,"height":70,"color":"2","type":"text","text":"SYN 2\n8:00-9:20"},
+		{"id":"7b041570f9ea125e","type":"text","text":"NANO 110\n10:00-10:50","x":-260,"y":-210,"width":180,"height":50,"color":"2"},
+		{"id":"e5a6b2c23cbdc763","type":"text","text":"NANO 110\n10:00-10:50","x":-260,"y":-160,"width":180,"height":50,"color":"2"}
 	],
 	"edges":[]
 }
