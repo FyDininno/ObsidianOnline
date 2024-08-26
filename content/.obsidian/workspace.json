@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Plan/Daily Plan.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,17 +25,16 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Personal Plan/Visual Plan.canvas",
+                "file": "Personal Plan/Routine/Visual Plan.canvas",
                 "viewState": {
-                  "x": 419.5,
-                  "y": -125.29328192874014,
-                  "zoom": -0.7721111454013804
+                  "x": 246.5120400695406,
+                  "y": 36.87358449851345,
+                  "zoom": -0.5406296699243103
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Plan/Visual Plan.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Plan/Visual Plan.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Plan/Visual Plan.canvas"
+                "file": "index.md"
               }
             }
           }
@@ -163,17 +162,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfa2daec3d924c4f",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
-    "Personal Plan/Daily Plan.md",
-    "Personal Plan/Visual Plan.canvas",
-    "Topology/Sequences and Completeness.md",
-    "Personal Plan",
-    "Topology/Metric Spaces.md",
+    "Personal Plan/Routine",
+    "Personal Plan/Routine/Daily Plan.md",
     "index.md",
-    "FEM Software/What is known about FEniCSx0.8.md",
-    "FEM Software/What is known about Elmer FEM.md",
-    "FEM Software/Table of FEMs.md",
+    "Personal Plan/Routine/Visual Plan Image List.md",
+    "Research",
+    "Personal Plan/Routine/Visual Plan.canvas",
+    "Personal Plan/Routine/Images",
+    "Personal Plan/Routine/Images/Pasted image 20240826162706.png",
+    "Research/Topology/Metric Spaces.md",
+    "Research/Topology/Sequences and Completeness.md",
+    "Personal Plan",
+    "Research/FEM Software/What is known about FEniCSx0.8.md",
+    "Research/FEM Software/What is known about Elmer FEM.md",
+    "Research/FEM Software/Table of FEMs.md",
     "Elmer FEM.md"
   ]
 }
