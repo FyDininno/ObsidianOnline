@@ -1,3 +1,13 @@
+Simulations
+Animation
+Research
+Bachelor's Degree
+Master's Degree
+Electronics
+Manufacturing
+Community Service
+Extracurricular
+
 # Educational Background
 ## University of California San Diego
 1. Degree: Bachelors '26
