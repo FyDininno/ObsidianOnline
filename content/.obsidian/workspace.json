@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
-                "mode": "preview",
+                "file": "Personal Plan/Professional/Resume.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
+                "file": "Personal Plan/Professional/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
+                "file": "Personal Plan/Professional/Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md"
+                "file": "Personal Plan/Professional/Resume.md"
               }
             }
           }
@@ -156,7 +156,7 @@
     "Research/Topology/Sequences and Completeness.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
-    "Personal Plan/Professional/Frank Dininno's Resume.md",
+    "Personal Plan/Professional/Resume.md",
     "index.md",
     "Research/FEM Software/What is known about FEniCSx0.8.md",
     "Personal Plan/Routine/Visual Plan Image List.md",

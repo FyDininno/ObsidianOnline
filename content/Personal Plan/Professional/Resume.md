@@ -1,9 +1,8 @@
-# John Doe
+# Frank Dininno
 
-**Email:** john.doe@example.com  
-**Phone:** (123) 456-7890  
-**LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
-**GitHub:** [github.com/johndoe](https://github.com/johndoe)
+**Email:** fydininno@gmail.com
+**Phone:** +1(408) 966-0624
+**GitHub:** [github.com/FyDininno](https://github.com/FyDininno)
 
 ---
 
