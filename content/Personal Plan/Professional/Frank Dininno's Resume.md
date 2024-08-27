@@ -1,14 +1,16 @@
-# Previous Education
+# Educational Background
+## University of California San Diego
 
-# Classes Taken
 
-# Research Done
+# Course History
+
+# Research Involvement
 ## Professor Yeshaiahu Fainman's Laboratory (UCSD)
 # Personal Technical Projects
 ## One Time Pad PCB
 ## *Node Form* Blender Animation Plugin
 
-# Social Involvement\
+# Social  Orgs
 ## Eagle Scouts
-## Tae Kwang Do
+## United Academy of Martial Arts
 
