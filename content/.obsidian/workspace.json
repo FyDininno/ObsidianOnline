@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "dbd1147ea0197281",
+            "id": "d1db8c242a456f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/FEM Software/What is known about FEniCSx0.8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d212b1fcff62c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9c7f23e4f1147f19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/FEM Software/Table of FEMs.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -173,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c7f23e4f1147f19",
+  "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
-    "Research/FEM Software/What is known about FEniCSx0.8.md",
     "Research/FEM Software/What is known about Elmer FEM.md",
     "Research/FEM Software/Table of FEMs.md",
+    "Research/FEM Software/What is known about FEniCSx0.8.md",
     "Schedule/Professional/Portfolio.md",
     "Research/Topology/Metric Spaces.md",
     "Research/Topology/Sequences and Completeness.md",
