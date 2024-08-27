@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
+                "file": "Research/FEM Software/Table of FEMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
+                "file": "Research/FEM Software/Table of FEMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
+                "file": "Research/FEM Software/Table of FEMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Plan/Professional/Frank Dininno's Resume.md"
+                "file": "Research/FEM Software/Table of FEMs.md"
               }
             }
           }
@@ -149,32 +149,33 @@
   },
   "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
-    "Finance/Real Estate Spreadsheet.md",
-    "Personal Plan/Professional/Frank Dininno's Resume.md",
     "index.md",
-    "TestFiles/Gif.md",
     "TestFiles/Content/halloween-five-loops.gif",
+    "TestFiles/Gif.md",
+    "Research/Topology/Sequences and Completeness.md",
+    "Research/Topology/Metric Spaces.md",
+    "Research/FEM Software/What is known about FEniCSx0.8.md",
+    "Research/FEM Software/What is known about Elmer FEM.md",
+    "Research/FEM Software/Table of FEMs.md",
+    "Personal Plan/Routine/Visual Plan Image List.md",
+    "Personal Plan/Routine/Daily Plan.md",
+    "Personal Plan/Routine/Visual Plan - Fall 2024.canvas",
+    "Personal Plan/Routine/Images/Pasted image 20240826190459.png",
+    "Personal Plan/Professional/Frank Dininno's Resume.md",
+    "Finance/Real Estate Spreadsheet.md",
     "TestFiles/Content",
     "TestFiles",
-    "Personal Plan/Routine/Visual Plan Image List.md",
     "Finance",
-    "Research/FEM Software/Table of FEMs.md",
     "Test Files/Gif.md",
     "Test Files/Gif",
     "Pasted image 20240826163847.png",
     "Test Files",
-    "Personal Plan/Routine/Visual Plan.canvas",
     "Personal Plan/Professional",
     "Personal Plan/Routine",
-    "Personal Plan/Routine/Daily Plan.md",
     "Research",
     "Personal Plan/Routine/Images",
     "Personal Plan/Routine/Images/Pasted image 20240826162706.png",
-    "Research/Topology/Metric Spaces.md",
-    "Research/Topology/Sequences and Completeness.md",
     "Personal Plan",
-    "Research/FEM Software/What is known about FEniCSx0.8.md",
-    "Research/FEM Software/What is known about Elmer FEM.md",
     "Elmer FEM.md"
   ]
 }
