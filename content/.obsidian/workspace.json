@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Plan/Professional/Portfolio.md",
+                "file": "Research/FEM Software/Table of FEMs.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbd1147ea0197281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/FEM Software/What is known about Elmer FEM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c7f23e4f1147f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/FEM Software/Table of FEMs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Plan/Professional/Portfolio.md",
+                "file": "Research/FEM Software/Table of FEMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Plan/Professional/Portfolio.md",
+                "file": "Research/FEM Software/Table of FEMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Plan/Professional/Portfolio.md"
+                "file": "Research/FEM Software/Table of FEMs.md"
               }
             }
           }
@@ -148,21 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "228ec2d3e86023e0",
+  "active": "9c7f23e4f1147f19",
   "lastOpenFiles": [
-    "Research/FEM Software/Table of FEMs.md",
+    "Research/FEM Software/What is known about FEniCSx0.8.md",
     "Research/FEM Software/What is known about Elmer FEM.md",
+    "Research/FEM Software/Table of FEMs.md",
+    "Schedule/Professional/Portfolio.md",
     "Research/Topology/Metric Spaces.md",
     "Research/Topology/Sequences and Completeness.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
-    "Personal Plan/Professional/Portfolio.md",
     "index.md",
-    "Research/FEM Software/What is known about FEniCSx0.8.md",
-    "Personal Plan/Routine/Visual Plan Image List.md",
-    "Personal Plan/Routine/Daily Plan.md",
-    "Personal Plan/Routine/Visual Plan - Fall 2024.canvas",
-    "Personal Plan/Routine/Images/Pasted image 20240826190459.png",
+    "Schedule/Routine/Visual Plan Image List.md",
+    "Schedule/Routine/Daily Plan.md",
+    "Schedule/Routine/Visual Plan - Fall 2024.canvas",
+    "Schedule/Routine/Images/Pasted image 20240826190459.png",
     "Finance/Real Estate Spreadsheet.md",
     "TestFiles/Content",
     "TestFiles",
@@ -171,12 +196,12 @@
     "Test Files/Gif",
     "Pasted image 20240826163847.png",
     "Test Files",
-    "Personal Plan/Professional",
-    "Personal Plan/Routine",
+    "Schedule/Professional",
+    "Schedule/Routine",
     "Research",
-    "Personal Plan/Routine/Images",
-    "Personal Plan/Routine/Images/Pasted image 20240826162706.png",
-    "Personal Plan",
+    "Schedule/Routine/Images",
+    "Schedule/Routine/Images/Pasted image 20240826162706.png",
+    "Schedule",
     "Elmer FEM.md"
   ]
 }
