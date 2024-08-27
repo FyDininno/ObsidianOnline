@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Real Estate Spreadsheet.md",
+                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Real Estate Spreadsheet.md",
+                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/Real Estate Spreadsheet.md",
+                "file": "Personal Plan/Professional/Frank Dininno's Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/Real Estate Spreadsheet.md"
+                "file": "Personal Plan/Professional/Frank Dininno's Resume.md"
               }
             }
           }
@@ -150,12 +149,12 @@
   },
   "active": "228ec2d3e86023e0",
   "lastOpenFiles": [
+    "Finance/Real Estate Spreadsheet.md",
     "Personal Plan/Professional/Frank Dininno's Resume.md",
     "index.md",
     "TestFiles/Gif.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Content",
-    "Finance/Real Estate Spreadsheet.md",
     "TestFiles",
     "Personal Plan/Routine/Visual Plan Image List.md",
     "Finance",
