@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Topology/Sequences and Completeness.md",
+                "file": "Schedule/Professional/My Interactive Portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Topology/Sequences and Completeness.md",
+                "file": "Schedule/Professional/My Interactive Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Topology/Sequences and Completeness.md",
+                "file": "Schedule/Professional/My Interactive Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Topology/Sequences and Completeness.md"
+                "file": "Schedule/Professional/My Interactive Portfolio.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "b9bc306899b9cc4b",
   "lastOpenFiles": [
     "Research/Topology/Metric Spaces.md",
+    "Research/Topology/Sequences and Completeness.md",
     "School/Fall 2024/CHEM 41A",
     "School/Fall 2024/SYN 2",
     "School/Fall 2024/NANO 119",
@@ -160,8 +161,7 @@
     "Research/FEM Software/Table of FEMs.md",
     "Research/FEM Software/What is known about Elmer FEM.md",
     "Research/FEM Software/What is known about FEniCSx0.8.md",
-    "Schedule/Professional/Portfolio.md",
-    "Research/Topology/Sequences and Completeness.md",
+    "Schedule/Professional/My Interactive Portfolio.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
     "index.md",
