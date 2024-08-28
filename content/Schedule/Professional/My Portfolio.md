@@ -1,14 +1,22 @@
-**Contact Information**
-Name: Frank Dininno
-Phone: +1(408)966-0624
-Email: fydininno@gmail.com
+~
+
 
 <details> 
 <summary>Contact Information</summary> 
 <div style="font-size: 16px; font-weight: normal;"> 
+	<ul>
+		 <li><strong>Phone Number: </strong> 1 (408) 966-0624</li> 
+		 <li><strong>Email: </strong> fydininno@gmail.com</li> 
+	</ul> 
+ </div>
+</details>
+
+<details> 
+<summary>Example</summary> 
+<div style="font-size: 16px; font-weight: normal;"> 
 	<h3>This is a smaller and less bold heading</h3>
 	<ul>
-		 <li><strong>Phone Number: <strong> 1 (408) 966-0624</li> 
+		 <li><strong>Phone Number: </strong> 1 (408) 966-0624</li> 
 		 <li>List item 2</li>
 	</ul> 
 	You can also include 

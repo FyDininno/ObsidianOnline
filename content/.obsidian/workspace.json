@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule/Professional/Portfolio Frank Dininno.md",
-                "mode": "preview",
-                "source": false
+                "file": "Schedule/Professional/My Portfolio.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schedule/Professional/Portfolio Frank Dininno.md",
+                "file": "Schedule/Professional/My Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schedule/Professional/Portfolio Frank Dininno.md",
+                "file": "Schedule/Professional/My Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule/Professional/Portfolio Frank Dininno.md"
+                "file": "Schedule/Professional/My Portfolio.md"
               }
             }
           }
@@ -162,7 +162,7 @@
     "Research/FEM Software/Table of FEMs.md",
     "Research/FEM Software/What is known about Elmer FEM.md",
     "Research/FEM Software/What is known about FEniCSx0.8.md",
-    "Schedule/Professional/Portfolio Frank Dininno.md",
+    "Schedule/Professional/My Portfolio.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
     "index.md",
