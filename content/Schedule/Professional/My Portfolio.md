@@ -1,12 +1,14 @@
-~
-
+<blockquote>
+	<h3>Frank Dininno<h3>
+</blockquote>
 
 <details> 
 <summary>Contact Information</summary> 
 <div style="font-size: 16px; font-weight: normal;"> 
 	<ul>
-		 <li><strong>Phone Number: </strong> 1 (408) 966-0624</li> 
-		 <li><strong>Email: </strong> fydininno@gmail.com</li> 
+		 <li><i>Phone Number: </i> 1 (408) 966-0624</li> 
+		 <li><i>Email: </i> fydininno@gmail.com</li> 
+		 <li><i>Github: </i> </li> 
 	</ul> 
  </div>
 </details>
