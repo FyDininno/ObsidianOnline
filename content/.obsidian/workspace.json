@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2d65bcddf9dbe2",
+        "id": "5466ef92ee3ba0c6",
         "type": "tabs",
         "children": [
           {
-            "id": "228ec2d3e86023e0",
+            "id": "b9bc306899b9cc4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/FEM Software/Table of FEMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1db8c242a456f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/FEM Software/What is known about FEniCSx0.8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d212b1fcff62c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/FEM Software/Table of FEMs.md",
+                "file": "Research/Topology/Sequences and Completeness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/FEM Software/Table of FEMs.md",
+                "file": "Research/Topology/Sequences and Completeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/FEM Software/Table of FEMs.md",
+                "file": "Research/Topology/Sequences and Completeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/FEM Software/Table of FEMs.md"
+                "file": "Research/Topology/Sequences and Completeness.md"
               }
             }
           }
@@ -172,13 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d212b1fcff62c8a",
+  "active": "b9bc306899b9cc4b",
   "lastOpenFiles": [
+    "Research/Topology/Metric Spaces.md",
+    "School/Fall 2024/CHEM 41A",
+    "School/Fall 2024/SYN 2",
+    "School/Fall 2024/NANO 119",
+    "School/Fall 2024/NANO 110",
+    "School/Fall 2024/ECE 182",
+    "School/Fall 2024",
+    "School",
+    "Research/FEM Software/Table of FEMs.md",
     "Research/FEM Software/What is known about Elmer FEM.md",
     "Research/FEM Software/What is known about FEniCSx0.8.md",
-    "Research/FEM Software/Table of FEMs.md",
     "Schedule/Professional/Portfolio.md",
-    "Research/Topology/Metric Spaces.md",
     "Research/Topology/Sequences and Completeness.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
@@ -192,15 +174,8 @@
     "TestFiles",
     "Finance",
     "Test Files/Gif.md",
-    "Test Files/Gif",
     "Pasted image 20240826163847.png",
-    "Test Files",
-    "Schedule/Professional",
-    "Schedule/Routine",
-    "Research",
-    "Schedule/Routine/Images",
     "Schedule/Routine/Images/Pasted image 20240826162706.png",
-    "Schedule",
     "Elmer FEM.md"
   ]
 }
