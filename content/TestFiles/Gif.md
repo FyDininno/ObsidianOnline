@@ -1,1 +1,0 @@
-![[halloween-five-loops.gif]]

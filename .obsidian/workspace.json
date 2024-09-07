@@ -1,37 +1,19 @@
 {
   "main": {
-    "id": "22451d9d152eb26f",
+    "id": "ba859053f2c904c1",
     "type": "split",
     "children": [
       {
-        "id": "5466ef92ee3ba0c6",
+        "id": "0969fc320f359059",
         "type": "tabs",
         "children": [
           {
-            "id": "b9bc306899b9cc4b",
+            "id": "ea6ebb92123045dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Topology/Metric Spaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a734e47fc44afc75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ddc855b6396b2835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mathematics/Topology/Sequences and Completeness.md",
+                "file": "content/Research/FEM Software/Notes on What We Need.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "30b0151551e7d048",
+    "id": "5347319ff096b682",
     "type": "split",
     "children": [
       {
-        "id": "bf9467babeadd898",
+        "id": "a27dc5fcecfa3977",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca816a0edb5115c",
+            "id": "425cb9a67359bfc8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +43,7 @@
             }
           },
           {
-            "id": "7a54c264c810e0d2",
+            "id": "7794a32d6931acf7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +58,7 @@
             }
           },
           {
-            "id": "cf8bd8040fa911eb",
+            "id": "8bd503f1f43634d2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,48 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "16299901d7716f13",
+    "id": "3ff038c81a0ec005",
     "type": "split",
     "children": [
       {
-        "id": "8aaa42842115a639",
+        "id": "2b6733a1d762c64e",
         "type": "tabs",
         "children": [
           {
-            "id": "4edf7db0f105237f",
+            "id": "9b4d61b01fa7be3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Topology/Sequences and Completeness.md",
+                "file": "content/Research/FEM Software/Notes on What We Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4a9567bf5ed1b200",
+            "id": "bf9dcbd3a491dec4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Topology/Sequences and Completeness.md",
+                "file": "content/Research/FEM Software/Notes on What We Need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ed0edbf2c57598e1",
+            "id": "cfd85f7c057cfe17",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,17 +120,16 @@
             }
           },
           {
-            "id": "58b8e2d35076bbb4",
+            "id": "b91f6f4ae3309fa6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Topology/Sequences and Completeness.md"
+                "file": "content/Research/FEM Software/Notes on What We Need.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,41 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddc855b6396b2835",
+  "active": "ea6ebb92123045dd",
   "lastOpenFiles": [
-    "Notes/Mathematics/Topology/Metric Spaces.md",
-    "Notes/Mathematics/Topology/Sequences and Completeness.md",
-    "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
-    "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
-    "Notes/Mathematics/Calculus/The Algebraic Beginnings of Calculus.md",
-    "Personal/The Plan/Daily Plan.md",
-    "Personal/The Plan/Visual Plan - Fall 2024.canvas",
-    "Personal/The Plan/Visual Plan Image List.md",
-    "Personal/The Plan/Images/Pasted image 20240826162706.png",
-    "Personal/The Plan/Images/Pasted image 20240826190459.png",
-    "index.md",
-    "Notes/UCSD",
-    "Notes/Mathematics/Geometric Algebra",
-    "Notes",
-    "Personal",
-    "Notes/Mathematics",
-    "UCSD Notes",
-    "Research/FEM Software/Notes on What We Need.md",
-    "Research/Calculus/Untitled.md",
-    "Notes/Mathematics/Calculus",
-    "Research/FEM/What is known about Elmer FEM.md",
-    "Research/FEM/What is known about FEniCSx0.8.md",
-    "Research/FEM/Table of FEMs.md",
-    "green.md",
-    "Personal/Resume/Frank Dininno.md",
-    "School/Fall 2024/CHEM 41A",
-    "School/Fall 2024/SYN 2",
-    "School/Fall 2024/NANO 119",
-    "TestFiles/Content/halloween-five-loops.gif",
-    "TestFiles/Gif.md",
-    "Finance/Real Estate Spreadsheet.md",
-    "Test Files/Gif.md",
-    "Pasted image 20240826163847.png",
-    "Elmer FEM.md"
+    "CODE_OF_CONDUCT.md",
+    "content/Research/FEM Software/Notes on What We Need.md"
   ]
 }

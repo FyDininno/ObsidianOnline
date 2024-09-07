@@ -1,6 +1,3 @@
-<blockquote>
-	<h3>Frank Dininno<h3>
-</blockquote>
 
 <details> 
 <summary>Contact Information</summary> 
