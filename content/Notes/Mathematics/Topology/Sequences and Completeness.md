@@ -1,4 +1,4 @@
-### *Definition* 1| Cauchy Sequence
+### *Definition* 1| A Cauchy Sequence
 
 ### *Definition* 2| Completeneess
 
@@ -6,6 +6,6 @@
 
 ### *Definition* 4| Compactnedness
 
-### *Definition* 5| Space of Compact Sets
+### *Definition* 5| The Space of Compact Sets
 
-### *Definition* 6| Subspace Distance
+### *Definition* 6| The Distance Between Subspaces
