@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Geometric Algebra/Foundations of GA.md",
-                "mode": "source",
+                "file": "Notes/Mathematics/Topology.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Geometric Algebra/Foundations of GA.md",
+                "file": "Notes/Mathematics/Topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Geometric Algebra/Foundations of GA.md",
+                "file": "Notes/Mathematics/Topology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Geometric Algebra/Foundations of GA.md"
+                "file": "Notes/Mathematics/Topology.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "2f6de817bba40d15",
   "lastOpenFiles": [
-    "Notes/Mathematics/Geometric Algebra/Foundations of GA.md",
-    "Notes/Mathematics/Topology/Metric Spaces.md",
+    "Notes/Mathematics/Tensors.md",
+    "Notes/Mathematics/Topology.md",
+    "Notes/Mathematics/Geometric Algebra.md",
+    "Notes/Mathematics/Differential Equations.md",
+    "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
-    "Notes/Mathematics/Calculus/The Algebraic Beginnings of Calculus.md",
     "Personal/The Plan/Daily Plan.md",
     "Personal/The Plan/Visual Plan - Fall 2024.canvas",
     "Personal/The Plan/Visual Plan Image List.md",
