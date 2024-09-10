@@ -11,8 +11,12 @@
             "id": "030ff39f26cc7d98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Mathematics/Tensors.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Mathematics/Tensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Mathematics/Tensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Mathematics/Tensors.md"
+              }
             }
           }
         ],
@@ -141,6 +149,10 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
+    "Notes/Mathematics/Green's Functions.md",
+    "Notes/Mathematics/Geometric Algebra.md",
+    "Notes/Mathematics/Differential Equations.md",
+    "Notes/Mathematics/Calculus.md",
     "Research/FEM/Table of FEMs.md",
     "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/FEM/What is known about Elmer FEM.md",
@@ -148,14 +160,10 @@
     "Person/Portfolio.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Topology.md",
-    "Notes/Mathematics/Green's Functions.md",
-    "Notes/Mathematics/Differential Equations.md",
     "Research/ElmerFEM",
     "Person/Daily Plan/Outline.md",
     "Person/Daily Plan/Visual Plan Image List.md",
     "Person/Daily Plan/Visual Plan - Fall 2024.canvas",
-    "Notes/Mathematics/Geometric Algebra.md",
-    "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
