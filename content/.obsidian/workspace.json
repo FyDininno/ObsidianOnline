@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/FEM/Our Final Choice.md",
-                "mode": "source",
+                "file": "Person/Portfolio.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/FEM/Our Final Choice.md",
+                "file": "Person/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/FEM/Our Final Choice.md",
+                "file": "Person/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/FEM/Our Final Choice.md"
+                "file": "Person/Portfolio.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "2f6de817bba40d15",
   "lastOpenFiles": [
-    "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/FEM/Our Final Choice.md",
+    "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/ElmerFEM",
     "Research/FEM/What is known about Elmer FEM.md",
     "Research/FEM/Table of FEMs.md",
