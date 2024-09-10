@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Resume/Portfolio.md",
+                "file": "Research/FEM/Our Final Choice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Resume/Portfolio.md",
+                "file": "Research/FEM/Our Final Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Resume/Portfolio.md",
+                "file": "Research/FEM/Our Final Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Resume/Portfolio.md"
+                "file": "Research/FEM/Our Final Choice.md"
               }
             }
           }
@@ -150,6 +149,15 @@
   },
   "active": "2f6de817bba40d15",
   "lastOpenFiles": [
+    "Research/FEM/What is known about FEniCSx0.8.md",
+    "Research/FEM/Our Final Choice.md",
+    "Research/ElmerFEM",
+    "Research/FEM/What is known about Elmer FEM.md",
+    "Research/FEM/Table of FEMs.md",
+    "Person/Portfolio.md",
+    "Person/Daily Plan/Outline.md",
+    "Person/Daily Plan/Visual Plan Image List.md",
+    "Person/Daily Plan/Visual Plan - Fall 2024.canvas",
     "Notes/Mathematics/Topology.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Geometric Algebra.md",
@@ -158,29 +166,21 @@
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
-    "Personal/The Plan/Daily Plan.md",
-    "Personal/The Plan/Visual Plan - Fall 2024.canvas",
-    "Personal/The Plan/Visual Plan Image List.md",
-    "Personal/The Plan/Images/Pasted image 20240826162706.png",
-    "Personal/The Plan/Images/Pasted image 20240826190459.png",
+    "Person/Daily Plan/Images/Pasted image 20240826162706.png",
+    "Person/Daily Plan/Images/Pasted image 20240826190459.png",
     "index.md",
     "Notes/UCSD",
     "Notes/Mathematics/Geometric Algebra",
     "Notes",
-    "Personal",
+    "Person",
     "Notes/Mathematics",
     "UCSD Notes",
     "Research/FEM Software/Notes on What We Need.md",
     "Research/Calculus/Untitled.md",
     "Notes/Mathematics/Calculus",
-    "Research/FEM/What is known about Elmer FEM.md",
-    "Research/FEM/What is known about FEniCSx0.8.md",
-    "Research/FEM/Table of FEMs.md",
     "green.md",
-    "Personal/Resume/Portfolio.md",
     "School/Fall 2024/CHEM 41A",
     "School/Fall 2024/SYN 2",
-    "School/Fall 2024/NANO 119",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
     "Finance/Real Estate Spreadsheet.md",
