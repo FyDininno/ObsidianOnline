@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfba5fd3fa116756",
+        "id": "bb784d005645bb12",
         "type": "tabs",
         "children": [
           {
-            "id": "2f6de817bba40d15",
+            "id": "030ff39f26cc7d98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Person/Portfolio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Person/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Person/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Person/Portfolio.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,18 +139,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f6de817bba40d15",
+  "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
+    "Research/FEM/Table of FEMs.md",
+    "Research/FEM/What is known about FEniCSx0.8.md",
+    "Research/FEM/What is known about Elmer FEM.md",
+    "Research/FEM/Our Final Choice.md",
+    "Person/Portfolio.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Topology.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Differential Equations.md",
-    "Person/Portfolio.md",
-    "Research/FEM/Our Final Choice.md",
-    "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/ElmerFEM",
-    "Research/FEM/What is known about Elmer FEM.md",
-    "Research/FEM/Table of FEMs.md",
     "Person/Daily Plan/Outline.md",
     "Person/Daily Plan/Visual Plan Image List.md",
     "Person/Daily Plan/Visual Plan - Fall 2024.canvas",
