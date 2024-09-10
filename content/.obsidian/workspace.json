@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Person/Great Quotes.md",
+                "file": "Personhood/Great Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Person/Great Quotes.md",
+                "file": "Personhood/Great Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Person/Great Quotes.md",
+                "file": "Personhood/Great Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Person/Great Quotes.md"
+                "file": "Personhood/Great Quotes.md"
               }
             }
           }
@@ -150,7 +151,7 @@
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
     "index.md",
-    "Person/Great Quotes.md",
+    "Personhood/Great Quotes.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Geometric Algebra.md",
@@ -160,21 +161,21 @@
     "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/FEM/What is known about Elmer FEM.md",
     "Research/FEM/Our Final Choice.md",
-    "Person/Portfolio.md",
+    "Personhood/Portfolio.md",
     "Notes/Mathematics/Topology.md",
     "Research/ElmerFEM",
-    "Person/Daily Plan/Outline.md",
-    "Person/Daily Plan/Visual Plan Image List.md",
-    "Person/Daily Plan/Visual Plan - Fall 2024.canvas",
+    "Personhood/Daily Plan/Outline.md",
+    "Personhood/Daily Plan/Visual Plan Image List.md",
+    "Personhood/Daily Plan/Visual Plan - Fall 2024.canvas",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
-    "Person/Daily Plan/Images/Pasted image 20240826162706.png",
-    "Person/Daily Plan/Images/Pasted image 20240826190459.png",
+    "Personhood/Daily Plan/Images/Pasted image 20240826162706.png",
+    "Personhood/Daily Plan/Images/Pasted image 20240826190459.png",
     "Notes/UCSD",
     "Notes/Mathematics/Geometric Algebra",
     "Notes",
-    "Person",
+    "Personhood",
     "Notes/Mathematics",
     "UCSD Notes",
     "Research/FEM Software/Notes on What We Need.md",
