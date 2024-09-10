@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Green's Functions.md",
+                "file": "Person/Portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Green's Functions.md",
+                "file": "Person/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Green's Functions.md",
+                "file": "Person/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Green's Functions.md"
+                "file": "Person/Portfolio.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2f6de817bba40d15",
   "lastOpenFiles": [
-    "Notes/Mathematics/Differential Equations.md",
+    "Notes/Mathematics/Tensors.md",
+    "Notes/Mathematics/Topology.md",
     "Notes/Mathematics/Green's Functions.md",
+    "Notes/Mathematics/Differential Equations.md",
     "Person/Portfolio.md",
     "Research/FEM/Our Final Choice.md",
     "Research/FEM/What is known about FEniCSx0.8.md",
@@ -160,8 +162,6 @@
     "Person/Daily Plan/Outline.md",
     "Person/Daily Plan/Visual Plan Image List.md",
     "Person/Daily Plan/Visual Plan - Fall 2024.canvas",
-    "Notes/Mathematics/Topology.md",
-    "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Geometric Algebra.md",
     "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
