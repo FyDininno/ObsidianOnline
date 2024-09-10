@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Topology.md",
-                "mode": "preview",
+                "file": "Personal/Resume/Portfolio.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Topology.md",
+                "file": "Personal/Resume/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Topology.md",
+                "file": "Personal/Resume/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Topology.md"
+                "file": "Personal/Resume/Portfolio.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "2f6de817bba40d15",
   "lastOpenFiles": [
-    "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Topology.md",
+    "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Geometric Algebra.md",
     "Notes/Mathematics/Differential Equations.md",
     "Notes/Mathematics/Calculus.md",
@@ -176,7 +177,7 @@
     "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/FEM/Table of FEMs.md",
     "green.md",
-    "Personal/Resume/Frank Dininno.md",
+    "Personal/Resume/Portfolio.md",
     "School/Fall 2024/CHEM 41A",
     "School/Fall 2024/SYN 2",
     "School/Fall 2024/NANO 119",
