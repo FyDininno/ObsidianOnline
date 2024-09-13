@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb784d005645bb12",
+        "id": "2d2f67abbab42147",
         "type": "tabs",
         "children": [
           {
-            "id": "030ff39f26cc7d98",
+            "id": "971e570f3b749c5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personhood/Great Quotes.md",
+                "file": "Notes/Mathematics/Tensors.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personhood/Great Quotes.md",
+                "file": "Notes/Mathematics/Tensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personhood/Great Quotes.md",
+                "file": "Notes/Mathematics/Tensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personhood/Great Quotes.md"
+                "file": "Notes/Mathematics/Tensors.md"
               }
             }
           }
@@ -148,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "030ff39f26cc7d98",
+  "active": "971e570f3b749c5b",
   "lastOpenFiles": [
-    "index.md",
-    "Personhood/Great Quotes.md",
+    "Private/Daily Plan/Visual Plan Image List.md",
     "Notes/Mathematics/Tensors.md",
-    "Notes/Mathematics/Green's Functions.md",
+    "Private/Daily Plan/Visual Plan - Fall 2024.canvas",
+    "Private/Quotes.md",
+    "Private/Portfolio.md",
     "Notes/Mathematics/Geometric Algebra.md",
+    "Notes/Mathematics/Topology.md",
+    "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Differential Equations.md",
     "Notes/Mathematics/Calculus.md",
+    "index.md",
     "Research/FEM/Table of FEMs.md",
     "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/FEM/What is known about Elmer FEM.md",
     "Research/FEM/Our Final Choice.md",
-    "Personhood/Portfolio.md",
-    "Notes/Mathematics/Topology.md",
     "Research/ElmerFEM",
-    "Personhood/Daily Plan/Outline.md",
-    "Personhood/Daily Plan/Visual Plan Image List.md",
-    "Personhood/Daily Plan/Visual Plan - Fall 2024.canvas",
+    "Private/Daily Plan/Outline.md",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
-    "Personhood/Daily Plan/Images/Pasted image 20240826162706.png",
-    "Personhood/Daily Plan/Images/Pasted image 20240826190459.png",
+    "Private/Daily Plan/Images/Pasted image 20240826162706.png",
+    "Private/Daily Plan/Images/Pasted image 20240826190459.png",
     "Notes/UCSD",
     "Notes/Mathematics/Geometric Algebra",
     "Notes",
-    "Personhood",
+    "Private",
     "Notes/Mathematics",
     "UCSD Notes",
     "Research/FEM Software/Notes on What We Need.md",
