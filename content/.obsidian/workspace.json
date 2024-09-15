@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/Etc/Great Quotes.md",
+                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Etc/Great Quotes.md",
+                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Etc/Great Quotes.md",
+                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Etc/Great Quotes.md"
+                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Self/Professional/Portfolio.md",
     "Self/Etc/Great Quotes.md",
+    "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+    "Notes/Bonding",
+    "Self/Professional/Portfolio.md",
     "Self/Professional",
     "Self/Etc",
     "Self/Funny",
@@ -179,7 +181,6 @@
     "Notes",
     "Self",
     "Notes/Mathematics",
-    "UCSD Notes",
     "Research/FEM Software/Notes on What We Need.md",
     "Research/Calculus/Untitled.md",
     "green.md",
