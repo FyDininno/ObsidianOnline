@@ -1,0 +1,1 @@
+Knowing what was said about the [[Repulsion Within Atoms|limits of electrons]] existing within the atom, there is still some room for more

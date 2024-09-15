@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+                "file": "Notes/Bonding/Electron Affinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+                "file": "Notes/Bonding/Electron Affinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+                "file": "Notes/Bonding/Electron Affinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md"
+                "file": "Notes/Bonding/Electron Affinity.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Self/Etc/Great Quotes.md",
+    "Notes/Bonding/Repulsion Within Atoms.md",
+    "Notes/Bonding/Electron Affinity.md",
     "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+    "Self/Etc/Great Quotes.md",
     "Notes/Bonding",
     "Self/Professional/Portfolio.md",
     "Self/Professional",
@@ -187,8 +189,6 @@
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
     "Finance/Real Estate Spreadsheet.md",
-    "Test Files/Gif.md",
-    "Pasted image 20240826163847.png",
-    "Elmer FEM.md"
+    "Pasted image 20240826163847.png"
   ]
 }
