@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personhood/Great Quotes.md",
+                "file": "Self/Etc/Great Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personhood/Great Quotes.md",
+                "file": "Self/Etc/Great Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personhood/Great Quotes.md",
+                "file": "Self/Etc/Great Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personhood/Great Quotes.md"
+                "file": "Self/Etc/Great Quotes.md"
               }
             }
           }
@@ -150,40 +149,40 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
+    "Self/Professional/Portfolio.md",
+    "Self/Etc/Great Quotes.md",
+    "Self/Professional",
+    "Self/Etc",
+    "Self/Funny",
+    "Self/Schedule/Outline.md",
+    "Research/FEM/What is known about FEniCSx0.8.md",
+    "Self/Schedule/Visual Plan Image List.md",
+    "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "index.md",
-    "Personhood/Great Quotes.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Geometric Algebra.md",
     "Notes/Mathematics/Differential Equations.md",
     "Notes/Mathematics/Calculus.md",
     "Research/FEM/Table of FEMs.md",
-    "Research/FEM/What is known about FEniCSx0.8.md",
     "Research/FEM/What is known about Elmer FEM.md",
     "Research/FEM/Our Final Choice.md",
-    "Personhood/Portfolio.md",
     "Notes/Mathematics/Topology.md",
     "Research/ElmerFEM",
-    "Personhood/Daily Plan/Outline.md",
-    "Personhood/Daily Plan/Visual Plan Image List.md",
-    "Personhood/Daily Plan/Visual Plan - Fall 2024.canvas",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
-    "Personhood/Daily Plan/Images/Pasted image 20240826162706.png",
-    "Personhood/Daily Plan/Images/Pasted image 20240826190459.png",
+    "Self/Schedule/Images/Pasted image 20240826162706.png",
+    "Self/Schedule/Images/Pasted image 20240826190459.png",
     "Notes/UCSD",
     "Notes/Mathematics/Geometric Algebra",
     "Notes",
-    "Personhood",
+    "Self",
     "Notes/Mathematics",
     "UCSD Notes",
     "Research/FEM Software/Notes on What We Need.md",
     "Research/Calculus/Untitled.md",
-    "Notes/Mathematics/Calculus",
     "green.md",
-    "School/Fall 2024/CHEM 41A",
-    "School/Fall 2024/SYN 2",
     "TestFiles/Content/halloween-five-loops.gif",
     "TestFiles/Gif.md",
     "Finance/Real Estate Spreadsheet.md",

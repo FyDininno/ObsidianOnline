@@ -12,7 +12,6 @@ $\quad$I am a math enthusiast, but I am also curious about a variety of life's s
 	</ul> 
  </div>
 </details>
-
 $$
 $$
 #### Mathematics
