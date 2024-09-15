@@ -1,0 +1,1 @@
+$HC_{l}$ dissociates in water because $C_{l}$ has a much higher electron affinity than Hydrogen. This causes a large dipole moment, large enough that 
