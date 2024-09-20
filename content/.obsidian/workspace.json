@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bonding/Dissociation In Water.md",
+                "file": "Self/Great Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bonding/Dissociation In Water.md",
+                "file": "Self/Great Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Bonding/Dissociation In Water.md",
+                "file": "Self/Great Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Bonding/Dissociation In Water.md"
+                "file": "Self/Great Quotes.md"
               }
             }
           }
@@ -147,13 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "030ff39f26cc7d98",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
-    "Notes/Bonding/Electron Affinity.md",
-    "Notes/Bonding/Dissociation In Water.md",
-    "Notes/Bonding/Repulsion Within Atoms.md",
     "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
-    "Self/Etc/Great Quotes.md",
+    "Notes/Bonding/Dissociation In Water.md",
+    "Notes/Bonding/Electron Affinity.md",
+    "Notes/Bonding/Repulsion Within Atoms.md",
+    "Self/Great Quotes.md",
     "Notes/Bonding",
     "Self/Professional/Portfolio.md",
     "Self/Professional",
