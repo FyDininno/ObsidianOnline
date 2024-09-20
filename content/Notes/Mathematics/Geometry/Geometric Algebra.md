@@ -34,3 +34,4 @@ Just a note, the grade selection operator is one of the most important operators
 Also, what I have said "assumed properties of the vectors" may seem conflicting with why I said geometric algebra is important, but there is a big distinction between the assumptions of linear algebra and geometric algebra. Linear algebra forces one to use a basis and a dot product if they want to have it be physically viable. Geometric algebra does not force the user to assume anything other than the geometric product. All the rest of the assumptions are made by the user. It is super customizable. 
 
 # Higher Dimensional Vectors
+

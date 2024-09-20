@@ -1,0 +1,3 @@
+Elmer FEM is the most user friendly and capable finite element software out there which is free to use and totally non-proprietary. It functions differently from other open source FEMs like FEniCSx and deal.II by having all of the solvers pre-programmed for the user, thereby eliminating mathematical derivations and the need to program solvers. However, the mathematics of solving PDEs should still be known in order to specify the right boundary or initial conditions for the system.
+
+Finite element methods 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/Great Quotes.md",
+                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Great Quotes.md",
+                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Great Quotes.md",
+                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Great Quotes.md"
+                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md"
               }
             }
           }
@@ -148,48 +148,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Notes/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
-    "Notes/Bonding/Dissociation In Water.md",
-    "Notes/Bonding/Electron Affinity.md",
-    "Notes/Bonding/Repulsion Within Atoms.md",
+    "Notes/Physics/Multivector Electrodynamics.md",
+    "Research/FEM/Notes on Using Elmer/Tutorial.md",
+    "Research/FEM/Notes on Using Elmer",
+    "Notes/Mathematics/Calculus/Multivector Calculus.md",
+    "Notes/Physics",
+    "Notes/Mathematics/Geometry/Geometric Algebra.md",
+    "Notes/Mathematics/Geometry",
+    "Notes/Mathematics/Calculus/Foundations.md",
+    "Notes/Chemistry/Chemical Synthesis",
     "Self/Great Quotes.md",
-    "Notes/Bonding",
+    "Notes/Mathematics/Calculus",
+    "Notes/Chemistry",
+    "Notes/Mathematics/Multivector Calculus",
+    "Notes/Chemistry/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+    "Notes/Chemistry/Bonding/Dissociation In Water.md",
+    "Notes/Chemistry/Bonding/Electron Affinity.md",
+    "Notes/Chemistry/Bonding/Repulsion Within Atoms.md",
+    "Notes/Chemistry/Bonding",
     "Self/Professional/Portfolio.md",
     "Self/Professional",
     "Self/Etc",
-    "Self/Funny",
     "Self/Schedule/Outline.md",
     "Research/FEM/What is known about FEniCSx0.8.md",
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "index.md",
-    "Notes/Mathematics/Tensors.md",
-    "Notes/Mathematics/Green's Functions.md",
-    "Notes/Mathematics/Geometric Algebra.md",
-    "Notes/Mathematics/Differential Equations.md",
-    "Notes/Mathematics/Calculus.md",
+    "Notes/Mathematics/Geometry/Tensors.md",
+    "Notes/Mathematics/Calculus/Green's Functions.md",
+    "Notes/Mathematics/Calculus/Differential Equations.md",
     "Research/FEM/Table of FEMs.md",
     "Research/FEM/What is known about Elmer FEM.md",
     "Research/FEM/Our Final Choice.md",
-    "Notes/Mathematics/Topology.md",
-    "Research/ElmerFEM",
+    "Notes/Mathematics/Geometry/Topology.md",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
-    "Notes/UCSD",
-    "Notes/Mathematics/Geometric Algebra",
-    "Notes",
-    "Self",
-    "Notes/Mathematics",
     "Research/FEM Software/Notes on What We Need.md",
-    "Research/Calculus/Untitled.md",
-    "green.md",
     "TestFiles/Content/halloween-five-loops.gif",
-    "TestFiles/Gif.md",
     "Pasted image 20240826163847.png"
   ]
 }
