@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Language/Chinese/GPT Conversations.md",
+                "file": "Notes/Language/Russian/Basic Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Language/Chinese/GPT Conversations.md",
+                "file": "Notes/Language/Russian/Basic Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Language/Chinese/GPT Conversations.md",
+                "file": "Notes/Language/Russian/Basic Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Language/Chinese/GPT Conversations.md"
+                "file": "Notes/Language/Russian/Basic Rules.md"
               }
             }
           }
@@ -149,8 +150,12 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Notes/Language/Chinese/Questions.md",
+    "Notes/Mathematics/Geometry/Topology.md",
+    "Notes/Language/Russian/Basic Rules.md",
+    "Notes/Mathematics/Calculus/Green's Functions.md",
+    "Notes/Mathematics/Geometry/Tensors.md",
     "Notes/Language/Chinese/GPT Conversations.md",
+    "Notes/Language/Chinese/Questions.md",
     "Notes/Language/Chinese/Food.md",
     "Notes/Language/Chinese/Food",
     "Notes/Chemistry/Bonding/Acidity.md",
@@ -180,12 +185,8 @@
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "index.md",
-    "Notes/Mathematics/Geometry/Tensors.md",
-    "Notes/Mathematics/Calculus/Green's Functions.md",
     "Notes/Mathematics/Calculus/Differential Equations.md",
     "Research/FEM/Table of FEMs.md",
-    "Research/FEM/What is known about Elmer FEM.md",
-    "Research/FEM/Our Final Choice.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
