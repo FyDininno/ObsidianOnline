@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Acidity.md",
+                "file": "Notes/Language/Chinese/Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Acidity.md",
+                "file": "Notes/Language/Chinese/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Acidity.md",
+                "file": "Notes/Language/Chinese/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Acidity.md"
+                "file": "Notes/Language/Chinese/Questions.md"
               }
             }
           }
@@ -150,8 +150,15 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Notes/Chemistry/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
+    "Notes/Language/Chinese/Food.md",
+    "Notes/Language/Chinese/Questions.md",
+    "Notes/Language/Chinese/Food",
     "Notes/Chemistry/Bonding/Acidity.md",
+    "Notes/Language/Spanish",
+    "Notes/Language/Russian",
+    "Notes/Language/Chinese",
+    "Notes/Language",
+    "Notes/Chemistry/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/FEM/Notes on Using Elmer/Tutorial.md",
     "Notes/Physics/Quantum Mechanics.md",
@@ -163,15 +170,10 @@
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Notes/Mathematics/Geometry",
     "Notes/Mathematics/Calculus/Foundations.md",
-    "Notes/Chemistry/Chemical Synthesis",
     "Self/Great Quotes.md",
-    "Notes/Mathematics/Calculus",
-    "Notes/Chemistry",
-    "Notes/Mathematics/Multivector Calculus",
     "Notes/Chemistry/Bonding/Dissociation In Water.md",
     "Notes/Chemistry/Bonding/Electron Affinity.md",
     "Notes/Chemistry/Bonding/Repulsion Within Atoms.md",
-    "Notes/Chemistry/Bonding",
     "Self/Professional/Portfolio.md",
     "Self/Schedule/Outline.md",
     "Research/FEM/What is known about FEniCSx0.8.md",
@@ -185,8 +187,6 @@
     "Research/FEM/What is known about Elmer FEM.md",
     "Research/FEM/Our Final Choice.md",
     "Notes/Mathematics/Geometry/Topology.md",
-    "Notes/Mathematics/Topology/Sequences and Completeness.md",
-    "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",

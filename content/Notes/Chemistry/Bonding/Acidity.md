@@ -1,2 +1,2 @@
 # $pK_a$
-$pK_a$ can be thought of as "negative power" of acidity. For example, 
+$pK_a$ can be thought of as "negative power" of acidity. For example, a $pK_a$ of 5 means that the ratio of reacted acid (the conjugate base and the H ion pair) to the unreacted acid is $10^{-5}$. However, a negative ratio means that the reacted acid is in greater proportion than the unreacted acid. A $pK_a$ of 0 means that the reacted and unreacted species exist in equal amounts. 
