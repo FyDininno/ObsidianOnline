@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/FEM/Notes on Using Elmer/Tutorial.md"
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
               }
             }
           }
@@ -149,8 +150,11 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Notes/Physics/Multivector Electrodynamics.md",
     "Research/FEM/Notes on Using Elmer/Tutorial.md",
+    "Notes/Physics/Quantum Mechanics.md",
+    "Notes/Physics/Quantum Mechanics",
+    "Notes/Physics/Electrodynamics",
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/FEM/Notes on Using Elmer",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Physics",
@@ -168,8 +172,6 @@
     "Notes/Chemistry/Bonding/Repulsion Within Atoms.md",
     "Notes/Chemistry/Bonding",
     "Self/Professional/Portfolio.md",
-    "Self/Professional",
-    "Self/Etc",
     "Self/Schedule/Outline.md",
     "Research/FEM/What is known about FEniCSx0.8.md",
     "Self/Schedule/Visual Plan Image List.md",
@@ -184,10 +186,8 @@
     "Notes/Mathematics/Geometry/Topology.md",
     "Notes/Mathematics/Topology/Sequences and Completeness.md",
     "Notes/Mathematics/Calculus/The Taylor Series Derivation of The Integral.md",
-    "Notes/Mathematics/Calculus/The Reciprocal Frame of The Gradient.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
-    "Research/FEM Software/Notes on What We Need.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]
