@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -150,8 +149,10 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Notes/Mathematics/Geometry/Topology.md",
+    "Notes/Sketches/Untitled.md",
     "Notes/Language/Russian/Basic Rules.md",
+    "Notes/Sketches",
+    "Notes/Mathematics/Geometry/Topology.md",
     "Notes/Mathematics/Calculus/Green's Functions.md",
     "Notes/Mathematics/Geometry/Tensors.md",
     "Notes/Language/Chinese/GPT Conversations.md",
@@ -173,7 +174,6 @@
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Physics",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
-    "Notes/Mathematics/Geometry",
     "Notes/Mathematics/Calculus/Foundations.md",
     "Self/Great Quotes.md",
     "Notes/Chemistry/Bonding/Dissociation In Water.md",
@@ -186,7 +186,6 @@
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "index.md",
     "Notes/Mathematics/Calculus/Differential Equations.md",
-    "Research/FEM/Table of FEMs.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
