@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Self/Schedule/Visual Plan Image List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Self/Schedule/Visual Plan Image List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Self/Schedule/Visual Plan Image List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Self/Schedule/Visual Plan Image List.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
+    "Pasted image 20240926141052.png",
+    "Self/Schedule/Visual Plan - Fall 2024.canvas",
+    "Self/Schedule/Visual Plan Image List.md",
+    "Pasted image 20240926141008.png",
+    "Self/Schedule/Outline.md",
+    "Research/Classes/ECE 182/Intro.md",
+    "index.md",
+    "Research/Classes/ECE 182",
     "Notes/Language/Russian/Basic Rules.md",
     "Research/Classes",
     "Notes/Sketches/Untitled.md",
@@ -171,7 +179,6 @@
     "Notes/Physics/Quantum Mechanics.md",
     "Notes/Physics/Quantum Mechanics",
     "Notes/Physics/Electrodynamics",
-    "Research/FEM/Notes on Using Elmer",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Notes/Mathematics/Calculus/Foundations.md",
@@ -180,11 +187,6 @@
     "Notes/Chemistry/Bonding/Electron Affinity.md",
     "Notes/Chemistry/Bonding/Repulsion Within Atoms.md",
     "Self/Professional/Portfolio.md",
-    "Self/Schedule/Outline.md",
-    "Research/FEM/What is known about FEniCSx0.8.md",
-    "Self/Schedule/Visual Plan Image List.md",
-    "Self/Schedule/Visual Plan - Fall 2024.canvas",
-    "index.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
