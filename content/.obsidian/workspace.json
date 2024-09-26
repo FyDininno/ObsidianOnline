@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Language/Russian/Basic Rules.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Language/Russian/Basic Rules.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Language/Russian/Basic Rules.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Language/Russian/Basic Rules.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "030ff39f26cc7d98",
   "lastOpenFiles": [
-    "Notes/Sketches/Untitled.md",
     "Notes/Language/Russian/Basic Rules.md",
+    "Research/Classes",
+    "Notes/Sketches/Untitled.md",
     "Notes/Sketches",
     "Notes/Mathematics/Geometry/Topology.md",
     "Notes/Mathematics/Calculus/Green's Functions.md",
@@ -172,7 +173,6 @@
     "Notes/Physics/Electrodynamics",
     "Research/FEM/Notes on Using Elmer",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
-    "Notes/Physics",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Notes/Mathematics/Calculus/Foundations.md",
     "Self/Great Quotes.md",
@@ -185,7 +185,6 @@
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "index.md",
-    "Notes/Mathematics/Calculus/Differential Equations.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
