@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb784d005645bb12",
+        "id": "92715d385d9e0184",
         "type": "tabs",
         "children": [
           {
-            "id": "030ff39f26cc7d98",
+            "id": "614958e147f5c54c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md",
+                "file": "Research/Classes/ECE 182/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md",
+                "file": "Research/Classes/ECE 182/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md",
+                "file": "Research/Classes/ECE 182/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md"
+                "file": "Research/Classes/ECE 182/Intro.md"
               }
             }
           }
@@ -147,11 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "030ff39f26cc7d98",
+  "active": "614958e147f5c54c",
   "lastOpenFiles": [
+    "Self/Schedule/Visual Plan Image List.md",
     "Pasted image 20240926141052.png",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
-    "Self/Schedule/Visual Plan Image List.md",
     "Pasted image 20240926141008.png",
     "Self/Schedule/Outline.md",
     "Research/Classes/ECE 182/Intro.md",
