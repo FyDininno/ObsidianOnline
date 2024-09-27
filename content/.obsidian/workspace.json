@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Classes/ECE 182/Untitled.md",
+                "file": "Research/Classes/ECE 182/The Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Classes/ECE 182/Untitled.md",
+                "file": "Research/Classes/ECE 182/The Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Classes/ECE 182/Untitled.md",
+                "file": "Research/Classes/ECE 182/The Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Classes/ECE 182/Untitled.md"
+                "file": "Research/Classes/ECE 182/The Start.md"
               }
             }
           }
@@ -150,7 +151,7 @@
   "active": "6a7435c85920c3d1",
   "lastOpenFiles": [
     "Research/Classes/ECE 182/Intro.md",
-    "Research/Classes/ECE 182/Untitled.md",
+    "Research/Classes/ECE 182/The Start.md",
     "Research/Classes/CHEM 41A/Intro.md",
     "Research/Classes/CHEM 41A",
     "Self/Schedule/Visual Plan Image List.md",
