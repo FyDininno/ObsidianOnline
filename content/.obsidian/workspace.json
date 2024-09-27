@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Classes/ECE 182/The Start.md",
+                "file": "Research/Classes/NANO 110/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Classes/ECE 182/The Start.md",
+                "file": "Research/Classes/NANO 110/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Classes/ECE 182/The Start.md",
+                "file": "Research/Classes/NANO 110/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Classes/ECE 182/The Start.md"
+                "file": "Research/Classes/NANO 110/Intro.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "6a7435c85920c3d1",
   "lastOpenFiles": [
-    "Research/Classes/ECE 182/Intro.md",
     "Research/Classes/ECE 182/The Start.md",
+    "Research/Classes/NANO 110/Intro.md",
+    "Research/Classes/NANO 110",
+    "Research/Classes/ECE 182/Intro.md",
     "Research/Classes/CHEM 41A/Intro.md",
     "Research/Classes/CHEM 41A",
     "Self/Schedule/Visual Plan Image List.md",
@@ -181,14 +183,12 @@
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/FEM/Notes on Using Elmer/Tutorial.md",
     "Notes/Physics/Quantum Mechanics.md",
-    "Notes/Physics/Quantum Mechanics",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Notes/Mathematics/Calculus/Foundations.md",
     "Self/Great Quotes.md",
     "Notes/Chemistry/Bonding/Dissociation In Water.md",
     "Notes/Chemistry/Bonding/Electron Affinity.md",
-    "Notes/Chemistry/Bonding/Repulsion Within Atoms.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
