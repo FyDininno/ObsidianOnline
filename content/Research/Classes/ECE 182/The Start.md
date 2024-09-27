@@ -6,3 +6,6 @@ $\nabla \cdot \mathcal{E}=0$
 $\nabla \cdot \mathcal{H}=0$
 
 Here, $\mathcal{E}$ represents the electric field, $\mathcal{H}$ represents the magnetic field, $\mathcal{D}$ represents the electric flux density, and $\mathcal{B}$ represents the magnetic flux density.
+
+The last two equations say that the electric and magnetic currents are zero. In other words, we are not concerned with the creation of radiation. The first two equations are coupled to create a wave equations.
+
