@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Schedule/Visual Plan Image List.md"
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "e9e2cc1574ae7f7a",
   "lastOpenFiles": [
-    "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Visual Plan Image List.md",
+    "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Great Quotes.md",
     "Research/Classes/NANO 110/Intro.md",
     "Research/Classes/ECE 182/The Start.md",
