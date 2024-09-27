@@ -16,3 +16,5 @@ DFT works best at the nano-scale. You must know the position of the atoms and th
 ssh frankdininno@expanse.sdsc.edu
 - the form goes username@domainname
 - you will need to be registered with them first or the connection will be refused
+
+The software that will be used is called Quantum Espresso. It appears to be free for anyone who registers with them.
