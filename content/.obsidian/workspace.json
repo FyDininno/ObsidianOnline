@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92715d385d9e0184",
+        "id": "b0754b4048241950",
         "type": "tabs",
         "children": [
           {
-            "id": "614958e147f5c54c",
+            "id": "6a7435c85920c3d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Classes/CHEM 41A/Intro.md",
+                "file": "Research/Classes/ECE 182/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Classes/CHEM 41A/Intro.md",
+                "file": "Research/Classes/ECE 182/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Classes/CHEM 41A/Intro.md",
+                "file": "Research/Classes/ECE 182/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Classes/CHEM 41A/Intro.md"
+                "file": "Research/Classes/ECE 182/Untitled.md"
               }
             }
           }
@@ -148,9 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "614958e147f5c54c",
+  "active": "6a7435c85920c3d1",
   "lastOpenFiles": [
     "Research/Classes/ECE 182/Intro.md",
+    "Research/Classes/ECE 182/Untitled.md",
     "Research/Classes/CHEM 41A/Intro.md",
     "Research/Classes/CHEM 41A",
     "Self/Schedule/Visual Plan Image List.md",
@@ -188,7 +188,6 @@
     "Notes/Chemistry/Bonding/Dissociation In Water.md",
     "Notes/Chemistry/Bonding/Electron Affinity.md",
     "Notes/Chemistry/Bonding/Repulsion Within Atoms.md",
-    "Self/Professional/Portfolio.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
