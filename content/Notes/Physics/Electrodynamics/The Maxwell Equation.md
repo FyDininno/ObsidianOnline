@@ -23,4 +23,5 @@ $p_{m} \left[ \frac{W}{m^3} \right]$
 
 represent Coloumbs per meter cubed and Webers per meter cubed.
 
-And finaly
+And finally we have
+
