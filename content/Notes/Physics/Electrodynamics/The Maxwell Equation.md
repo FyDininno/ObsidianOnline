@@ -38,6 +38,10 @@ $(\nabla +\frac{1}{c} \partial_{t})(E+\eta H^*)=\eta (\rho - J) + (c\rho_{m} - M
 
 Here, $c$ represents the group velocity of the media and $\eta$ represents the impedance of the media. The impedance of the represents how fast a charge will move through a medium. The group velocity represents how fast the wave will travel through the medium or free space.
 
-$\eta = \sqrt{ \frac{\mu}{\epsilon} }$
-$c = \frac{1}{\sqrt{ \mu \epsilon }}$
+$\eta = \sqrt{ \frac{\mu}{\epsilon} } \left[ \Omega = \frac{V}{A} \right]$
+$c = \frac{1}{\sqrt{ \mu \epsilon }} \left[ \frac{m}{s} \right]$
 
+$\epsilon = \epsilon_{r}\epsilon_{0}$
+$\mu = \mu_{r}\mu_{0}$
+
+Epsilon, the permittivity of the medium, is a constant that relates charge present and the flux that the charge creates. Mu, the permeability of the medium, 
