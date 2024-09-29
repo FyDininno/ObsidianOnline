@@ -53,6 +53,12 @@ $J = \eta (\rho - \mathcal{J}) + (c\rho_{m} - \mathcal{M})^*$
 
 These two variables represent the fields and current densities respectively. The Maxwell Equation says that the gradient of the field profile and the movement of the field itself is the current profile. Remember that the gradient of a scalar function produces a vector. The gradient of any field produces two elements of grade higher and lower than the field being acted on.
 
+$(\nabla +\frac{1}{c} \partial_{t})F=J$
+
 Notice that the gradient of the fields determines the currents, and that the time derivative of the field equals the currents. This means the field acts on itself to travel in the right conditions. This gives rise to the wave equation in free space when the entire right hand side is zero (see Geometric Algebra for Electrical Engineers, Equation 3.17 and Theorem 3.3, by Peeter Joot).
 
-When the right hand side is not zero, we can rewrite the equation
+When the right hand side is not zero, we can rewrite the equation as
+
+$\partial_{t}F=c*(J -\nabla F)$
+
+which can be interpreted as saying the time evolution of the field is dependent on its gradient and the currents of the system. Essentially, if the currents are moving in opposition to the gradient of the field, then the temporal change is stationary, zero.
