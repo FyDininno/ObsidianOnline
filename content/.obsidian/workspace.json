@@ -11,8 +11,12 @@
             "id": "cf418ffcaf6ec3ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Self/Professional/Portfolio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Self/Professional/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Self/Professional/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Self/Professional/Portfolio.md"
+              }
             }
           }
         ],
@@ -139,30 +148,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "cf418ffcaf6ec3ff",
   "lastOpenFiles": [
-    "Research/FEM Assignment, Fainman's Lab/Notes on Using Elmer/Inadequacies.md",
-    "Research/FEM Assignment, Fainman's Lab/Notes on Using deal.ii",
-    "Research/FEM Assignment, Fainman's Lab/Notes on Using Elmer/Tutorial.md",
-    "Research/FEM Assignment, Fainman's Lab/Scoping/Our Final Choice.md",
-    "Research/Classes/NANO 110/Intro.md",
-    "Research/FEM Assignment, Fainman's Lab/Scoping",
+    "Research/Fainman's Lab/Notes on Using Elmer/Inadequacies.md",
+    "Research/Fainman's Lab/Notes on Using deal.ii",
+    "Research/Fainman's Lab/Notes on Using Elmer/Tutorial.md",
+    "Research/Fainman's Lab/Scoping/Our Final Choice.md",
+    "Research/UCSD Classes/NANO 110/Intro.md",
+    "Research/Fainman's Lab/Scoping",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Great Quotes.md",
-    "Research/Classes/ECE 182/The Start.md",
-    "Research/Classes/NANO 110",
-    "Research/Classes/ECE 182/Intro.md",
-    "Research/Classes/CHEM 41A/Intro.md",
-    "Research/Classes/CHEM 41A",
+    "Research/UCSD Classes/ECE 182/The Start.md",
+    "Research/UCSD Classes/NANO 110",
+    "Research/UCSD Classes/ECE 182/Intro.md",
+    "Research/UCSD Classes/CHEM 41A/Intro.md",
+    "Research/UCSD Classes/CHEM 41A",
     "Pasted image 20240926141052.png",
     "Pasted image 20240926141008.png",
     "Self/Schedule/Outline.md",
     "index.md",
-    "Research/Classes/ECE 182",
+    "Research/UCSD Classes/ECE 182",
     "Notes/Language/Russian/Basic Rules.md",
-    "Research/Classes",
+    "Research/UCSD Classes",
     "Notes/Sketches/Untitled.md",
     "Notes/Sketches",
     "Notes/Mathematics/Geometry/Topology.md",
