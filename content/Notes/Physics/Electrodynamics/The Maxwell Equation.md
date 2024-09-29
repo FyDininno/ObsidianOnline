@@ -45,3 +45,6 @@ $\epsilon = \epsilon_{r}\epsilon_{0} \left[ \frac{F}{m} \right]$
 $\mu = \mu_{r}\mu_{0} \left[ \frac{H}{m} \right]$
 
 Epsilon, the permittivity of the medium, is a constant that relates charge present and the flux that the charge creates. Mu, the permeability of the medium, is a constant relating the magnetization present and the charge it creates in the material.
+
+On the left and right hand sides, our variables are:
+$\mathcal$
