@@ -34,7 +34,7 @@ Whatever interpretation you must give to these to make sense at the moment, they
 
 ## The Maxwell Equation
 
-$(\nabla +\frac{1}{c} \partial_{t})(E+\eta H^*)=\eta (\rho - J) + (c\rho_{m} - M)^*$
+$(\nabla +\frac{1}{c} \partial_{t})(\mathcal{E}+\eta \mathcal{H}^*)=\eta (\rho - \mathcal{J}) + (c\rho_{m} - \mathcal{M})^*$
 
 Here, $c$ represents the group velocity of the media and $\eta$ represents the impedance of the media. The impedance of the represents how fast a charge will move through a medium. The group velocity represents how fast the wave will travel through the medium or free space.
 
