@@ -25,3 +25,5 @@ represent Coloumbs per meter cubed and Webers per meter cubed.
 
 And finally we have
 
+$J \left[ \frac{A}{m^2} \right]$
+$M \left[ \frac{V}{m^2} \right]$
