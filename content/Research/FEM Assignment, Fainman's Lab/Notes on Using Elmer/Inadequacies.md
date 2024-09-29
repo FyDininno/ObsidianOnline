@@ -1,0 +1,3 @@
+There is a problem with Elmer, in that we have to learn how to code modules which lack features like solving for eigenmodes. The only issue is that the documentation for Elmer is very much sparse for anything concerning the coding of one's own modules.
+
+It makes much more sense to code the modules in FEniCSx and allow the users to pass in arguments to the modules there because the documentation is so much better. 

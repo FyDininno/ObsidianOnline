@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e4ad7ba05dc5b1",
+        "id": "90b99329e0d9234f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9e2cc1574ae7f7a",
+            "id": "cf418ffcaf6ec3ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,13 +139,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9e2cc1574ae7f7a",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
+    "Research/FEM Assignment, Fainman's Lab/Notes on Using Elmer/Inadequacies.md",
+    "Research/FEM Assignment, Fainman's Lab/Notes on Using deal.ii",
+    "Research/FEM Assignment, Fainman's Lab/Notes on Using Elmer/Tutorial.md",
+    "Research/FEM Assignment, Fainman's Lab/Scoping/Our Final Choice.md",
+    "Research/Classes/NANO 110/Intro.md",
+    "Research/FEM Assignment, Fainman's Lab/Scoping",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Great Quotes.md",
-    "Research/Classes/NANO 110/Intro.md",
     "Research/Classes/ECE 182/The Start.md",
     "Research/Classes/NANO 110",
     "Research/Classes/ECE 182/Intro.md",
@@ -179,15 +175,10 @@
     "Notes/Chemistry/Bonding/Acidity.md",
     "Notes/Language/Spanish",
     "Notes/Language/Russian",
-    "Notes/Language/Chinese",
-    "Notes/Language",
     "Notes/Chemistry/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
-    "Research/FEM/Notes on Using Elmer/Tutorial.md",
     "Notes/Physics/Quantum Mechanics.md",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
-    "Notes/Mathematics/Calculus/Foundations.md",
-    "Notes/Chemistry/Bonding/Dissociation In Water.md",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",

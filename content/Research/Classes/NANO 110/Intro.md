@@ -9,11 +9,11 @@ Furthermore, **ceramics**:
 - $CaTiO_{3}$
 - $PbTiO_{3}$
 
-DFT works best at the nano-scale. You must know the position of the atoms and then put their positions into a position matrix.
+DFT works best at the nano-scale. You must know the positions of the atoms and then put their positions into a position matrix.
 
 
 # SSH
-ssh frankdininno@expanse.sdsc.edu
+ssh fdininno@expanse.sdsc.edu
 - the form goes username@domainname
 - you will need to be registered with them first or the connection will be refused
 
