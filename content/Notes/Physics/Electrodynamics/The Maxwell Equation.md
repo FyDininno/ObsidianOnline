@@ -33,4 +33,11 @@ The current density represents the change in electrons per unit time through a c
 Whatever interpretation you must give to these to make sense at the moment, they must be considered foremost within the solution to the Maxwell Equation in their interpretations.
 
 ## The Maxwell Equation
-$(\nabla +\frac{1}{c} \partial_{t})(E+iH^*)$
+
+$(\nabla +\frac{1}{c} \partial_{t})(E+\eta H^*)=\eta (\rho - J) + (c\rho_{m} - M)^*$
+
+Here, $c$ represents the group velocity of the media and $\eta$ represents the impedance of the media. The impedance of the represents how fast a charge will move through a medium. The group velocity represents how fast the wave will travel through the medium or free space.
+
+$\eta = \sqrt{ \frac{\mu}{\epsilon} }$
+$c = \frac{1}{\sqrt{ \mu \epsilon }}$
+
