@@ -36,6 +36,8 @@ Whatever interpretation you must give to these to make sense at the moment, they
 
 $(\nabla +\frac{1}{c} \partial_{t})(\mathcal{E}+\eta \mathcal{H}^*)=\eta (\rho - \mathcal{J}) + (c\rho_{m} - \mathcal{M})^*$
 
+$(\nabla +\frac{1}{c} \partial_{t})F=J$
+
 Here, $c$ represents the group velocity of the media and $\eta$ represents the impedance of the media. The impedance of the represents how fast a charge will move through a medium. The group velocity represents how fast the wave will travel through the medium or free space.
 
 $\eta = \sqrt{ \frac{\mu}{\epsilon} } \left[ \Omega = \frac{V}{A} \right]$
@@ -53,8 +55,6 @@ $J = \eta (\rho - \mathcal{J}) + (c\rho_{m} - \mathcal{M})^*$
 
 These two variables represent the fields and current densities respectively. The Maxwell Equation says that the gradient of the field profile and the movement of the field itself is the current profile. Remember that the gradient of a scalar function produces a vector. The gradient of any field produces two elements of grade higher and lower than the field being acted on.
 
-$(\nabla +\frac{1}{c} \partial_{t})F=J$
-
 Notice that the gradient of the fields determines the currents, and that the time derivative of the field equals the currents. This means the field acts on itself to travel in the right conditions. This gives rise to the wave equation in free space when the entire right hand side is zero (see Geometric Algebra for Electrical Engineers, Equation 3.17 and Theorem 3.3, by Peeter Joot).
 
 When the right hand side is not zero, we can rewrite the equation as
@@ -63,4 +63,4 @@ $\partial_{t}F=c*(J -\nabla F)$
 
 which can be interpreted as saying the time evolution of the field is dependent on its gradient and the currents of the system. Essentially, if the currents are moving in opposition to the gradient of the field, then the temporal change is stationary, zero.
 
-But that is not the complete picture. When one operates using the gradient on the electric field, he will get the curl and the divergence, but no vector. When one operates on the magnetic field bivector, he will get a pseudoscalar and a vector, but not bivector. This shows that the gradient of the magnetic field equals the current and affect the time derivative of the electric field, and the gradient of the electric field equals the magnetic current and affect the time derivative of the magnetic field. These two fields are therefore coupled in a strange way, where the gradient of one affects the time derivative of the other.
+But that is not the complete picture. When one operates using the gradient on the electric field, he will get the curl and the divergence, but no vector. When one operates on the magnetic field bivector, he will get a pseudoscalar and a vector, but no bivector. This shows that the gradient of the magnetic field equals the current and affect the time derivative of the electric field, and the gradient of the electric field equals the magnetic current and affects the time derivative of the magnetic field. These two fields are therefore coupled in a strange way, where the gradient of one affects the time derivative of the other.
