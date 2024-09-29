@@ -32,7 +32,7 @@ The current density represents the change in electrons per unit time through a c
 
 Whatever interpretation you must give to these to make sense at the moment, they must be considered foremost within the solution to the Maxwell Equation in their interpretations.
 
-## The Maxwell Equation
+## The Equation
 
 $(\nabla +\frac{1}{c} \partial_{t})(\mathcal{E}+\eta \mathcal{H}^*)=\eta (\rho - \mathcal{J}) + (c\rho_{m} - \mathcal{M})^*$
 
@@ -62,3 +62,5 @@ When the right hand side is not zero, we can rewrite the equation as
 $\partial_{t}F=c*(J -\nabla F)$
 
 which can be interpreted as saying the time evolution of the field is dependent on its gradient and the currents of the system. Essentially, if the currents are moving in opposition to the gradient of the field, then the temporal change is stationary, zero.
+
+But that is not the complete picture. When one operates using the gradient on the electric field, he will get the curl and the divergence, but no vector. When one operates on the magnetic field bivector, he will get a pseudoscalar and a vector, but not bivector. This shows that the gradient of the magnetic field equals the current and affect the time derivative of the electric field, and the gradient of the electric field equals the magnetic current and affect the time derivative of the magnetic field. These two fields are therefore coupled in a strange way, where the gradient of one affects the time derivative of the other.
