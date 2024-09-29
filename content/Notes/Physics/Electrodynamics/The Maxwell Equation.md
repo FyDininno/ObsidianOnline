@@ -47,4 +47,10 @@ $\mu = \mu_{r}\mu_{0} \left[ \frac{H}{m} \right]$
 Epsilon, the permittivity of the medium, is a constant that relates charge present and the flux that the charge creates. Mu, the permeability of the medium, is a constant relating the magnetization present and the charge it creates in the material.
 
 On the left and right hand sides, our variables are:
-$\mathcal$
+
+$F = \mathcal{E}+\eta \mathcal{H}^*$
+$J = \eta (\rho - \mathcal{J}) + (c\rho_{m} - \mathcal{M})^*$
+
+These two variables represent the fields and current densities respectively. The Maxwell Equation says that the gradient of the field profile and the movement of the field itself is the current profile. Remember that the gradient of a scalar function produces a vector. The gradient of any field produces two elements of grade higher and lower than the field being acted on.
+
+Notice how if the gradient is zero, the the rho values are zero and the right-hand side of the equation is equal to the temporal derivatives of the left-hand side.
