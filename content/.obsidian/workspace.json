@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90b99329e0d9234f",
+        "id": "f7ed6e1c28731d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "cf418ffcaf6ec3ff",
+            "id": "8602949dbe070b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/Professional/Portfolio.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Professional/Portfolio.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Professional/Portfolio.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Professional/Portfolio.md"
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
               }
             }
           }
@@ -148,25 +147,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf418ffcaf6ec3ff",
+  "active": "8602949dbe070b28",
   "lastOpenFiles": [
+    "Self/Schedule/Images/Pasted image 20240926141052.png",
+    "Self/Schedule/Images/Pasted image 20240826190459.png",
+    "Self/Schedule/Images/Pasted image 20240826162706.png",
+    "Self/Schedule/Visual Plan Image List.md",
+    "Self/Schedule/Visual Plan - Fall 2024.canvas",
+    "Pasted image 20240926141008.png",
+    "Notes/Mathematics/Calculus/Differential Equations.md",
+    "Notes/Mathematics/Calculus/Foundations.md",
+    "Notes/Mathematics/Calculus/Green's Functions.md",
+    "Notes/Mathematics/Calculus/Multivector Calculus.md",
+    "Notes/Mathematics/Geometry/Geometric Algebra.md",
+    "Notes/Mathematics/Geometry/Topology.md",
+    "Notes/Mathematics/Geometry/Tensors.md",
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+    "Self/Professional/Portfolio.md",
     "Research/Fainman's Lab/Notes on Using Elmer/Inadequacies.md",
     "Research/Fainman's Lab/Notes on Using deal.ii",
     "Research/Fainman's Lab/Notes on Using Elmer/Tutorial.md",
     "Research/Fainman's Lab/Scoping/Our Final Choice.md",
     "Research/UCSD Classes/NANO 110/Intro.md",
     "Research/Fainman's Lab/Scoping",
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
-    "Self/Schedule/Visual Plan Image List.md",
-    "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Great Quotes.md",
     "Research/UCSD Classes/ECE 182/The Start.md",
     "Research/UCSD Classes/NANO 110",
     "Research/UCSD Classes/ECE 182/Intro.md",
     "Research/UCSD Classes/CHEM 41A/Intro.md",
     "Research/UCSD Classes/CHEM 41A",
-    "Pasted image 20240926141052.png",
-    "Pasted image 20240926141008.png",
     "Self/Schedule/Outline.md",
     "index.md",
     "Research/UCSD Classes/ECE 182",
@@ -174,22 +183,12 @@
     "Research/UCSD Classes",
     "Notes/Sketches/Untitled.md",
     "Notes/Sketches",
-    "Notes/Mathematics/Geometry/Topology.md",
-    "Notes/Mathematics/Calculus/Green's Functions.md",
-    "Notes/Mathematics/Geometry/Tensors.md",
     "Notes/Language/Chinese/GPT Conversations.md",
     "Notes/Language/Chinese/Questions.md",
     "Notes/Language/Chinese/Food.md",
     "Notes/Language/Chinese/Food",
-    "Notes/Chemistry/Bonding/Acidity.md",
     "Notes/Language/Spanish",
     "Notes/Language/Russian",
-    "Notes/Chemistry/Bonding/Why Two Hydrogen Atoms Form A Bond.md",
-    "Notes/Physics/Quantum Mechanics.md",
-    "Notes/Mathematics/Calculus/Multivector Calculus.md",
-    "Notes/Mathematics/Geometry/Geometric Algebra.md",
-    "Self/Schedule/Images/Pasted image 20240826162706.png",
-    "Self/Schedule/Images/Pasted image 20240826190459.png",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]

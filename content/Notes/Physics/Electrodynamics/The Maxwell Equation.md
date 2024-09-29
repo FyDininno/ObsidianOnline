@@ -27,3 +27,10 @@ And finally we have
 
 $J \left[ \frac{A}{m^2} \right]$
 $M \left[ \frac{V}{m^2} \right]$
+
+The current density represents the change in electrons per unit time through a cross section, and the magnetization represents the change in dipole moments per unit length through a cross sectional area.
+
+Whatever interpretation you must give to these to make sense at the moment, they must be considered foremost within the solution to the Maxwell Equation in their interpretations.
+
+## The Maxwell Equation
+$(\nabla +\frac{1}{c} \partial_{t})(E+iH^*)$
