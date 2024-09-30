@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Intro.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Intro.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Intro.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Intro.md"
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "8602949dbe070b28",
   "lastOpenFiles": [
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/SYN 2/Intro.md",
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/SYN 2",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
