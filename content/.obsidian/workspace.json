@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ed6e1c28731d3d",
+        "id": "566629e18b3e07c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8602949dbe070b28",
+            "id": "42a4b3f8a7aaed81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8602949dbe070b28",
+  "active": "42a4b3f8a7aaed81",
   "lastOpenFiles": [
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/SYN 2/Intro.md",
     "Research/UCSD Classes/SYN 2",
     "Self/Schedule/Images/Pasted image 20240926141052.png",

@@ -23,5 +23,20 @@ You have to be able to change the permissions
 `$ chmod 770 1.sh`
 This will change the `l.sh` file to be `rwx` for the owner and group, but no permissions for everyone else.
 
-You also have to print the workign directory
-use 
+You also have to print the working directory. Use `pwd`
+Make a folder (or change to) `nano110`
+
+You also have to make this folder: `/expanse/lustre/scratch/key021/`
+
+#### Some handy `ls` commands
+- `-l` "long" format shows file details
+- `-a` shows hidden files
+- `-t` sort by latest modified
+- `-r` reverse order of default sorting
+- `-S` sort by size
+- `-R` list recursively, showing subdirectories
+- `-i` shows the index number of each file, called the inode
+- `-g` shows group ownership of files
+- `-h` print size files in human-readable format
+- `-d` list the directory rather than the content
+
