@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "8602949dbe070b28",
   "lastOpenFiles": [
-    "Research/UCSD Classes/SYN 2/Intro.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+    "Research/UCSD Classes/NANO 110/Day 2.md",
+    "Research/UCSD Classes/SYN 2/Intro.md",
     "Research/UCSD Classes/SYN 2",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
@@ -188,7 +189,6 @@
     "Notes/Sketches",
     "Notes/Language/Chinese/GPT Conversations.md",
     "Notes/Language/Chinese/Questions.md",
-    "Notes/Language/Chinese/Food.md",
     "Notes/Language/Chinese/Food",
     "Notes/Language/Spanish",
     "TestFiles/Content/halloween-five-loops.gif",
