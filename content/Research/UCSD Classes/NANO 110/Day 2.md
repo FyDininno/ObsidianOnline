@@ -3,7 +3,7 @@ ssh fdininno@login.expanse.sdsc.edu
 pwd: (not given yet)
 port: 22
 
-#### Github Information
+#### Bash Information
 Permissions: r, w, x = read, write, execute
 These will appear under information about the owner, group, and all.
 ASCII example: rw-r--r--

@@ -11,8 +11,12 @@
             "id": "42a4b3f8a7aaed81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md"
+              }
             }
           }
         ],
@@ -142,6 +150,7 @@
   },
   "active": "42a4b3f8a7aaed81",
   "lastOpenFiles": [
+    "Research/UCSD Classes/NANO 110/Intro.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/SYN 2/Intro.md",
@@ -164,7 +173,6 @@
     "Research/Fainman's Lab/Notes on Using deal.ii",
     "Research/Fainman's Lab/Notes on Using Elmer/Tutorial.md",
     "Research/Fainman's Lab/Scoping/Our Final Choice.md",
-    "Research/UCSD Classes/NANO 110/Intro.md",
     "Research/Fainman's Lab/Scoping",
     "Self/Great Quotes.md",
     "Research/UCSD Classes/ECE 182/The Start.md",
