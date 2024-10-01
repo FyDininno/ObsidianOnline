@@ -1,5 +1,5 @@
 
-#### Variables
+#### Variables 
 
 To understand the Maxwell Equation, the units of the fields must first be analyzed.
 

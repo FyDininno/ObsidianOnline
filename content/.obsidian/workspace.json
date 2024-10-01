@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "566629e18b3e07c5",
+        "id": "ac7b640bff3c4a28",
         "type": "tabs",
         "children": [
           {
-            "id": "42a4b3f8a7aaed81",
+            "id": "f38a9b2d2787be15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Self/Quotes From Wiser People.md",
-                "mode": "source",
-                "source": false
+                "file": "Self/Schedule/Visual Plan - Fall 2024.canvas",
+                "viewState": {
+                  "x": 552.5276646812132,
+                  "y": -262.7386439990853,
+                  "zoom": -1.3890422907458992
+                }
               }
             }
           }
@@ -69,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Quotes From Wiser People.md",
+                "file": "Self/Schedule/Visual Plan - Fall 2024.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Quotes From Wiser People.md",
+                "file": "Self/Schedule/Visual Plan - Fall 2024.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Quotes From Wiser People.md"
+                "file": "Self/Schedule/Visual Plan - Fall 2024.canvas"
               }
             }
           }
@@ -147,20 +151,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42a4b3f8a7aaed81",
+  "active": "f38a9b2d2787be15",
   "lastOpenFiles": [
-    "Self/My Sayings.md",
+    "Self/Schedule/Visual Plan Image List.md",
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+    "Research/UCSD Classes/ECE 182/The Start.md",
+    "Research/UCSD Classes/ECE 182/Intro.md",
     "Self/Quotes From Wiser People.md",
+    "Self/My Sayings.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
     "Research/UCSD Classes/NANO 110/Intro.md",
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/SYN 2/Intro.md",
     "Research/UCSD Classes/SYN 2",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
-    "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Pasted image 20240926141008.png",
     "Notes/Mathematics/Calculus/Differential Equations.md",
@@ -175,9 +181,7 @@
     "Research/Fainman's Lab/Notes on Using Elmer/Tutorial.md",
     "Research/Fainman's Lab/Scoping/Our Final Choice.md",
     "Research/Fainman's Lab/Scoping",
-    "Research/UCSD Classes/ECE 182/The Start.md",
     "Research/UCSD Classes/NANO 110",
-    "Research/UCSD Classes/ECE 182/Intro.md",
     "Research/UCSD Classes/CHEM 41A/Intro.md",
     "Research/UCSD Classes/CHEM 41A",
     "Self/Schedule/Outline.md",

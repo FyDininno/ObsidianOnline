@@ -1,4 +1,4 @@
 
 "You can change what you do, but you can't change what you want." ~Tommy Shelby, Peaky Blinders Season 3
-"You can fail at what you don't love, so you might as well take a change on doing what you love." - Jim Carry
-" "
+"You can fail at what you don't love, so you might as well take a change on doing what you love." ~Jim Carry
+"If the rubber is not meeting the road, then it is useless"  ~Sam Hyde
