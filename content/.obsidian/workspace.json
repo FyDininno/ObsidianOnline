@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md"
+                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42a4b3f8a7aaed81",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
-    "Research/UCSD Classes/NANO 110/Intro.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
+    "Research/UCSD Classes/NANO 110/Intro.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/SYN 2/Intro.md",
     "Research/UCSD Classes/SYN 2",
