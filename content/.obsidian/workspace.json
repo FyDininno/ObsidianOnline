@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md",
+                "file": "Self/Quotes From Wiser People.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md",
+                "file": "Self/Quotes From Wiser People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md",
+                "file": "Self/Quotes From Wiser People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Geometry/Geometric Algebra.md"
+                "file": "Self/Quotes From Wiser People.md"
               }
             }
           }
@@ -148,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "42a4b3f8a7aaed81",
   "lastOpenFiles": [
+    "Self/My Sayings.md",
+    "Self/Quotes From Wiser People.md",
+    "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
     "Research/UCSD Classes/NANO 110/Intro.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
@@ -165,7 +167,6 @@
     "Notes/Mathematics/Calculus/Foundations.md",
     "Notes/Mathematics/Calculus/Green's Functions.md",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
-    "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Notes/Mathematics/Geometry/Topology.md",
     "Notes/Mathematics/Geometry/Tensors.md",
     "Self/Professional/Portfolio.md",
@@ -174,7 +175,6 @@
     "Research/Fainman's Lab/Notes on Using Elmer/Tutorial.md",
     "Research/Fainman's Lab/Scoping/Our Final Choice.md",
     "Research/Fainman's Lab/Scoping",
-    "Self/Great Quotes.md",
     "Research/UCSD Classes/ECE 182/The Start.md",
     "Research/UCSD Classes/NANO 110",
     "Research/UCSD Classes/ECE 182/Intro.md",
@@ -188,7 +188,6 @@
     "Notes/Sketches/Untitled.md",
     "Notes/Sketches",
     "Notes/Language/Chinese/GPT Conversations.md",
-    "Notes/Language/Chinese/Questions.md",
     "Notes/Language/Chinese/Food",
     "Notes/Language/Spanish",
     "TestFiles/Content/halloween-five-loops.gif",
