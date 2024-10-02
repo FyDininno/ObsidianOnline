@@ -11,4 +11,8 @@ Documentation wise, deal.ii is still incontestable by either FEniCSx or ElmerFEM
 
 I therefore think we should move forward with the permanent implementation of the most powerful, most useful, and most reliably documented FEM tool which is deal.ii.
 
-If necessary, I can derive and write a modesolver in deal.ii. This will be the easiest way to write a modesolver in my opinion, while also teaching teh 
+If necessary, I can derive and write a modesolver in deal.ii. This will be the easiest way to write a modesolver in my opinion, versus writing it in FEniCSx and ElmerFEM, due to documentation reasons. In this way, students will learn undeniably important ways of using computers which will prepare them for the real issues they will encounter in their professional lives, while also being able to use simulations without needing to derive them. This, I think, is the best of both worlds and will make this program well worth their time and money.
+
+I am willing to write concise tutorials explaining precisely what they need to know about virtual file systems, terminal commands, and computer languages to allow them to perform simulations and deal with setbacks.
+
+- Frank Dininno, October 2nd, 12:35 a.m.
