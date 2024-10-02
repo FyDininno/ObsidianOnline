@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+                "file": "Research/Fainman's Lab/Log/October 2nd.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+                "file": "Research/Fainman's Lab/Log/October 2nd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+                "file": "Research/Fainman's Lab/Log/October 2nd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
+                "file": "Research/Fainman's Lab/Log/October 2nd.md"
               }
             }
           }
@@ -150,10 +150,12 @@
   },
   "active": "f22eec3938a828a6",
   "lastOpenFiles": [
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+    "Research/Fainman's Lab/Log/October 2nd.md",
+    "Research/Fainman's Lab/Log",
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/UCSD Classes/ECE 182/The Start.md",
     "Research/UCSD Classes/ECE 182/Intro.md",
     "Self/Quotes From Wiser People.md",
@@ -190,7 +192,6 @@
     "Notes/Sketches/Untitled.md",
     "Notes/Sketches",
     "Notes/Language/Chinese/Food",
-    "Notes/Language/Spanish",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]
