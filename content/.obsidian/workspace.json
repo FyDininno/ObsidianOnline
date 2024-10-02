@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 2.md"
+                "file": "Research/UCSD Classes/NANO 110/Day 3.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "02cb596569369cf8",
   "lastOpenFiles": [
-    "Research/UCSD Classes/NANO 110/Day 1.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
+    "Research/UCSD Classes/NANO 110/Day 1.md",
     "Research/UCSD Classes/NANO 110/Day 3.md",
     "Research/Fainman's Lab/Log/October 2nd.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
