@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc1d0e5b17066a4",
+        "id": "0454c14c48bd8ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "02cb596569369cf8",
+            "id": "fc2b6ebb6d34c1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 3.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 3.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 3.md",
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Day 3.md"
+                "file": "Notes/Physics/Electrodynamics/The Maxwell Equation.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02cb596569369cf8",
+  "active": "fc2b6ebb6d34c1d9",
   "lastOpenFiles": [
+    "Research/Fainman's Lab/Log/October 2nd.md",
+    "Research/UCSD Classes/NANO 110/Day 3.md",
     "Research/UCSD Classes/NANO 110/Day 2.md",
     "Research/UCSD Classes/NANO 110/Day 1.md",
-    "Research/UCSD Classes/NANO 110/Day 3.md",
-    "Research/Fainman's Lab/Log/October 2nd.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/Fainman's Lab/Log",
     "Self/Schedule/Visual Plan Image List.md",
