@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acde0f2fac1a67b2",
+        "id": "5dc1d0e5b17066a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f22eec3938a828a6",
+            "id": "02cb596569369cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 2nd.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 2nd.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 2nd.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 2nd.md"
+                "file": "Research/UCSD Classes/NANO 110/Day 2.md"
               }
             }
           }
@@ -148,10 +148,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f22eec3938a828a6",
+  "active": "02cb596569369cf8",
   "lastOpenFiles": [
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
+    "Research/UCSD Classes/NANO 110/Day 1.md",
+    "Research/UCSD Classes/NANO 110/Day 2.md",
+    "Research/UCSD Classes/NANO 110/Day 3.md",
     "Research/Fainman's Lab/Log/October 2nd.md",
+    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/Fainman's Lab/Log",
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
@@ -161,8 +164,6 @@
     "Self/Quotes From Wiser People.md",
     "Self/My Sayings.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
-    "Research/UCSD Classes/NANO 110/Day 2.md",
-    "Research/UCSD Classes/NANO 110/Intro.md",
     "Research/UCSD Classes/SYN 2/Intro.md",
     "Research/UCSD Classes/SYN 2",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
@@ -189,7 +190,6 @@
     "Research/UCSD Classes/ECE 182",
     "Notes/Language/Russian/Basic Rules.md",
     "Research/UCSD Classes",
-    "Notes/Sketches/Untitled.md",
     "Notes/Sketches",
     "Notes/Language/Chinese/Food",
     "TestFiles/Content/halloween-five-loops.gif",
