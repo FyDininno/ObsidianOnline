@@ -11,8 +11,12 @@
             "id": "4ad014edf76bfb4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md"
+              }
             }
           }
         ],
@@ -141,6 +150,7 @@
   },
   "active": "4ad014edf76bfb4e",
   "lastOpenFiles": [
+    "Notes/Chemistry/Bonding/Orbit Hybridization.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/Fainman's Lab/Log/October 2nd.md",
     "Research/UCSD Classes/NANO 110/Day 3.md",
@@ -179,7 +189,6 @@
     "Self/Schedule/Outline.md",
     "index.md",
     "Research/UCSD Classes/ECE 182",
-    "Notes/Language/Russian/Basic Rules.md",
     "Research/UCSD Classes",
     "Notes/Sketches",
     "Notes/Language/Chinese/Food",
