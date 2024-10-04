@@ -39,4 +39,12 @@
 	1. Localize energy sources via thin film solar panels
 6. Progress in nanoengineering is too slow because we are only focusing on materials which were theorized several decades ago.
 	1. We must explore new materials rather than optimizing old ones.
-7. 
+7. Complicated structures, biology excluded, are too difficult to create using our current methods.
+	1. We need true nanofactories rather than trying to use current methods in more novel ways.
+8. Current nano-theraputics uses nanoparticles in conjunction with external light sources
+	1. We need true nanorobots which can controlled to identify and kill diseases.
+9. The current nanoengineering department doesn't even teach chemistry. This produces incompetent nanoengineers.
+	1. They NEED to teach chemistry or REQUIRE us to take chemistry classes. Ask any student if they know the chemical reactions necessary to coat gold nanoparticles onto a primed surface.
+10. The nanoengineering department barely has any nanomanufacturing classes. Just ask any student if they are capable of manufacturing any of the newest devices, they will say NO. The produces VERY incompetent nanoengineers.
+	1. The nanoengineering department should require labs to be inserted into the curricula of almost all nanoengineering courses. Furthermore, 
+11. 
