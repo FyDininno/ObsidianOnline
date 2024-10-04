@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
+                "file": "Research/UCSD Classes/NANO 110/Day 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md"
+                "file": "Research/UCSD Classes/NANO 110/Day 4.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "4ad014edf76bfb4e",
   "lastOpenFiles": [
     "Notes/Chemistry/Bonding/Orbit Hybridization.md",
+    "Research/UCSD Classes/NANO 110/Day 4.md",
     "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
     "Research/Fainman's Lab/Log/October 2nd.md",
     "Research/UCSD Classes/NANO 110/Day 3.md",
@@ -187,7 +188,6 @@
     "Research/UCSD Classes/CHEM 41A/Intro.md",
     "Research/UCSD Classes/CHEM 41A",
     "Self/Schedule/Outline.md",
-    "index.md",
     "Research/UCSD Classes/ECE 182",
     "Research/UCSD Classes",
     "Notes/Sketches",
