@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -159,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "441f280818f58096",
   "lastOpenFiles": [
     "Research/Fainman's Lab/Log/October 3rd.md",
     "Research/UCSD Classes/ECE 182/Untitled.md",
