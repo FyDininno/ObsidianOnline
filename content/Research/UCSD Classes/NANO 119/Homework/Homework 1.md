@@ -13,7 +13,8 @@
 	1. Join a frat and act immature.
 7. I keep losing my most valuable items and finding them the next day after already purchasing another one.
 	1. At every stop, check to see if you have such items, and see if airtags can be attached to them.
-8. 
+8. Every time I see this girl, I get a little bit more attached, and I don't want my heart ripped out.
+	1. Stay apathetic.
 
 
 1-13
@@ -21,4 +22,5 @@
 	1. Develop voltage controlled molecular structures.
 2. My knowledge of chemical reactions is not good enough to bind nanoparticles to surfaces.
 	1. Take the CHEM 41 series.
-3. 
+3. There are no airtags thin enough to be slapped onto my earbud charging case. 
+	1. Create a flexible silicone chip and sell it for money, and then forget about worrying about your earbuds because you are so wealthy.

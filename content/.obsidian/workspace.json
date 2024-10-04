@@ -11,11 +11,9 @@
             "id": "56c722a8f12f18f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md"
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
