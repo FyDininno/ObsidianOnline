@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88da903bfc352910",
+        "id": "c704051e7c2e5f1a",
         "type": "tabs",
         "children": [
           {
-            "id": "f7252c0b3192ac1b",
+            "id": "56c722a8f12f18f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md"
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md"
               }
             }
           }
@@ -148,8 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7252c0b3192ac1b",
+  "active": "56c722a8f12f18f8",
   "lastOpenFiles": [
+    "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+    "Research/UCSD Classes/NANO 119/Homework",
+    "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
+    "Research/UCSD Classes/NANO 119",
     "Research/UCSD Classes/SYN 2/Lecture Notes",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes",
@@ -178,8 +183,6 @@
     "Self/Quotes From Wiser People.md",
     "Self/My Sayings.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
-    "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
-    "Research/UCSD Classes/SYN 2",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
@@ -191,8 +194,6 @@
     "Notes/Mathematics/Geometry/Topology.md",
     "Notes/Mathematics/Geometry/Tensors.md",
     "Self/Professional/Portfolio.md",
-    "Research/Fainman's Lab/Notes on Using deal.ii",
-    "Research/Fainman's Lab/Scoping",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]
