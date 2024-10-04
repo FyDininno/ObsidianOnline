@@ -20,7 +20,11 @@
 10. It seems like they class schedules align precisely with when they get off class.
 	1. It's time to do pullups and pushups with a backpack on.
 11.  The administration is trying to screw the nanoengineering department over by cutting funding and restricting class sizes.
-	1. 
+	1. Make the classes more rigorous and take on more ambitions projects. When news coverage comes, expose the administration for their transgressions.
+12. Freshman and Sophomores have no  friends
+	1. The school should encourage Sororities and Fraternities (and the sailing team).
+13. The school is too divided over the Israel Palestine conflict.
+14. 
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
@@ -29,3 +33,10 @@
 	1. Take the CHEM 41 series.
 3. There are no airtags thin enough to be slapped onto my earbud charging case. 
 	1. Create a flexible silicone chip and sell it for money, and then forget about worrying about your earbuds because you are so wealthy.
+4. Light cannot be sorted efficiently for the use of solar panels
+	1. Use GRIN lenses to sort the light into different wavelengths
+5. The electrical power grid is too inefficient due to power generation and large losses in transportation
+	1. Localize energy sources via thin film solar panels
+6. Progress in nanoengineering is too slow because we are only focusing on materials which were theorized several decades ago.
+	1. We must explore new materials rather than optimizing old ones.
+7. 
