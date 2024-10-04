@@ -1,3 +1,7 @@
 Today, I decided that configuring the compiler is variable among different systems. This can cause trouble if I am making tutorials on the subject, as debugging compiler errors can take a considerable knowledge of the Linux file system. This course is meant as an intro, therefore, the introduction to Linux should be light, not heavy. Furthermore, tutorials should not take debugging at all. 
 
-The capabilities of FEniCSx are comparable to that of deal.ii but lags behind deal.ii in advanced mesh processing - something that we are not worried about in this lab due to the nature of our small
+The capabilities of FEniCSx are comparable to that of deal.ii but lag behind deal.ii in advanced mesh processing - something that we are not worried about in this lab due to the nature of our small scale simulations. Why I am now considering FEniCSx to be the best option is due to the properties of its language, Python. Python is interpretive, so none of the compilation errors are present. Furthermore, FEniCSx can be run in Conda, making this method extremely reliable, as all of the dependencies are contained withing the Conda environment.
+
+I believe, then, that this tutorial is best run in Conda on a Linux system and that students will receive an adequate introduction to industry level simulations.
+
+FEniCSx should not be run on WSL, there are too many bugs. It may take days to debug depending which system one is using.

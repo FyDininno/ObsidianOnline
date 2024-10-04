@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "441f280818f58096",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/ECE 182/Lab 1.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 3rd.md",
+                "file": "Research/UCSD Classes/ECE 182/Lab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 3rd.md",
+                "file": "Research/UCSD Classes/ECE 182/Lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Fainman's Lab/Log/October 3rd.md"
+                "file": "Research/UCSD Classes/ECE 182/Lab 1.md"
               }
             }
           }
@@ -149,9 +159,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "949968056162de99",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
     "Research/Fainman's Lab/Log/October 3rd.md",
+    "Research/UCSD Classes/ECE 182/Untitled.md",
+    "Research/UCSD Classes/ECE 182/Lab 1.md",
     "Research/UCSD Classes/CHEM 41A/HW 1, Isomer Practice.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Research/UCSD Classes/NANO 110/Day 4.md",
@@ -185,8 +197,6 @@
     "Self/Professional/Portfolio.md",
     "Research/Fainman's Lab/Notes on Using Elmer/Inadequacies.md",
     "Research/Fainman's Lab/Notes on Using deal.ii",
-    "Research/Fainman's Lab/Notes on Using Elmer/Tutorial.md",
-    "Research/Fainman's Lab/Scoping/Our Final Choice.md",
     "Research/Fainman's Lab/Scoping",
     "Research/UCSD Classes/NANO 110",
     "Research/UCSD Classes/CHEM 41A",
