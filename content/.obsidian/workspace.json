@@ -11,13 +11,26 @@
             "id": "56c722a8f12f18f8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062de44436b9b4af",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,9 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56c722a8f12f18f8",
+  "active": "062de44436b9b4af",
   "lastOpenFiles": [
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/NANO 119/Homework",
     "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/NANO 119",
@@ -162,7 +176,6 @@
     "Research/UCSD Classes/CHEM 41A/Class Notes",
     "Research/UCSD Classes/CHEM 41A/Homework",
     "Research/Fainman's Lab/Log/October 3rd.md",
-    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Untitled.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/HW 1, Isomer Practice.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",

@@ -15,6 +15,8 @@
 	1. At every stop, check to see if you have such items, and see if airtags can be attached to them.
 8. Every time I see this girl, I get a little bit more attached, and I don't want my heart ripped out.
 	1. Stay apathetic.
+9. I keep having to borrow my apartment-mate's calculator charger because I can't find mine. And I can't find mine because I keep forgetting to search for it.
+	1. Search for it tomorrow or buy one off of Amazon. 
 
 
 1-13
