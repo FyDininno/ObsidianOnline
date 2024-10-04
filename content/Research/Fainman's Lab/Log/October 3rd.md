@@ -1,0 +1,3 @@
+Today, I decided that configuring the compiler is variable among different systems. This can cause trouble if I am making tutorials on the subject, as debugging compiler errors can take a considerable knowledge of the Linux file system. This course is meant as an intro, therefore, the introduction to Linux should be light, not heavy. Furthermore, tutorials should not take debugging at all. 
+
+The capabilities of FEniCSx are comparable to that of deal.ii but lags behind deal.ii in advanced mesh processing - something that we are not worried about in this lab due to the nature of our small
