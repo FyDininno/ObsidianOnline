@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Philosophy/The Facts of Emotions and Human Thoughts.md",
+                "file": "Notes/Philosophy/Human Purpose and Free Will.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosophy/The Facts of Emotions and Human Thoughts.md",
+                "file": "Notes/Philosophy/Human Purpose and Free Will.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosophy/The Facts of Emotions and Human Thoughts.md",
+                "file": "Notes/Philosophy/Human Purpose and Free Will.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosophy/The Facts of Emotions and Human Thoughts.md"
+                "file": "Notes/Philosophy/Human Purpose and Free Will.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "56c722a8f12f18f8",
   "lastOpenFiles": [
+    "Notes/Philosophy/The Facts of Emotions and Experiences.md",
+    "Notes/Philosophy/Human Purpose and Free Will.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
-    "Notes/Philosophy/The Facts of Emotions and Human Thoughts.md",
     "Notes/Philosophy/Sadness.md",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
     "Notes/Philosophy",
@@ -193,7 +194,6 @@
     "Notes/Mathematics/Calculus/Foundations.md",
     "Notes/Mathematics/Calculus/Green's Functions.md",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
-    "Notes/Mathematics/Geometry/Topology.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]
