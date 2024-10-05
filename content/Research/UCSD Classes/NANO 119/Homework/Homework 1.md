@@ -46,5 +46,5 @@
 9. The current nanoengineering department doesn't even teach chemistry. This produces incompetent nanoengineers.
 	1. They NEED to teach chemistry or REQUIRE us to take chemistry classes. Ask any student if they know the chemical reactions necessary to coat gold nanoparticles onto a primed surface.
 10. The nanoengineering department barely has any nanomanufacturing classes. Just ask any student if they are capable of manufacturing any of the newest devices, they will say NO. The produces VERY incompetent nanoengineers.
-	1. The nanoengineering department should require labs to be inserted into the curricula of almost all nanoengineering courses. Furthermore, 
+	1. The nanoengineering department should require labs to be inserted into the curricula of almost all nanoengineering courses. Furthermore, the professors of such classes should dedicate their quarter to teaching the students how they make devices in their area of study. The theory the students should learn should be just as much as necessary for the students to make the devices.
 11. 
