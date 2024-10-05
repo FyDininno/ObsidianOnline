@@ -18,13 +18,13 @@ Wise folk dance with the rising waters.
 
 Does dancing with the rising waters mean to go along with the atrocities that might arise? 
 
-I believe the answer is "affirmative" beca
-
-One must dance with the rising waters because if they fight they against it they are doomed for failure. To dance with the waters means to gain power with the water. Only when the time is right, only when you have danced long enough, will you have the capability to change a little bit of what is wrong. It is the only way. One must dance with the rising waters. One must plan.
+I believe the answer is "affirmative" because the alternative is to be submerged. Only when one has danced long enough with the waters does he or she have a chance to change the currents. It is the only way.
 
 --- 
 Now, I must see with clarity, and dance with the waters, not remaining passive, but moving smoothly with the slow river.
 
-Recognizing this may be hard. To recognize such a thing is to recognize the great force around you, and the relatively little force you carry. One must choose harmony, over recognition. Such a thing is hard, such a thing is ego death. Does one accept their own death and still be alive? Does one choose harmony and eternal loneliness at the same time?
+Recognizing this may be hard. To recognize such a thing is to recognize the great force around you, and the relatively little force you carry. One must choose harmony, over recognition. Such a thing is hard, such a thing is ego death. Does one accept their own death and still remain alive? Does one choose harmony and eternal loneliness at the same time?
 
-One's only hope for both is how biology wills it. In this case the only way to satisfy both is to dance with a woman in the waters.
+One's only hope for both is how biology wills it. 
+
+I only hope to dance with a woman in the waters.
