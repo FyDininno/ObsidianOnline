@@ -12,4 +12,10 @@ Therefore, because we do not know absolutely for sure why we are built the way w
 
 To say that we feel love for a baby as being "good" has no self-evident meaning. To say that a creature in pain is bad also has no self-evident meaning, other than in reference to our own emotions. In a way, then, we are like robots, programmed to feel emotions according to the circumstance we find ourselves in, no matter how many times it happens over again. 
 
-What drives me every day, is to bring joy and stop the sadness in the world. I find it right because I am programmed that way. Other people find it right because they are programmed that way. In simpler terms, sadness results in actions,  urges, or more emotions to oppose the situation; in the case of happiness, the opposite. But an alien may not see it this way. 
+What drives me every day, is to bring joy and stop the sadness in the world. I find it right because I am programmed that way. Other people find it right because they are programmed that way. In simpler terms, sadness results in actions,  urges, or more emotions to oppose the situation; in the case of happiness, the opposite. But an alien may not see it this way.
+
+Logically, people are always driven to either go towards happiness or to end their sadness, however that may be.
+
+So, the reason is simpler than we think. We want to be happy simply because we just want to be. It is how we are. How the emotion comes about physically is more complicated. 
+
+Furthermore, emotions are a sort of shared unity, shared consciousness among many animals - a unity. We understand what pain and sorrow feel like, we all think it is wrong, and we all know the signs of it. But in the end, the degree of empathy an animal has can still vary, and the correctness of such empathy is unsure. This is more evident when we realize that what emotions another animal experiences are usually unknown to us. We only know their emotions by how similar we believe they are programmed to us, and usually only be obvious responses like exclamations. This is why mood is so important when it comes to mating, at least w
