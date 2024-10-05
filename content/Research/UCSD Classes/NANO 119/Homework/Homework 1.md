@@ -21,10 +21,18 @@
 	1. It's time to do pullups and pushups with a backpack on.
 11.  The administration is trying to screw the nanoengineering department over by cutting funding and restricting class sizes.
 	1. Make the classes more rigorous and take on more ambitions projects. When news coverage comes, expose the administration for their transgressions.
-12. Freshman and Sophomores have no  friends
+12. Freshman and Sophomores have no friends
 	1. The school should encourage Sororities and Fraternities (and the sailing team).
-13. The school is too divided over the Israel Palestine conflict.
-14. 
+14. Everything at the school's bookstore is overpriced
+	1. Don't buy from them, bankrupt them, force them to lower prices. Do this by buying off Amazon.
+15. The school's dining hall food is overpriced and not great. 
+	1. Complain on social media or news how the school forces housing students to buy dining dollars. If it gains publicity, the school might change in order to keep their profits from incoming students high.
+16. The world cannot sustain the eating habits of the United States.
+	1. Teach people how to cook for themselves so they may learn how to cook legume or paneer heavy diets for cheaper and more resourceful diets.
+17. The United States' children are suffering from chronic illnesses from a young age.
+	1. Publicly denounce the issues that processed foods are having on our children's health. Teach them how to cook for themselves and avoid products high in pesticides (many of which are banned in Europe).
+18. Kids all over the world are suffering from myopia.
+	1. Myopia can be reversed, however most optomitrists believe that it is irreversible
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
