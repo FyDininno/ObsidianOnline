@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Notes/Philosophy/The Facts of Emotions.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "062de44436b9b4af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Notes/Philosophy/The Facts of Emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Notes/Philosophy/The Facts of Emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md"
+                "file": "Notes/Philosophy/The Facts of Emotions.md"
               }
             }
           }
@@ -162,7 +152,10 @@
   "active": "56c722a8f12f18f8",
   "lastOpenFiles": [
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
+    "Notes/Philosophy/The Facts of Emotions.md",
+    "Notes/Philosophy/Sadness.md",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+    "Notes/Philosophy",
     "Research/UCSD Classes/NANO 119/Homework",
     "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/NANO 119",
@@ -185,7 +178,6 @@
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
-    "Research/Fainman's Lab/Log",
     "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
@@ -202,8 +194,6 @@
     "Notes/Mathematics/Calculus/Green's Functions.md",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Mathematics/Geometry/Topology.md",
-    "Notes/Mathematics/Geometry/Tensors.md",
-    "Self/Professional/Portfolio.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]
