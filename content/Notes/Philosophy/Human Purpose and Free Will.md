@@ -7,3 +7,7 @@ In this case, we are allowed to create our own purpose, as a purpose is a logica
 This gives us free will. Unlike emotions and sensations, which we cannot help but experience, logical thought is within our minds, and we do control it. Controlling it means controlling ourselves, our actions too. However, logical thought controls us as much as we control it because we are one and the same.
 
 Again, logical thought follows rules, mysterious as it is. This means that, like emotion, the universe determines what we ultimately think. However, this time, we are one with what the universe wills for us, rather than only the receiver of what the universe will, which is the case of emotions and other sensations.
+
+In the end, we are ingrained with that which created us, the universe, meaning, we are intertwined with its meaning or destiny, which could be existence for the sake of existence - nobody knows.
+
+In the end, we are the way we are because the universe wills it, and this means it wills us to create our own purpose if we want to. There are two purposes, that of our world, which is unknown, and that which we create for ourselves.

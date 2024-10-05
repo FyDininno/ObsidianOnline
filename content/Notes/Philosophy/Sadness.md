@@ -1,0 +1,3 @@
+Is there a way to turn sadness into happiness? To accept sadness as a state of mind which is nothing wrong? I would defined this as enlightenment, where one is in a permanent state of happiness. Whether or not it exists, I do not really know.
+
+It is mysterious, how I can treat my occasional state of sadness as "being acceptable" and then I will feel better. This feeling "transformation" needs further exploration.
