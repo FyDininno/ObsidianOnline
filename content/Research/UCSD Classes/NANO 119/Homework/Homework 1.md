@@ -32,7 +32,10 @@
 17. The United States' children are suffering from chronic illnesses from a young age.
 	1. Publicly denounce the issues that processed foods are having on our children's health. Teach them how to cook for themselves and avoid products high in pesticides (many of which are banned in Europe).
 18. Kids all over the world are suffering from myopia.
-	1. Myopia can be reversed, however most optomitrists believe that it is irreversible
+	1. Myopia can be reversed, however most optometrists believe that it is irreversible. It is especially easy to reverse at a younger age when the prescription is still low via a method called plus lens therapy. Greed has caused it to be silenced, but anyone can find it on the internet if they look hard enough.
+19. Americans seem to be in a crises of loneliness and meaninglessness.
+	1. There are not many strong leaders in US politics which awaken the spirit of the people. People need a reason to know why they are doing their jobs and they need a leader who is firm in their morals and will remind people of the meaning of their lives. Furthermore, the curriculum of the schools has failed the people. Philosophy or similar classes should be taught in all schools simply to train young people to ask deep questions about life. Instead, digital media has taken the place of deep questions which has lead to shallow connections, high suicide rates, and depression.
+20. 
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
