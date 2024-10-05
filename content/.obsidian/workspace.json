@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Self/My Thoughts/The Purpose.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Self/My Thoughts/The Purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
+                "file": "Self/My Thoughts/The Purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md"
+                "file": "Self/My Thoughts/The Purpose.md"
               }
             }
           }
@@ -150,16 +151,17 @@
   },
   "active": "8debb0c491a56c31",
   "lastOpenFiles": [
+    "Self/My Thoughts/The Emotional Ecosystem.md",
+    "Self/My Thoughts/The Purpose.md",
+    "Self/My Thoughts/Sadness.md",
+    "Self/My Thoughts/Human Purpose and Free Will.md",
+    "Self/My Thoughts/Facts of Emotions and Experiences.md",
+    "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
     "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
-    "Notes/Philosophy/The Emotional Ecosystem.md",
-    "Notes/Philosophy/Facts of Emotions and Experiences.md",
-    "Notes/Philosophy/Human Purpose and Free Will.md",
-    "Notes/Philosophy/Sadness.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
-    "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
-    "Notes/Philosophy",
+    "Self/My Thoughts",
     "Research/UCSD Classes/NANO 119/Homework",
     "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/NANO 119",
@@ -186,13 +188,12 @@
     "Self/Schedule/Images/Pasted image 20241001113452.png",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 2.md",
     "Self/Quotes From Wiser People.md",
-    "Self/My Sayings.md",
+    "Self/Sayings.md",
     "Notes/Mathematics/Geometry/Geometric Algebra.md",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Pasted image 20240926141008.png",
-    "Notes/Mathematics/Calculus/Differential Equations.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]

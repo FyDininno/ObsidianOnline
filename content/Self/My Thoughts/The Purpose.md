@@ -1,0 +1,5 @@
+I do have depression. I do severely hinder myself when I am going to do an assignment because I am overcome by a feeling of pointlessness to it - so pointless that it is striking.
+
+What mostly makes me feel better is seeing the large picture of all things which I am looking at. It brings clarity. To see a car, and know exactly why it was made - for the person to drive. To see a building and know why it was made - for people to live and work. These simplify life a lot, and it allows me to comprehend all of society, but not its little details.
+
+Now I am caught in a conundrum. I can either see the point of all things and accept them and feel better about myself or reject all of it. In this case, I have no incentive to change anything in society - I understand society and I will let society do its thing because I understand it and I am comfortable with it. On the other hand, if I reject it, then I see all of the wicked parts of our world like 
