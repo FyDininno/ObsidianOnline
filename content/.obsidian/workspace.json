@@ -11,15 +11,24 @@
             "id": "56c722a8f12f18f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Philosophy/The Emotional Ecosystem.md",
-                "mode": "source",
-                "source": false
+                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2c3eed32213f2628",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Philosophy/The Emotional Ecosystem.md",
+                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Philosophy/The Emotional Ecosystem.md",
+                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Philosophy/The Emotional Ecosystem.md"
+                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md"
               }
             }
           }
@@ -149,10 +158,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56c722a8f12f18f8",
+  "active": "2c3eed32213f2628",
   "lastOpenFiles": [
-    "Notes/Philosophy/Facts of Emotions and Experiences.md",
+    "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
+    "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
     "Notes/Philosophy/The Emotional Ecosystem.md",
+    "Notes/Philosophy/Facts of Emotions and Experiences.md",
     "Notes/Philosophy/Human Purpose and Free Will.md",
     "Notes/Philosophy/Sadness.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
@@ -171,7 +183,6 @@
     "Research/UCSD Classes/CHEM 41A/Homework",
     "Research/Fainman's Lab/Log/October 3rd.md",
     "Research/UCSD Classes/ECE 182/Untitled.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/HW 1, Isomer Practice.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
     "Notes/Chemistry/Bonding/Orbit Hybridization.md",
@@ -192,8 +203,6 @@
     "Self/Schedule/Images/Pasted image 20240826162706.png",
     "Pasted image 20240926141008.png",
     "Notes/Mathematics/Calculus/Differential Equations.md",
-    "Notes/Mathematics/Calculus/Foundations.md",
-    "Notes/Mathematics/Calculus/Green's Functions.md",
     "TestFiles/Content/halloween-five-loops.gif",
     "Pasted image 20240826163847.png"
   ]
