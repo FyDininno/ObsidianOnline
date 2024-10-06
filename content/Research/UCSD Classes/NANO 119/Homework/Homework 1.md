@@ -35,7 +35,9 @@
 	1. Myopia can be reversed, however most optometrists believe that it is irreversible. It is especially easy to reverse at a younger age when the prescription is still low via a method called plus lens therapy. Greed has caused it to be silenced, but anyone can find it on the internet if they look hard enough.
 19. Americans seem to be in a crises of loneliness and meaninglessness.
 	1. There are not many strong leaders in US politics which awaken the spirit of the people. People need a reason to know why they are doing their jobs and they need a leader who is firm in their morals and will remind people of the meaning of their lives. Furthermore, the curriculum of the schools has failed the people. Philosophy or similar classes should be taught in all schools simply to train young people to ask deep questions about life. Instead, digital media has taken the place of deep questions which has lead to shallow connections, high suicide rates, and depression.
-20. 
+20. UCSD is known as UC socially dead. 
+	1. The university should make a greek row, given all of its funding for new buildings already.
+21. 
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
@@ -58,4 +60,7 @@
 	1. They NEED to teach chemistry or REQUIRE us to take chemistry classes. Ask any student if they know the chemical reactions necessary to coat gold nanoparticles onto a primed surface.
 10. The nanoengineering department barely has any nanomanufacturing classes. Just ask any student if they are capable of manufacturing any of the newest devices, they will say NO. The produces VERY incompetent nanoengineers.
 	1. The nanoengineering department should require labs to be inserted into the curricula of almost all nanoengineering courses. Furthermore, the professors of such classes should dedicate their quarter to teaching the students how they make devices in their area of study. The theory the students should learn should be just as much as necessary for the students to make the devices.
-11. 
+11. Transistors are becoming smaller but are suffering too much heat loss and quantum tunneling.
+	1. Start research on organizing single molecule transistors.
+12. Metallic nanoparticles are toxic to the body
+	1. Develop nanoparticles which are photoreactive to become toxic to the body via external light rays, this way they can decompose safely away from the tumor target cite.

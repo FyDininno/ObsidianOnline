@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06c257d1f05d71e3",
+        "id": "02ce8e342cc85097",
         "type": "tabs",
         "children": [
           {
-            "id": "8debb0c491a56c31",
+            "id": "7d1921aace52b6c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/My Thoughts/Waking of the World.md",
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/My Thoughts/Waking of the World.md",
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/My Thoughts/Waking of the World.md",
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/My Thoughts/Waking of the World.md"
+                "file": "Research/UCSD Classes/NANO 119/Homework/Homework 1.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8debb0c491a56c31",
+  "active": "7d1921aace52b6c4",
   "lastOpenFiles": [
-    "Self/My Thoughts/The Waters.md",
     "Self/My Thoughts/Waking of the World.md",
+    "Self/My Thoughts/The Waters.md",
     "Self/My Thoughts/The Emotional Ecosystem.md",
     "Self/My Thoughts/Sadness.md",
     "Self/My Thoughts/Human Purpose and Free Will.md",
