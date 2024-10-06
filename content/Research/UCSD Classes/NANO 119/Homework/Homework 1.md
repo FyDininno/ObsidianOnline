@@ -45,8 +45,23 @@
 	1. Hire someone else.
 24. Many instructors do not care about the education of students
 	1. The university should actively be teaching ways for students to teach themselves content.
-25. Android are discriminated against simply because their text messages are displayed differently than Apple's.
+25. Android is discriminated against simply because their text messages are displayed differently than Apple's.
 	1. This is an easy anti-monopoly fix. Force Apple to treat text messages equally with the Linux based Android systems.
+26. My toilet gets clogged often
+	1. Flush for longer
+27. My door hinges are too loud
+	1. Add wd40
+28. My lamp light if flickering
+	1. Replace the bulb
+29. My water is tasting wierd
+	1. Replace britta filter
+30. I don't want to wake up when my alarm goes off
+	1. Have hotsauce shots bye the bed
+31. My food tastes terrible because I eat legume stew all day
+	1. Add more seasoning
+32. The quality of Cheddies is going down
+	1. Create my own cracker company and undercut them by 10 cents a box
+33. 
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
