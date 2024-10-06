@@ -37,7 +37,8 @@
 	1. There are not many strong leaders in US politics which awaken the spirit of the people. People need a reason to know why they are doing their jobs and they need a leader who is firm in their morals and will remind people of the meaning of their lives. Furthermore, the curriculum of the schools has failed the people. Philosophy or similar classes should be taught in all schools simply to train young people to ask deep questions about life. Instead, digital media has taken the place of deep questions which has lead to shallow connections, high suicide rates, and depression.
 20. UCSD is known as UC socially dead. 
 	1. The university should make a greek row, given all of its funding for new buildings already.
-21. 
+21. Nobody stays on campus during the weekends. 
+	1. The university should make a lot of rent-able hangout places for orgs to host parties.
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
