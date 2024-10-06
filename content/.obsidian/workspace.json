@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/My Thoughts/The Emotional Ecosystem.md",
+                "file": "Self/My Thoughts/Waking of the World.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/My Thoughts/The Emotional Ecosystem.md",
+                "file": "Self/My Thoughts/Waking of the World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/My Thoughts/The Emotional Ecosystem.md",
+                "file": "Self/My Thoughts/Waking of the World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/My Thoughts/The Emotional Ecosystem.md"
+                "file": "Self/My Thoughts/Waking of the World.md"
               }
             }
           }
@@ -150,12 +151,13 @@
   },
   "active": "8debb0c491a56c31",
   "lastOpenFiles": [
+    "Self/My Thoughts/The Waters.md",
+    "Self/My Thoughts/Waking of the World.md",
+    "Self/My Thoughts/The Emotional Ecosystem.md",
     "Self/My Thoughts/Sadness.md",
     "Self/My Thoughts/Human Purpose and Free Will.md",
     "Self/My Thoughts/Facts of Emotions and Experiences.md",
     "Self/My Thoughts/Desire and Connection.md",
-    "Self/My Thoughts/The Waters.md",
-    "Self/My Thoughts/The Emotional Ecosystem.md",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
     "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
@@ -188,7 +190,6 @@
     "Self/Schedule/Images/Pasted image 20241001113452.png",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 2.md",
     "Self/Quotes From Wiser People.md",
-    "Self/Sayings.md",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
