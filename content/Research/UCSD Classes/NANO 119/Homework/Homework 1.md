@@ -53,7 +53,7 @@
 	1. Add wd40
 28. My lamp light if flickering
 	1. Replace the bulb
-29. My water is tasting wierd
+29. My water is tasting weird
 	1. Replace britta filter
 30. I don't want to wake up when my alarm goes off
 	1. Have hotsauce shots bye the bed
