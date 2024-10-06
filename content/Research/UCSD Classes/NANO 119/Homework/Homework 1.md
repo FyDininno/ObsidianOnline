@@ -39,6 +39,14 @@
 	1. The university should make a greek row, given all of its funding for new buildings already.
 21. Nobody stays on campus during the weekends. 
 	1. The university should make a lot of rent-able hangout places for orgs to host parties.
+22. Everybody knows that the government is corrupt due to company bribes.
+	1. We need mass rebellions eventually to change this\
+23. Everyone hates Khosla for cancelling Sun God, one of the only events that makes it not socially dead.
+	1. Hire someone else.
+24. Many instructors do not care about the education of students
+	1. The university should actively be teaching ways for students to teach themselves content.
+25. Android are discriminated against simply because their text messages are displayed differently than Apple's.
+	1. This is an easy anti-monopoly fix. Force Apple to treat text messages equally with the Linux based Android systems.
 
 1-13
 1. Control over the nanoscale is governed by top-down processes, excluding DNA programming.
