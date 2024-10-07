@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d6e539f2566b9eeb",
+        "id": "2e935f9ea97f27c1",
         "type": "tabs",
         "children": [
           {
-            "id": "15b6bc35aa171f0b",
+            "id": "f3c14e11cabe920b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self/My Thoughts/Attraction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/My Thoughts/Attraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/My Thoughts/Attraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self/My Thoughts/Attraction.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15b6bc35aa171f0b",
+  "active": "f3c14e11cabe920b",
   "lastOpenFiles": [
-    "Self/My Thoughts/Suffering.md",
     "Self/My Thoughts/Attraction.md",
+    "Self/My Thoughts/Suffering.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
