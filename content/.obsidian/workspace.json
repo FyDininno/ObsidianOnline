@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb4bb26affa0bb54",
+        "id": "28844f45c582f980",
         "type": "tabs",
         "children": [
           {
-            "id": "814eb95fbd1291ea",
+            "id": "d52730d52ccc40b1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
@@ -147,9 +146,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "814eb95fbd1291ea",
+  "active": "d52730d52ccc40b1",
   "lastOpenFiles": [
+    "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
+    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
+    "Research/UCSD Classes/ECE 182/Labs/Images",
+    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
+    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
+    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
     "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
     "Research/UCSD Classes/SYN 2/Homework",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
@@ -173,7 +178,6 @@
     "Research/UCSD Classes/ECE 182/Homework",
     "Research/UCSD Classes/ECE 182/Labs",
     "Research/UCSD Classes/ECE 182/Lecture Notes",
-    "Research/UCSD Classes/CHEM 41A/Class Notes",
     "Research/Fainman's Lab/Log/October 3rd.md",
     "Research/UCSD Classes/ECE 182/Untitled.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
@@ -190,8 +194,6 @@
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
     "Self/Schedule/Images/Pasted image 20240826162706.png",
-    "Pasted image 20240926141008.png",
-    "TestFiles/Content/halloween-five-loops.gif",
-    "Pasted image 20240826163847.png"
+    "Pasted image 20240926141008.png"
   ]
 }
