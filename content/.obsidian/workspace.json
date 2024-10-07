@@ -11,8 +11,10 @@
             "id": "f3c14e11cabe920b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+              }
             }
           }
         ],
