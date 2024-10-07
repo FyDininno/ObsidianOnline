@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "28844f45c582f980",
+        "id": "d6e539f2566b9eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "d52730d52ccc40b1",
+            "id": "15b6bc35aa171f0b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
+                "file": "Self/My Thoughts/Suffering.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
+                "file": "Self/My Thoughts/Suffering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
+                "file": "Self/My Thoughts/Suffering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
+                "file": "Self/My Thoughts/Suffering.md"
               }
             }
           }
@@ -146,11 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d52730d52ccc40b1",
+  "active": "15b6bc35aa171f0b",
   "lastOpenFiles": [
+    "Self/My Thoughts/Suffering.md",
+    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
-    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Labs/Images",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
