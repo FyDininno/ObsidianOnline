@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2185f921f7b4da3",
+        "id": "cb4bb26affa0bb54",
         "type": "tabs",
         "children": [
           {
-            "id": "2f7290ac3c623b4b",
+            "id": "814eb95fbd1291ea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f7290ac3c623b4b",
+  "active": "814eb95fbd1291ea",
   "lastOpenFiles": [
-    "Research/UCSD Classes/SYN 2/Homework",
     "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+    "Research/UCSD Classes/SYN 2/Homework",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
     "Self/My Thoughts/Waking of the World.md",
     "Self/My Thoughts/The Waters.md",
@@ -174,7 +174,6 @@
     "Research/UCSD Classes/ECE 182/Labs",
     "Research/UCSD Classes/ECE 182/Lecture Notes",
     "Research/UCSD Classes/CHEM 41A/Class Notes",
-    "Research/UCSD Classes/CHEM 41A/Homework",
     "Research/Fainman's Lab/Log/October 3rd.md",
     "Research/UCSD Classes/ECE 182/Untitled.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
