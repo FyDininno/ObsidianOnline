@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a24f8002df605dfe",
+        "id": "db8ecbf1d6503dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "74f3bdc8240229ed",
+            "id": "03cfc70784c0b848",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md"
               }
             }
           }
@@ -147,11 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74f3bdc8240229ed",
+  "active": "03cfc70784c0b848",
   "lastOpenFiles": [
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
+    "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
     "Research/UCSD Classes/CHEM 41A/Images",
-    "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
-    "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
     "Self/Professional/Internship Companies.md",
     "index.md",
     "Self/My Thoughts/Attraction.md",
@@ -187,7 +190,6 @@
     "Research/UCSD Classes/NANO 110/Lecture Notes",
     "Research/UCSD Classes/ECE 182/Homework",
     "Research/UCSD Classes/ECE 182/Labs",
-    "Research/UCSD Classes/ECE 182/Lecture Notes",
     "Research/Fainman's Lab/Log/October 3rd.md",
     "Research/UCSD Classes/ECE 182/Untitled.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
