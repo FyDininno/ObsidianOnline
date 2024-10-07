@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/My Thoughts/Suffering.md",
+                "file": "Self/My Thoughts/Attraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/My Thoughts/Suffering.md",
+                "file": "Self/My Thoughts/Attraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/My Thoughts/Suffering.md",
+                "file": "Self/My Thoughts/Attraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/My Thoughts/Suffering.md"
+                "file": "Self/My Thoughts/Attraction.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   "active": "15b6bc35aa171f0b",
   "lastOpenFiles": [
     "Self/My Thoughts/Suffering.md",
+    "Self/My Thoughts/Attraction.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
@@ -192,7 +193,6 @@
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
-    "Self/Schedule/Visual Plan Image List.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
     "Self/Schedule/Images/Pasted image 20240926141052.png",

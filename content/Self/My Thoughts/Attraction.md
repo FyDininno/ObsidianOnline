@@ -1,0 +1,7 @@
+Feelings are hard to express in words because they are instinctual, not learned like language is.
+However, in order to have a proper relationship, one must convey their thoughts through words to the other person, nonetheless.
+When you like someone, you may not open yourself up to them - act a different way - in fear that if they saw who you really were they would not like you, they would leave.
+But, there is no point to a relationship if you cannot know and be known deeply. One must be completely open, and if the other person leaves, then they leave. 
+This is true for a functioning relationship. But, if you want something from the other person, then it is a reasonable stance to hide your true self in order to get it, morality aside.
+
+I do not know the best way to express one's feelings to another person. As known, attraction happens on a range from purely emotional to purely sexual, with a good amount of both in a great relationship. Sexually, I want her to look interesting and pretty. Emotionally, I would probably approach her and ask if she is available "Hey X, do you have a boyfriend?", and if she is available, then I would probably say "I have feelings for you" if she asked why. Looks wise, I am pretty good, so I am blessed with the gift of playing it safe - to simply flirt well and ask what I want with a lower rejection rate. Some people have a higher rejection rate, but rejection is just part of life, even the good looking.
