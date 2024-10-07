@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e935f9ea97f27c1",
+        "id": "a24f8002df605dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c14e11cabe920b",
+            "id": "74f3bdc8240229ed",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md"
               }
             }
           }
@@ -147,10 +147,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3c14e11cabe920b",
+  "active": "74f3bdc8240229ed",
   "lastOpenFiles": [
+    "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
+    "Research/UCSD Classes/CHEM 41A/Homework/HW 1.md",
+    "Self/Professional/Internship Companies.md",
+    "index.md",
     "Self/My Thoughts/Attraction.md",
+    "Self/My Thoughts/Desire and Connection.md",
+    "Self/My Thoughts/Facts of Emotions and Experiences.md",
+    "Self/My Thoughts/Human Purpose and Free Will.md",
+    "Self/My Thoughts/Quotes From Wiser People.md",
+    "Self/My Thoughts/Sadness.md",
+    "Self/My Thoughts/Sayings.md",
     "Self/My Thoughts/Suffering.md",
+    "Self/My Thoughts/The Emotional Ecosystem.md",
+    "Self/My Thoughts/The Waters.md",
+    "Self/My Thoughts/Waking of the World.md",
+    "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
@@ -158,16 +172,8 @@
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
-    "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
     "Research/UCSD Classes/SYN 2/Homework",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
-    "Self/My Thoughts/Waking of the World.md",
-    "Self/My Thoughts/The Waters.md",
-    "Self/My Thoughts/The Emotional Ecosystem.md",
-    "Self/My Thoughts/Sadness.md",
-    "Self/My Thoughts/Human Purpose and Free Will.md",
-    "Self/My Thoughts/Facts of Emotions and Experiences.md",
-    "Self/My Thoughts/Desire and Connection.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
     "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
@@ -185,12 +191,6 @@
     "Research/UCSD Classes/ECE 182/Untitled.md",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
-    "Notes/Chemistry/Bonding/Orbit Hybridization.md",
-    "Notes/Physics/Electrodynamics/The Maxwell Equation.md",
-    "Research/Fainman's Lab/Log/October 2nd.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
