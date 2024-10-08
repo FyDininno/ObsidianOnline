@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3d2e098eb46257",
+        "id": "9a5aa67decee25f2",
         "type": "tabs",
         "children": [
           {
-            "id": "eb9ea2df0485c279",
+            "id": "75b458b626922c22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Self/Cooking/Lentil Acini Di Peppe.md",
-                "mode": "source",
-                "source": false
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/Cooking/Lentil Acini Di Peppe.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/Cooking/Lentil Acini Di Peppe.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/Cooking/Lentil Acini Di Peppe.md"
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md"
               }
             }
           }
@@ -149,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb9ea2df0485c279",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
-    "Self/Cooking/Seitan.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Self/Cooking/Lentil Acini Di Peppe.md",
+    "Self/Cooking/Seitan.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Self/Cooking",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
@@ -184,10 +184,8 @@
     "Research/UCSD Classes/SYN 2/Homework",
     "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
     "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
     "Self/My Thoughts",
     "Research/UCSD Classes/NANO 119/Homework",
-    "Research/UCSD Classes/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/NANO 119",
     "Research/UCSD Classes/SYN 2/Lecture Notes",
     "Research/UCSD Classes/NANO 110/Lecture Notes",
