@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd1f4ad07dbb5e6",
+        "id": "ad3d2e098eb46257",
         "type": "tabs",
         "children": [
           {
-            "id": "4b5ad0bc0a0096ca",
+            "id": "eb9ea2df0485c279",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 1.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md"
               }
             }
           }
@@ -147,8 +149,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b5ad0bc0a0096ca",
+  "active": "eb9ea2df0485c279",
   "lastOpenFiles": [
+    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
@@ -169,7 +172,6 @@
     "Self/My Thoughts/The Waters.md",
     "Self/My Thoughts/Waking of the World.md",
     "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
-    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Images",
