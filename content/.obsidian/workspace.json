@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5aa67decee25f2",
+        "id": "0b151737dc58b081",
         "type": "tabs",
         "children": [
           {
-            "id": "75b458b626922c22",
+            "id": "becbca4eb7429d7d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.md",
+    "Templates/Draw Template.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
+    "Templates",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.md",
     "Self/Cooking/Lentil Acini Di Peppe.md",
     "Self/Cooking/Seitan.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
@@ -174,7 +178,6 @@
     "Self/My Thoughts/The Emotional Ecosystem.md",
     "Self/My Thoughts/The Waters.md",
     "Self/My Thoughts/Waking of the World.md",
-    "Research/UCSD Classes/SYN 2/Homework/Assignment 1.2 Venn Diagram.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Images",
@@ -182,14 +185,11 @@
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
     "Research/UCSD Classes/SYN 2/Homework",
-    "Research/UCSD Classes/NANO 119/Homework/Homework 1.md",
-    "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
     "Self/My Thoughts",
     "Research/UCSD Classes/NANO 119/Homework",
     "Research/UCSD Classes/NANO 119",
     "Research/UCSD Classes/SYN 2/Lecture Notes",
     "Research/UCSD Classes/NANO 110/Lecture Notes",
-    "Research/UCSD Classes/ECE 182/Homework",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
