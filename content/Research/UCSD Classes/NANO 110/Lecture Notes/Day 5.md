@@ -3,9 +3,6 @@
 3) wq
 4) w
 5) h,l,j,k
-6) b)
-7) r,rw,
-8) ciw
-9) ctrl+z
-10) 3dd
-11) 
+6) b),a)
+7) r,cw,u 3x
+11) 3dd,dd,d^,d$,dw,dG,p,3yy,?energy,/energy
