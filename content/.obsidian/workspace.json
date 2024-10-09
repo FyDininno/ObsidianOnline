@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26547a13c564e2f7",
+        "id": "cd2e4ccbe454ddfe",
         "type": "tabs",
         "children": [
           {
-            "id": "12f34dc733874e15",
+            "id": "3621756c86960fd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Research/UCSD Classes/ECE 182/Labs/Lab 2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,10 +141,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12f34dc733874e15",
+  "active": "3621756c86960fd5",
   "lastOpenFiles": [
-    "Self/My Thoughts/Being Alive.md",
+    "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.15.20.excalidraw.md",
+    "homework1.pdf",
+    "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
+    "Research/UCSD Classes/ECE 182/Homework/Untitled.md",
+    "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.11.27.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Homework/Imports",
     "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
+    "Self/My Thoughts/Being Alive.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
     "Notes/Mathematics/Numerical Methods/Galerkin Method.md",
     "Notes/Mathematics/Numerical Methods",
@@ -176,11 +175,6 @@
     "Research/UCSD Classes/CHEM 41A/Images",
     "index.md",
     "Self/My Thoughts/Attraction.md",
-    "Self/My Thoughts/Desire and Connection.md",
-    "Self/My Thoughts/Facts of Emotions and Experiences.md",
-    "Self/My Thoughts/Human Purpose and Free Will.md",
-    "Self/My Thoughts/Quotes From Wiser People.md",
-    "Self/My Thoughts/Sadness.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Images",
@@ -189,9 +183,6 @@
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
     "Research/UCSD Classes/SYN 2/Homework",
     "Self/My Thoughts",
-    "Research/UCSD Classes/NANO 119/Homework",
-    "Research/UCSD Classes/NANO 119",
-    "Research/UCSD Classes/SYN 2/Lecture Notes",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
