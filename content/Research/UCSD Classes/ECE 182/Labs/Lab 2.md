@@ -7,6 +7,6 @@
 2. Part B
 	1. Transmitted 3.6 mW
 		1. With vert pol 3.6 uW
-	2. Reflected 3.6 mW
-		1. With horizontal pol 3.8 uW
-		2. 
+	2. Reflected 4.9 mW
+		1. With horizontal pol 41 uW
+	3. 
