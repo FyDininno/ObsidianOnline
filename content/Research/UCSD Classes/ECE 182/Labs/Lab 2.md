@@ -9,4 +9,7 @@
 		1. With vert pol 3.6 uW
 	2. Reflected 4.9 mW
 		1. With horizontal pol 41 uW
-	3. 
+3. Part C
+	1. 110 from the vertical
+	2. 104 from the vertical
+	3. 98 from the vertical
