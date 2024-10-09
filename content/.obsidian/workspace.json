@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0b151737dc58b081",
+        "id": "26547a13c564e2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "becbca4eb7429d7d",
+            "id": "12f34dc733874e15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md"
+                "file": "Notes/Mathematics/Numerical Methods/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
+                "file": "Notes/Mathematics/Numerical Methods/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
+                "file": "Notes/Mathematics/Numerical Methods/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md"
+                "file": "Notes/Mathematics/Numerical Methods/Untitled.md"
               }
             }
           }
@@ -147,8 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "12f34dc733874e15",
   "lastOpenFiles": [
+    "Notes/Mathematics/Numerical Methods/Untitled.md",
+    "Notes/Mathematics/Numerical Methods",
+    "Self/Professional/Contacts.md",
+    "Self/Professional/Internship Companies.md",
     "Templates/Draw Template.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
     "Templates",
@@ -165,7 +170,6 @@
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
     "Research/UCSD Classes/CHEM 41A/Images",
-    "Self/Professional/Internship Companies.md",
     "index.md",
     "Self/My Thoughts/Attraction.md",
     "Self/My Thoughts/Desire and Connection.md",
@@ -176,8 +180,6 @@
     "Self/My Thoughts/Sayings.md",
     "Self/My Thoughts/Suffering.md",
     "Self/My Thoughts/The Emotional Ecosystem.md",
-    "Self/My Thoughts/The Waters.md",
-    "Self/My Thoughts/Waking of the World.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Images",
@@ -189,7 +191,6 @@
     "Research/UCSD Classes/NANO 119/Homework",
     "Research/UCSD Classes/NANO 119",
     "Research/UCSD Classes/SYN 2/Lecture Notes",
-    "Research/UCSD Classes/NANO 110/Lecture Notes",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
