@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c02bd13a1822220",
+        "id": "0ae6d5b783a3b6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "23bbd8abfa548777",
+            "id": "1616f2fee7e3d798",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23bbd8abfa548777",
+  "active": "1616f2fee7e3d798",
   "lastOpenFiles": [
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Notes/Physics/Entropy Change.md",
     "Notes/Chemistry/Acidity.md",
     "Notes/Mathematics/Tensors.md",
@@ -178,7 +179,6 @@
     "Self/Professional/Contacts.md",
     "Self/Professional/Internship Companies.md",
     "Templates/Draw Template.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
     "Templates",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.md",
     "Self/Cooking",
