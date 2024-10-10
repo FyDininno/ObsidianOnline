@@ -7,4 +7,4 @@ Tensors are important because they are the "basic" multilinear map. They are lik
 The Tensor Product: https://www.math3ma.com/blog/the-tensor-product-demystified
 The Category Theory of Tensors: https://www.jeremykun.com/2014/01/17/how-to-conquer-tensorphobia/
 
-In the spirit of multilinear product combinations of basis vectors, tensors can be thought of as nested lists. Matrices are rank 2 tensors because they are a list of lists. Rank three tensors can be thought of as a list of l
+In the spirit of multilinear product combinations of basis vectors, tensors can be thought of as nested lists. Matrices are rank 2 tensors because they are a list of lists. Rank three tensors can be thought of as a list of lists. 
