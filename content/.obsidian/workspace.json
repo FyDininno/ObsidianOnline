@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cd2e4ccbe454ddfe",
+        "id": "388c604c0fd3e804",
         "type": "tabs",
         "children": [
           {
-            "id": "3621756c86960fd5",
+            "id": "c778468cfbfe8bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Notes/Mathematics/Lagrange Multipliers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d87e1761f0ab72b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Mathematics/Multivector Calculus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Notes/Mathematics/Multivector Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Notes/Mathematics/Multivector Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md"
+                "file": "Notes/Mathematics/Multivector Calculus.md"
               }
             }
           }
@@ -149,8 +161,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3621756c86960fd5",
+  "active": "d87e1761f0ab72b6",
   "lastOpenFiles": [
+    "Notes/Mathematics/Lagrange Multipliers.md",
+    "Notes/Mathematics/Multivector Calculus.md",
+    "Notes/Mathematics/Differential Equations.md",
+    "Notes/Mathematics/Green's Functions.md",
+    "Notes/Mathematics/Statistics",
     "Notes/Physics/Entropy Change.md",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.15.20.excalidraw.md",
     "homework1.pdf",
@@ -162,7 +179,7 @@
     "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
     "Self/My Thoughts/Being Alive.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
-    "Notes/Mathematics/Numerical Methods/Galerkin Method.md",
+    "Notes/Mathematics/Galerkin Method.md",
     "Notes/Mathematics/Numerical Methods",
     "Self/Professional/Contacts.md",
     "Self/Professional/Internship Companies.md",
@@ -179,11 +196,7 @@
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
     "Research/UCSD Classes/CHEM 41A/Images",
-    "index.md",
-    "Self/My Thoughts/Attraction.md",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Images",
@@ -191,7 +204,6 @@
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
     "Research/UCSD Classes/SYN 2/Homework",
-    "Self/My Thoughts",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
