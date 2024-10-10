@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Notes/Mathematics/Tensors.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Notes/Mathematics/Tensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Notes/Mathematics/Tensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md"
+                "file": "Notes/Mathematics/Tensors.md"
               }
             }
           }
@@ -150,13 +151,17 @@
   },
   "active": "d87e1761f0ab72b6",
   "lastOpenFiles": [
+    "Notes/Mathematics/Statistics.md",
     "Notes/Mathematics/Multivector Calculus.md",
-    "Notes/Mathematics/Tensors.md",
+    "Notes/Mathematics/Geometric Algebra.md",
+    "Notes/Mathematics/Galerkin Method.md",
     "Notes/Mathematics/Differential Equations.md",
+    "Notes/Mathematics/Calculus.md",
+    "Notes/Physics/Entropy Change.md",
+    "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Statistics",
-    "Notes/Physics/Entropy Change.md",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.15.20.excalidraw.md",
     "homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
@@ -167,7 +172,6 @@
     "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
     "Self/My Thoughts/Being Alive.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
-    "Notes/Mathematics/Galerkin Method.md",
     "Notes/Mathematics/Numerical Methods",
     "Self/Professional/Contacts.md",
     "Self/Professional/Internship Companies.md",
@@ -179,10 +183,7 @@
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.md",
     "Self/Cooking/Lentil Acini Di Peppe.md",
     "Self/Cooking/Seitan.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Self/Cooking",
-    "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
-    "Research/UCSD Classes/CHEM 41A/Homework/HW 1.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Images",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
