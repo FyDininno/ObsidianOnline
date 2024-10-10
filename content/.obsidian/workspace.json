@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Multivector Calculus.md",
+                "file": "Notes/Physics/Entropy Change.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Multivector Calculus.md",
+                "file": "Notes/Physics/Entropy Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Multivector Calculus.md",
+                "file": "Notes/Physics/Entropy Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Multivector Calculus.md"
+                "file": "Notes/Physics/Entropy Change.md"
               }
             }
           }
@@ -151,11 +150,11 @@
   },
   "active": "d87e1761f0ab72b6",
   "lastOpenFiles": [
+    "Notes/Mathematics/Multivector Calculus.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Differential Equations.md",
     "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
-    "Notes/Mathematics/Multivector Calculus.md",
     "Notes/Mathematics/Statistics",
     "Notes/Physics/Entropy Change.md",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.15.20.excalidraw.md",
