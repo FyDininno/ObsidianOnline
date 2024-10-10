@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c778468cfbfe8bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mathematics/Lagrange Multipliers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d87e1761f0ab72b6",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -163,10 +151,11 @@
   },
   "active": "d87e1761f0ab72b6",
   "lastOpenFiles": [
-    "Notes/Mathematics/Lagrange Multipliers.md",
-    "Notes/Mathematics/Multivector Calculus.md",
+    "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Differential Equations.md",
+    "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
+    "Notes/Mathematics/Multivector Calculus.md",
     "Notes/Mathematics/Statistics",
     "Notes/Physics/Entropy Change.md",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.15.20.excalidraw.md",
@@ -195,7 +184,6 @@
     "Self/Cooking",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/HW 1.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Homework/HW 1, Isomer Practice.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Images",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
