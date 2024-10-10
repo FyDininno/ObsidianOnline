@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "388c604c0fd3e804",
+        "id": "1c02bd13a1822220",
         "type": "tabs",
         "children": [
           {
-            "id": "d87e1761f0ab72b6",
+            "id": "23bbd8abfa548777",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
-                "mode": "source",
-                "source": false
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Entropy Change.md"
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
               }
             }
           }
@@ -149,8 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d87e1761f0ab72b6",
+  "active": "23bbd8abfa548777",
   "lastOpenFiles": [
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Notes/Physics/Entropy Change.md",
     "Notes/Chemistry/Acidity.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Statistics.md",
@@ -159,12 +161,11 @@
     "Notes/Mathematics/Galerkin Method.md",
     "Notes/Mathematics/Differential Equations.md",
     "Notes/Mathematics/Calculus.md",
-    "Notes/Physics/Entropy Change.md",
     "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.15.20.excalidraw.md",
-    "homework1.pdf",
+    "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Untitled.md",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.11.27.excalidraw.md",
@@ -180,9 +181,6 @@
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
     "Templates",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.md",
-    "Self/Cooking/Lentil Acini Di Peppe.md",
     "Self/Cooking",
     "Research/UCSD Classes/CHEM 41A/Images",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
