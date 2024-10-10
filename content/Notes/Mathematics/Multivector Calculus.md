@@ -9,7 +9,7 @@ There are points on the curve traced out by $g$ whose tangent space is the same 
 
 # The Gradient
 The gradient is the generalization of the derivative to geometric objects with more than one dimension. 
-Given a smooth, open domain of dimension $r$, and a parameterization, $f$, onto the smooth, open domain,  $V$ (which is the geometric object).
+Given a smooth, open domain of dimension $r$ "$U$", and a $C^1$ parameterization "$f$", onto the smooth, open domain "$V$" (which is the geometric object) also of dimension $r$, but possibly embedded within a space of higher dimension, we may define the derivative operator as:$$\nabla = \partial_{u_{}i}$$
 
 
 
