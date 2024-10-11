@@ -11,9 +11,11 @@
             "id": "03a70bdcb9a2b057",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md"
+                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -77,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md",
+                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md",
+                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md"
+                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md"
               }
             }
           }
@@ -157,15 +158,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03a70bdcb9a2b057",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
+    "Notes/Mathematics/Numerical Analysis",
+    "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Differential Equations/Transport.md",
-    "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md",
-    "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
     "Notes/Mathematics/Differential Equations/Solutions via Green's Functions.md",
+    "Notes/Mathematics/Differential Equations/Lagrange Multipliers.md",
+    "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
+    "Notes/Mathematics/Calculus/Multivector Calculus.md",
+    "Notes/Scratch/My Functional Analysis.excalidraw.md",
+    "Notes/Mathematics/Calculus",
+    "Notes/Scratch/o-chem scratch.excalidraw.md",
+    "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
     "Notes/Mathematics/Differential Equations",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
-    "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
@@ -176,27 +183,21 @@
     "Notes/Chemistry/Acidity.md",
     "Notes/Mathematics/Tensors.md",
     "Notes/Mathematics/Statistics.md",
-    "Notes/Mathematics/Multivector Calculus.md",
     "Notes/Mathematics/Geometric Algebra.md",
-    "Notes/Mathematics/Galerkin Method.md",
-    "Notes/Mathematics/Calculus.md",
+    "Notes/Mathematics/Numerical Analysis/Galerkin Method.md",
     "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Untitled.md",
-    "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.11.27.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Homework/Imports",
-    "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
-    "Self/My Thoughts/Being Alive.md",
     "Notes/Mathematics/Numerical Methods",
     "Templates",
     "Self/Cooking",
     "Research/UCSD Classes/CHEM 41A/Images",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
-    "Research/UCSD Classes/ECE 182/Labs/Images",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
