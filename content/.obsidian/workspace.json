@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -146,12 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "9a877b3a7950ca1c",
   "lastOpenFiles": [
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Entropy Change.md",
@@ -179,7 +181,6 @@
     "Self/Professional/Internship Companies.md",
     "Templates/Draw Template.excalidraw.md",
     "Templates",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.md",
     "Self/Cooking",
     "Research/UCSD Classes/CHEM 41A/Images",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
