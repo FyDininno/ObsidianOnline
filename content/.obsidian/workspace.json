@@ -11,11 +11,9 @@
             "id": "03a70bdcb9a2b057",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md"
               }
             }
           },
@@ -79,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.md",
+                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.md",
+                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Differential Equations/Transport.md"
+                "file": "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md"
               }
             }
           }
@@ -160,8 +159,10 @@
   },
   "active": "03a70bdcb9a2b057",
   "lastOpenFiles": [
-    "Notes/Mathematics/Differential Equations/Solutions via Green's Functions.md",
     "Notes/Mathematics/Differential Equations/Transport.md",
+    "Notes/Mathematics/Differential Equations/Transport.excalidraw 1.md",
+    "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
+    "Notes/Mathematics/Differential Equations/Solutions via Green's Functions.md",
     "Notes/Mathematics/Differential Equations",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
     "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
@@ -189,9 +190,7 @@
     "Research/UCSD Classes/ECE 182/Homework/Imports",
     "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
     "Self/My Thoughts/Being Alive.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
     "Notes/Mathematics/Numerical Methods",
-    "Self/Professional/Contacts.md",
     "Templates",
     "Self/Cooking",
     "Research/UCSD Classes/CHEM 41A/Images",
