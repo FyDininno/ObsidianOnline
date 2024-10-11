@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae6d5b783a3b6ee",
+        "id": "fe7bb79c88b95887",
         "type": "tabs",
         "children": [
           {
-            "id": "1616f2fee7e3d798",
+            "id": "9a877b3a7950ca1c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md"
               }
             }
           }
@@ -150,7 +149,9 @@
   "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day4.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
+    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Entropy Change.md",
@@ -165,12 +166,10 @@
     "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Statistics",
-    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Untitled.md",
     "Research/UCSD Classes/ECE 182/Homework/Drawing 2024-10-09 15.11.27.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Homework/Imports",
     "Research/UCSD Classes/ECE 182/Labs/Lab 2.md",
     "Self/My Thoughts/Being Alive.md",
