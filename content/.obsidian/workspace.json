@@ -16,8 +16,19 @@
                 "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "97e365e4f70ccbe0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md"
               }
             }
           }
@@ -147,10 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a877b3a7950ca1c",
+  "active": "97e365e4f70ccbe0",
   "lastOpenFiles": [
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
