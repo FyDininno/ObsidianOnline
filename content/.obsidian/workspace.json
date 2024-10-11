@@ -11,9 +11,11 @@
             "id": "03a70bdcb9a2b057",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md"
+                "file": "Notes/Mathematics/Differential Equations/Transport.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -77,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
+                "file": "Notes/Mathematics/Differential Equations/Transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
+                "file": "Notes/Mathematics/Differential Equations/Transport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md"
+                "file": "Notes/Mathematics/Differential Equations/Transport.md"
               }
             }
           }
@@ -159,12 +160,15 @@
   },
   "active": "03a70bdcb9a2b057",
   "lastOpenFiles": [
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
+    "Notes/Mathematics/Differential Equations/Solutions via Green's Functions.md",
+    "Notes/Mathematics/Differential Equations/Transport.md",
+    "Notes/Mathematics/Differential Equations",
+    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
     "Notes/Scratch/Drawing 2024-10-05 11.32.25.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
-    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Entropy Change.md",
@@ -174,7 +178,6 @@
     "Notes/Mathematics/Multivector Calculus.md",
     "Notes/Mathematics/Geometric Algebra.md",
     "Notes/Mathematics/Galerkin Method.md",
-    "Notes/Mathematics/Differential Equations.md",
     "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Lagrange Multipliers.md",
     "Notes/Mathematics/Green's Functions.md",
@@ -189,7 +192,6 @@
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
     "Notes/Mathematics/Numerical Methods",
     "Self/Professional/Contacts.md",
-    "Self/Professional/Internship Companies.md",
     "Templates",
     "Self/Cooking",
     "Research/UCSD Classes/CHEM 41A/Images",
@@ -199,7 +201,6 @@
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
-    "Research/UCSD Classes/SYN 2/Homework",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
