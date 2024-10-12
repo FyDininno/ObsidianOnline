@@ -11,8 +11,10 @@
             "id": "e8c8a48c70212db4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Scratch/o-chem scratch.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Scratch/o-chem scratch.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
+              }
             }
           }
         ],
@@ -142,8 +149,10 @@
   },
   "active": "e8c8a48c70212db4",
   "lastOpenFiles": [
-    "Notes/Mathematics/My Functional Analysis.excalidraw.md",
     "Notes/Scratch/My Functional Analysis.excalidraw.md",
+    "Notes/Scratch/o-chem scratch.excalidraw.md",
+    "Templates/Excalidraw Template.excalidraw.md",
+    "Notes/Mathematics/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Topology/Metrics.md",
     "Notes/Mathematics/Untitled.md",
     "Notes/Mathematics/Differential Equations/Transport.md",
@@ -163,7 +172,6 @@
     "Notes/Mathematics/Numerical Analysis",
     "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Calculus",
-    "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
     "Notes/Mathematics/Differential Equations",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
@@ -172,7 +180,6 @@
     "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
-    "Notes/Physics/Entropy Change.md",
     "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
