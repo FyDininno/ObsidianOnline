@@ -1,4 +1,3 @@
-# Metrics
 ### *Definition* 1| A Metric
 1. Given a set $X$,
 2. A *metric* $d$ is defined on $X$ to be a function which takes $X \times X$ to $\mathbb{R}$, with the following properties:
@@ -31,15 +30,3 @@
 4. $d_{1}(x,y)<\delta\implies d_{2}(f(x),f(y))<\epsilon$.
 5. $f$ is said to be a homeomorphism if it is bijective.
 - This says given a point $x$ and its mapping to $f(x)$, there will always be a point $y$ in $X_{1}$ which will bring $f(y)$ arbitrarily close to $f(x)$. This is less powerful than having two equivalent metric spaces because there is no specification of the relationship between $\delta$ and $\epsilon$, whereas the equivalence case says that $\delta = \frac{\epsilon}{c_{2}}$.
-# Sequences
-### *Definition* 1| A Cauchy Sequence
-
-### *Definition* 2| Completeneess
-
-### *Definition* 3| Connectedness
-
-### *Definition* 4| Compactnedness
-
-### *Definition* 5| The Space of Compact Sets
-
-### *Definition* 6| The Distance Between Subspaces

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08ad6d4e3e478b30",
+        "id": "448c088635fdeb6c",
         "type": "tabs",
         "children": [
           {
-            "id": "03a70bdcb9a2b057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "234ce8c9457e3449",
+            "id": "5cb891c1f6be6af2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md"
+                "file": "Notes/Mathematics/My Functional Analysis.excalidraw.md"
               }
             }
           }
@@ -79,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
+                "file": "Notes/Mathematics/My Functional Analysis.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
+                "file": "Notes/Mathematics/My Functional Analysis.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md"
+                "file": "Notes/Mathematics/My Functional Analysis.excalidraw.md"
               }
             }
           }
@@ -158,44 +147,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ca816a0edb5115c",
+  "active": "5cb891c1f6be6af2",
   "lastOpenFiles": [
-    "Notes/Mathematics/Numerical Analysis",
-    "Notes/Mathematics/Calculus.md",
+    "Notes/Mathematics/Topology/Metrics.md",
+    "Notes/Mathematics/My Functional Analysis.excalidraw.md",
+    "Notes/Mathematics/Untitled.md",
     "Notes/Mathematics/Differential Equations/Transport.md",
     "Notes/Mathematics/Differential Equations/Solutions via Green's Functions.md",
     "Notes/Mathematics/Differential Equations/Lagrange Multipliers.md",
-    "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
+    "Self/My Thoughts/The Power of Sex.md",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
+    "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
+    "Notes/Mathematics/Algebra/Tensors.md",
+    "Notes/Mathematics/Algebra/Geometric Algebra.md",
+    "Notes/Mathematics/Topology/Sequences.md",
+    "Notes/Mathematics/Numerical Analysis/Statistics.md",
+    "Notes/Mathematics/Numerical Analysis/Galerkin Method.md",
+    "Notes/Mathematics/Topology",
+    "Notes/Mathematics/Algebra",
+    "Notes/Mathematics/Numerical Analysis",
+    "Notes/Mathematics/Calculus.md",
     "Notes/Scratch/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Calculus",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
     "Notes/Mathematics/Differential Equations",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
     "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Entropy Change.md",
-    "Notes/Chemistry/Acidity.md",
-    "Notes/Mathematics/Tensors.md",
-    "Notes/Mathematics/Statistics.md",
-    "Notes/Mathematics/Geometric Algebra.md",
-    "Notes/Mathematics/Numerical Analysis/Galerkin Method.md",
-    "Notes/Mathematics/Lagrange Multipliers.md",
-    "Notes/Mathematics/Green's Functions.md",
     "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
-    "Research/UCSD Classes/ECE 182/Homework/Untitled.md",
     "Research/UCSD Classes/ECE 182/Homework/Imports",
     "Notes/Mathematics/Numerical Methods",
-    "Templates",
-    "Self/Cooking",
-    "Research/UCSD Classes/CHEM 41A/Images",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
