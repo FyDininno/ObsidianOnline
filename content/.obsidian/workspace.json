@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c80d03ee1df9a76b",
+        "id": "1efe1823d056b82d",
         "type": "tabs",
         "children": [
           {
-            "id": "a33dbc7d1ce26ec9",
+            "id": "e8c8a48c70212db4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/Scratch/My Functional Analysis.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scratch/My Functional Analysis.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Scratch/My Functional Analysis.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Scratch/My Functional Analysis.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,9 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a33dbc7d1ce26ec9",
+  "active": "e8c8a48c70212db4",
   "lastOpenFiles": [
     "Notes/Mathematics/My Functional Analysis.excalidraw.md",
+    "Notes/Scratch/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Topology/Metrics.md",
     "Notes/Mathematics/Untitled.md",
     "Notes/Mathematics/Differential Equations/Transport.md",
@@ -168,7 +162,6 @@
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
     "Notes/Mathematics/Calculus.md",
-    "Notes/Scratch/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Calculus",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
