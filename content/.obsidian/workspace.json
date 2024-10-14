@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md"
               }
             }
           }
@@ -151,12 +150,12 @@
   },
   "active": "23e55e4a4842db68",
   "lastOpenFiles": [
-    "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
+    "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
     "Self/My Thoughts/I see clocks.md",
     "Notes/Physics/Quantum Mechanics/Chemistry Symmetry in Quantum Mechanics.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
