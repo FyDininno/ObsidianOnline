@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1efe1823d056b82d",
+        "id": "711307754b0ac923",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c8a48c70212db4",
+            "id": "d0bf7518a9a0e4b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Scratch/o-chem scratch.excalidraw.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Scratch/o-chem scratch.excalidraw.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md"
               }
             }
           }
@@ -147,10 +148,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c8a48c70212db4",
+  "active": "d0bf7518a9a0e4b7",
   "lastOpenFiles": [
-    "Notes/Scratch/My Functional Analysis.excalidraw.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
+    "Notes/Scratch/My Functional Analysis.excalidraw.md",
     "Templates/Excalidraw Template.excalidraw.md",
     "Notes/Mathematics/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Topology/Metrics.md",
@@ -176,10 +181,6 @@
     "Notes/Mathematics/Differential Equations",
     "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 1.md",
-    "Research/UCSD Classes/CHEM 41A/Homework/Smartwork Ch2 NOtes.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
