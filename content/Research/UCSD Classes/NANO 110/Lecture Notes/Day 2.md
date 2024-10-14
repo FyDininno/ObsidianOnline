@@ -1,6 +1,7 @@
 #### Terminal Commands for This Class
 ssh fdininno@login.expanse.sdsc.edu
-pwd: 6M@rTsD@@@a4yW
+pwd: 
+6M@rTsD@@@a4yW
 port: 22
 
 #### Bash Information
