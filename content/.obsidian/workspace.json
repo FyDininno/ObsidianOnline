@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "711307754b0ac923",
+        "id": "69c94ac22ddbf622",
         "type": "tabs",
         "children": [
           {
-            "id": "d0bf7518a9a0e4b7",
+            "id": "23e55e4a4842db68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md"
+                "file": "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md"
               }
             }
           }
@@ -148,10 +149,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0bf7518a9a0e4b7",
+  "active": "23e55e4a4842db68",
   "lastOpenFiles": [
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
+    "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
+    "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
+    "Self/My Thoughts/I see clocks.md",
+    "Notes/Physics/Quantum Mechanics/Chemistry Symmetry in Quantum Mechanics.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
@@ -175,12 +180,8 @@
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
-    "Notes/Mathematics/Calculus.md",
     "Notes/Mathematics/Calculus",
-    "Notes/Mathematics/Differential Equations/Drawing 2024-10-11 16.03.32.excalidraw.md",
     "Notes/Mathematics/Differential Equations",
-    "Research/UCSD Classes/ECE 182/Homework/Homework 1.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
