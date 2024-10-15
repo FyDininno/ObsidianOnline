@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c591d40538663c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d7e5398a5d87bcad",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md"
               }
             }
           }
@@ -157,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c591d40538663c1",
+  "active": "d7e5398a5d87bcad",
   "lastOpenFiles": [
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
