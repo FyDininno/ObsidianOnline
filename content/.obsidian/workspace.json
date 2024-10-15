@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md"
               }
             }
           }
@@ -158,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7e5398a5d87bcad",
+  "active": "5c591d40538663c1",
   "lastOpenFiles": [
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
