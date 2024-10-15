@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "933b5899b6f40206",
+        "id": "ad67d335d27f3e87",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e5398a5d87bcad",
+            "id": "74a0c802c6315b97",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md"
+                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7e5398a5d87bcad",
+  "active": "74a0c802c6315b97",
   "lastOpenFiles": [
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
@@ -173,7 +175,6 @@
     "Notes/Mathematics/Topology/Metrics.md",
     "Notes/Mathematics/Untitled.md",
     "Notes/Mathematics/Differential Equations/Transport.md",
-    "Notes/Mathematics/Differential Equations/Solutions via Green's Functions.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
