@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e2961461ab5669b8",
+        "id": "467142bb634caee8",
         "type": "tabs",
         "children": [
           {
-            "id": "662b4538ad9ca13d",
+            "id": "59f8d1f8d7a0736d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Faraday Effect.md"
-              }
-            }
-          },
-          {
-            "id": "9c2e222937f4d428",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
+                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
               }
             }
           }
@@ -158,8 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c2e222937f4d428",
+  "active": "59f8d1f8d7a0736d",
   "lastOpenFiles": [
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
@@ -184,8 +174,6 @@
     "Notes/Mathematics/Differential Equations/Lagrange Multipliers.md",
     "Research/UCSD Classes/CHEM 41A/Class Notes/Day 4.excalidraw.md",
     "Self/My Thoughts/The Power of Sex.md",
-    "Notes/Mathematics/Calculus/Multivector Calculus.md",
-    "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
