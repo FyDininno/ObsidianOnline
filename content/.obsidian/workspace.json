@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Notes/Physics/Electrodynamics/The Faraday Effect.md"
+              }
+            }
+          },
+          {
+            "id": "9c2e222937f4d428",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +158,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662b4538ad9ca13d",
+  "active": "9c2e222937f4d428",
   "lastOpenFiles": [
+    "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
-    "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
