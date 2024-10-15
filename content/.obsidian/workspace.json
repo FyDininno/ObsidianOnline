@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "467142bb634caee8",
+        "id": "cb5adcde6e969beb",
         "type": "tabs",
         "children": [
           {
-            "id": "59f8d1f8d7a0736d",
+            "id": "19519a621d3de657",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "16299901d7716f13",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,10 +141,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f8d1f8d7a0736d",
+  "active": "19519a621d3de657",
   "lastOpenFiles": [
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
