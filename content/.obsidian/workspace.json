@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "16299901d7716f13",
@@ -151,8 +150,8 @@
   },
   "active": "dc5ed3ba16e5b8e9",
   "lastOpenFiles": [
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
