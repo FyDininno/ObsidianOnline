@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md"
+                "file": "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "dc5ed3ba16e5b8e9",
   "lastOpenFiles": [
-    "Notes/Scratch/o-chem scratch.excalidraw.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
+    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
+    "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
     "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
     "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
@@ -174,8 +176,6 @@
     "Notes/Mathematics/Algebra/Tensors.md",
     "Notes/Mathematics/Algebra/Geometric Algebra.md",
     "Notes/Mathematics/Topology/Sequences.md",
-    "Notes/Mathematics/Numerical Analysis/Statistics.md",
-    "Notes/Mathematics/Numerical Analysis/Galerkin Method.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
