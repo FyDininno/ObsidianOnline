@@ -11,9 +11,11 @@
             "id": "3971966f9532d1b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Faraday Effect.md"
+                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Faraday Effect.md",
+                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Faraday Effect.md",
+                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/The Faraday Effect.md"
+                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md"
               }
             }
           }
@@ -150,6 +152,7 @@
   "active": "3971966f9532d1b9",
   "lastOpenFiles": [
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
+    "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
@@ -174,7 +177,6 @@
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
     "Notes/Mathematics/Algebra/Tensors.md",
-    "Notes/Mathematics/Algebra/Geometric Algebra.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
