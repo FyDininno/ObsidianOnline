@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a332557da921c849",
+        "id": "e2961461ab5669b8",
         "type": "tabs",
         "children": [
           {
-            "id": "3971966f9532d1b9",
+            "id": "662b4538ad9ca13d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
+                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
+                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Physics/Electrodynamics/History Of Superconductivity.md"
+                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
               }
             }
           }
@@ -149,10 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3971966f9532d1b9",
+  "active": "662b4538ad9ca13d",
   "lastOpenFiles": [
-    "Notes/Physics/Electrodynamics/The Faraday Effect.md",
+    "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
+    "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
@@ -176,7 +175,6 @@
     "Self/My Thoughts/The Power of Sex.md",
     "Notes/Mathematics/Calculus/Multivector Calculus.md",
     "Notes/Mathematics/Calculus/Algebraic Origins of Calculus.md",
-    "Notes/Mathematics/Algebra/Tensors.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
