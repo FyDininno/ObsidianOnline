@@ -8,7 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b472c9391ebd6ba",
+            "id": "f58d2fd1fa7d8356",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3cfcb851b448ffb3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e2d3342f26ceeef6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "066b4f3a595d8103",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "76c5cc09c321f4c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e1df70afca0702",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -147,15 +194,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b472c9391ebd6ba",
+  "active": "e2e1df70afca0702",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Templates/Drawing 2024-10-15 18.07.38.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
@@ -171,18 +223,12 @@
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 4.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 1.md",
     "Notes/Scratch/My Functional Analysis.excalidraw.md",
-    "Templates/Excalidraw Template.excalidraw.md",
-    "Notes/Mathematics/My Functional Analysis.excalidraw.md",
-    "Notes/Mathematics/Topology/Metrics.md",
-    "Notes/Mathematics/Untitled.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
     "Notes/Mathematics/Calculus",
     "Notes/Mathematics/Differential Equations",
     "Notes/Mathematics/Statistics",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
