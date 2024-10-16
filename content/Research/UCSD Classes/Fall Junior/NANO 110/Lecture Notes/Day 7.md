@@ -25,4 +25,6 @@ You need $\frac{41*42}{2}$ interactions between the electrons to calculate which
 	3. c) repulsive potential of the nuclei with each other
 	4. c) attractive potential of the electrons and the nuclei
 	5. d) repulsive potential of the electrons with each other
-3. 
+3. :
+	1. a) 49.5e-39 m
+	2. b) 72.5e-9 m
