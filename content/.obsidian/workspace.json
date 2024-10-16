@@ -6,6 +6,7 @@
       {
         "id": "0c4f206b13675f3a",
         "type": "tabs",
+        "dimension": 18.104575163398692,
         "children": [
           {
             "id": "7ce0dfb6b5490482",
@@ -24,6 +25,7 @@
       {
         "id": "64438d31c0511681",
         "type": "tabs",
+        "dimension": 81.89542483660131,
         "children": [
           {
             "id": "e69b5bfe5cf2c944",
@@ -36,8 +38,21 @@
               "icon": "lucide-file-text",
               "title": "homework1"
             }
+          },
+          {
+            "id": "9da527efba39e5d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Day 5.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Homework 1.excalidraw"
+              "title": "Backlinks for Day 5.excalidraw"
             }
           },
           {
@@ -129,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Homework 1.excalidraw"
+              "title": "Outgoing links from Day 5.excalidraw"
             }
           },
           {
@@ -156,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homework 1.excalidraw"
+              "title": "Outline of Day 5.excalidraw"
             }
           }
         ],
@@ -181,15 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ce0dfb6b5490482",
+  "active": "9da527efba39e5d1",
   "lastOpenFiles": [
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Lab 3.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
