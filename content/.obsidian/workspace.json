@@ -4,68 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb3d6c187442fc2",
+        "id": "5bf7c9dedf3844e1",
         "type": "tabs",
         "children": [
           {
-            "id": "03459560c6e47dfd",
+            "id": "850a78a6ea5dcf89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
+                "file": "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "d5ba7f9e09961485",
+        "id": "9228f893442ccd20",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb6d7e40f7256cf",
+            "id": "870c9fa81f44ad87",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "efe55d72dda1582b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80b7a16f50d47424",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f505b1ad714bb994",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6a0c733af33fb63a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md"
               }
             }
           }
@@ -199,13 +167,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80b7a16f50d47424",
+  "active": "850a78a6ea5dcf89",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
@@ -218,11 +189,9 @@
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
-    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 6.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 5.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
     "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
     "Self/My Thoughts/I see clocks.md",
