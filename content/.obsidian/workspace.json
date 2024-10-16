@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "09766a2a0bec7677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3cfcb851b448ffb3",
             "type": "leaf",
             "state": {
@@ -47,23 +59,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "5b89ded6cd711592",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2351f4a9cee47e2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md"
               }
             }
           }
@@ -193,15 +190,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f58d2fd1fa7d8356",
+  "active": "09766a2a0bec7677",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Templates/Drawing 2024-10-15 18.07.38.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior",
