@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0c4f206b13675f3a",
+        "id": "21682f55a4f26d16",
         "type": "tabs",
-        "dimension": 14.936708860759493,
         "children": [
           {
-            "id": "7ce0dfb6b5490482",
+            "id": "51e40c58391728a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
+                "file": "Self/My Thoughts/The Power of Sexual Activity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Homework 1.excalidraw"
+              "icon": "lucide-file",
+              "title": "The Power of Sexual Activity"
             }
           }
         ]
-      },
-      {
-        "id": "64438d31c0511681",
-        "type": "tabs",
-        "dimension": 85.0632911392405,
-        "children": [
-          {
-            "id": "e69b5bfe5cf2c944",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "homework1"
-            }
-          },
-          {
-            "id": "9da527efba39e5d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Day 4.excalidraw"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -125,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Self/My Thoughts/The Power of Sexual Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 4.excalidraw"
+              "title": "Backlinks for The Power of Sexual Activity"
             }
           },
           {
@@ -144,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+                "file": "Self/My Thoughts/The Power of Sexual Activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 4.excalidraw"
+              "title": "Outgoing links from The Power of Sexual Activity"
             }
           },
           {
@@ -171,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+                "file": "Self/My Thoughts/The Power of Sexual Activity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 4.excalidraw"
+              "title": "Outline of The Power of Sexual Activity"
             }
           }
         ],
@@ -196,15 +164,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9da527efba39e5d1",
+  "active": "51e40c58391728a5",
   "lastOpenFiles": [
+    "Self/My Thoughts/The Power of Sexual Activity.md",
+    "Self/My Thoughts/Attraction.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+    "Notes/Physics/Thermodynamics",
+    "Notes/Physics/Optics",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Lab 3.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
@@ -224,14 +196,12 @@
     "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
     "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
-    "Self/My Thoughts/I see clocks.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
     "Notes/Mathematics/Calculus",
     "Notes/Mathematics/Differential Equations",
     "Notes/Mathematics/Statistics",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
