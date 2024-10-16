@@ -18,6 +18,26 @@
             }
           },
           {
+            "id": "cd944c436224bab4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8b65470381fcb80d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
+              }
+            }
+          },
+          {
             "id": "3cfcb851b448ffb3",
             "type": "leaf",
             "state": {
@@ -26,19 +46,16 @@
                 "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "181e1f0ad687b603",
+        "type": "tabs",
+        "children": [
           {
-            "id": "e2d3342f26ceeef6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "066b4f3a595d8103",
+            "id": "9996c6b9698f3971",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -47,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,14 +194,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "066b4f3a595d8103",
+  "active": "8b65470381fcb80d",
   "lastOpenFiles": [
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/Day 1.md",
+    "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
     "Templates/Drawing 2024-10-15 18.07.38.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
@@ -205,8 +223,6 @@
     "Self/My Thoughts/I see clocks.md",
     "Notes/Physics/Quantum Mechanics/Chemistry Symmetry in Quantum Mechanics.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 4.md",
-    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 1.md",
-    "Notes/Scratch/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
