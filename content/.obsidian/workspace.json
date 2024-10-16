@@ -45,10 +45,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Day 5.excalidraw"
+              "title": "Day 4.excalidraw"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 5.excalidraw"
+              "title": "Backlinks for Day 4.excalidraw"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 5.excalidraw"
+              "title": "Outgoing links from Day 4.excalidraw"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 5.excalidraw"
+              "title": "Outline of Day 4.excalidraw"
             }
           }
         ],
@@ -197,13 +197,13 @@
   },
   "active": "9da527efba39e5d1",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Lab 3.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
