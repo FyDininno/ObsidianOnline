@@ -20,7 +20,44 @@
             }
           },
           {
-            "id": "e3890eed591f33cd",
+            "id": "97eaeed02dc19f57",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4dae4237d2b2c34d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6a40bc19a40bd618",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c6547fd33e0dfe85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a121ac2fcae6057",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -29,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -97,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
               }
             }
           }
@@ -160,16 +195,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3890eed591f33cd",
+  "active": "6a40bc19a40bd618",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
@@ -189,7 +224,6 @@
     "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
     "Self/My Thoughts/I see clocks.md",
     "Notes/Physics/Quantum Mechanics/Chemistry Symmetry in Quantum Mechanics.md",
-    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 4.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
