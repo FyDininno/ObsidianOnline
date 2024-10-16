@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad67d335d27f3e87",
+        "id": "656463d6d8d36727",
         "type": "tabs",
         "children": [
           {
-            "id": "74a0c802c6315b97",
+            "id": "1b472c9391ebd6ba",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
+    "width": 444.5024719238281,
     "collapsed": true
   },
   "right": {
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md",
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
               }
             }
           }
@@ -147,49 +147,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74a0c802c6315b97",
+  "active": "1b472c9391ebd6ba",
   "lastOpenFiles": [
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/CHEM 41A/Class Notes/Day 6.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior",
+    "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 5.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 4.excalidraw.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 2.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 6.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 5.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 6.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 5.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 3.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Notes/Physics/Quantum Mechanics/Path Integral Formulation.md",
     "Notes/Physics/Quantum Mechanics/Everettean Mechanics.md",
     "Self/My Thoughts/I see clocks.md",
     "Notes/Physics/Quantum Mechanics/Chemistry Symmetry in Quantum Mechanics.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 4.md",
-    "Research/UCSD Classes/NANO 110/Lecture Notes/Day 1.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 4.md",
+    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 1.md",
     "Notes/Scratch/My Functional Analysis.excalidraw.md",
     "Templates/Excalidraw Template.excalidraw.md",
     "Notes/Mathematics/My Functional Analysis.excalidraw.md",
     "Notes/Mathematics/Topology/Metrics.md",
     "Notes/Mathematics/Untitled.md",
-    "Notes/Mathematics/Differential Equations/Transport.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",
     "Notes/Mathematics/Calculus",
     "Notes/Mathematics/Differential Equations",
     "Notes/Mathematics/Statistics",
-    "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
-    "Research/UCSD Classes/ECE 182/Homework/Imports/homework1.pdf",
-    "Research/UCSD Classes/ECE 182/Homework/Imports",
-    "Notes/Mathematics/Numerical Methods",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
-    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
-    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
-    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
-    "Research/UCSD Classes/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212726_400.png",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212714_656.png",
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
