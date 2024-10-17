@@ -1,4 +1,4 @@
-Intercourse is something evolutionary baked into each and every one of us.
+Sexual activity is something evolutionary baked into each and every one of us.
 
 Two weekends ago, I kissed a girl for the first time. At first, it felt weird because I had never done it before, but I went along with it. She used her tongue. Now looking back at it, I think it is kind of hot.
 
