@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "806201e89beefe2b",
+        "id": "6b72cd3763443663",
         "type": "tabs",
-        "dimension": 76.10126582278481,
         "children": [
           {
-            "id": "d1bfbfdde4ba5844",
+            "id": "9216f43cd6e8c530",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
+                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Homework 1.excalidraw"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7173d93cfda725bb",
-        "type": "tabs",
-        "dimension": 23.89873417721519,
-        "children": [
-          {
-            "id": "4b8bc9f742f41051",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Day 4.excalidraw"
-            }
-          },
-          {
-            "id": "6319e2edf14ee39f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "homework1"
+              "title": "Superconductivity.excalidraw"
             }
           }
         ]
@@ -195,7 +163,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b8bc9f742f41051",
+  "active": "9216f43cd6e8c530",
   "lastOpenFiles": [
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
