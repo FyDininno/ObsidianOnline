@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6b72cd3763443663",
+        "id": "a41eb376f7b19736",
         "type": "tabs",
         "children": [
           {
-            "id": "9216f43cd6e8c530",
+            "id": "e5358631fcffc845",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Superconductivity.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "homework1"
             }
           }
         ]
@@ -163,9 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9216f43cd6e8c530",
+  "active": "e5358631fcffc845",
   "lastOpenFiles": [
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Optics/Gaussian Beams.md",
@@ -191,7 +192,6 @@
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
-    "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 6.md",
     "Notes/Mathematics/Topology",
