@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a41eb376f7b19736",
+        "id": "4332c0d2a8ce357f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5358631fcffc845",
+            "id": "f4300c7c98e7cfbe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
+                "file": "Self/My Thoughts/Oppenness.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "homework1"
+              "icon": "lucide-file",
+              "title": "Oppenness"
             }
           }
         ]
@@ -75,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -163,17 +164,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5358631fcffc845",
+  "active": "f4300c7c98e7cfbe",
   "lastOpenFiles": [
+    "Self/My Thoughts/Power of Sexual Activity.md",
+    "Self/My Thoughts/Being Alive.md",
+    "Self/My Thoughts/Sayings.md",
+    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Notes/Physics/Quantum Mechanics/Superconductivity.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 4.excalidraw.md",
     "Notes/Physics/Optics/Gaussian Beams.md",
     "Notes/Physics/Optics/Paraxial Approximation.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 5.excalidraw.md",
     "Self/My Thoughts/Oppenness.md",
-    "Self/My Thoughts/The Power of Sexual Activity.md",
     "Self/My Thoughts/Attraction.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Notes/Physics/Thermodynamics",
@@ -193,7 +196,6 @@
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
     "Notes/Physics/Electrodynamics/The Faraday Effect.md",
     "Notes/Physics/Electrodynamics/History Of Superconductivity.md",
-    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 6.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Analysis",

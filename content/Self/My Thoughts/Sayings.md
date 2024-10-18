@@ -7,3 +7,9 @@ People leave a house to go somewhere else. But the mind is the true house that b
 Empathy is the true gift of humanity. Those without it don't ever live.
 
 The battle of ideas determines the morality of the future.
+
+Everybody's got to fight their own fight.
+
+Put shit in, get shit out.
+
+Demolish your ideological enemies.

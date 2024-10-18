@@ -1,2 +1,4 @@
 It feels pointless to try to be around people you do not interact with. It is equally unstimulating to try to talk to someone with whom you seem to share no interests (at least on the surface). This is because if you already know the answer to your question before you ask it (how was your day, good), and they always answer by the default, then both of you have essentially not interacted at all, more of performed a ritual. This is the same as talking to an inanimate object yet expecting human connection. This will lead to disappointment and nihilism, if all interactions will be this way.
 On the other hand, enthusiasm and shared interest will result in joy and purpose and a sense of unity and support.
+
+Each one of these people you see around you can be an alive or death object to you.
