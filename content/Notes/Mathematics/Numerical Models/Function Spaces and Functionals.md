@@ -22,4 +22,4 @@ Let's say that we change our function vector just a little bit $y_{\epsilon}(x) 
 
 We may see how our functional $I(f)$ changes, where $f$ is within our function space.
 
-Essentially, we have done a sort of directional derivative if we consider $\eta(x)$ to be our direction and $\epsi lon$
+Essentially, we have done a sort of directional derivative if we consider $\eta(x)$ to be our direction and $\epsilon$ to be our perturbation or "variation" constant.
