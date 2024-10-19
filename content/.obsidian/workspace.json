@@ -11,28 +11,17 @@
             "id": "40668600fcd70d04",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md"
+                "file": "Notes/Mathematics/Numerical Models/Function Spaces and Functionals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Day 6.excalidraw"
-            }
-          },
-          {
-            "id": "d00cde73a7f92da0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "o-chem scratch.excalidraw"
+              "icon": "lucide-file",
+              "title": "Function Spaces and Functionals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -176,9 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d00cde73a7f92da0",
+  "active": "40668600fcd70d04",
   "lastOpenFiles": [
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
+    "Notes/Mathematics/Numerical Models/Function Spaces and Functionals.md",
+    "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
     "Self/My Thoughts/Rules of Thumb.md",
     "Self/My Thoughts/Oppenness.md",
@@ -206,8 +196,6 @@
     "Templates/Drawing 2024-10-15 18.07.38.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior",
-    "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 5.excalidraw.md",
-    "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Models",
