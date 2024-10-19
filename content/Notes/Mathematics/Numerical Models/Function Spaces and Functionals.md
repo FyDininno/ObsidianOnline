@@ -22,6 +22,8 @@ For example, the functional $F(A,B)=A+B$, $A$ and $B$ really depend on our domai
 Given the above-mentioned functional, we might try to calculate the derivative with respect to $A$
 This would result in $\frac{\partial F}{\partial A} = 1 + \frac{\partial B}{\partial A} = 1+0=1$.
 
+Pretty much, 
+
 Suppose that $B=F(A(x))$.
 Then, the equation would have read $\frac{\partial F}{\partial A} = 1 + \frac{\partial B}{\partial A} = 1+0=1$
 
