@@ -1,4 +1,0 @@
-# Problem 2 Thermo Practice:
-- Choice C looks like it is en-tropically unfavorable because two molecules fuse into one (or three fuse to two if you consider water in the equation). Heat will act against this because it will serve to maximize the number of microstates (heat wants as much random motion as possible, it will try to teach the product apart if possible). Therefore, I believe $\Delta S$ is less than zero for this reaction.
-- It looks like choice A and C are generally reversible, meaning $\Delta S$ is about zero because if it is equally likely to go backward, $\Delta S$ cannot be non-zero otherwise one direction of the chemistry would be less likely. Maybe they are no reversible, but because the state remains the same and the number of molecules remains the same, it seems like the Gibbs Free Energy is purely dependent on $\Delta H$ and not $\Delta S$.
-- Choice B looks like $\Delta S$ is positive because the number of molecules is increasing.

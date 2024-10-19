@@ -1,3 +1,0 @@
-A bird chirps, I see it in my mind. It is on a brown oak tree, a little beige bird, it is, with black highlights and a white underbelly.
-
-There is no other way to describe it other than the universe willed it to be that we have empathy. I am not saying that it is right or wrong (objectively) that we do have it, but the universe thought it was right at this moment (thinking not in the way we humans think, more of doing its thing). It can be taken away from us, just like it has been given, so I say that we cherish it as a gift while it lasts. Even if imperfectly, just as how someone sees objects at the bottom of a pond, we see into other living beings.

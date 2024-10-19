@@ -1,1 +1,0 @@
-Do what you want immediately without question.
