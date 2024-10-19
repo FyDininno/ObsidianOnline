@@ -18,9 +18,15 @@
               "icon": "excalidraw-icon",
               "title": "Homework 1.excalidraw"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2717b6d230a55abc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "be0abe453f221a95",
+            "id": "e3a30e86468089bf",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -177,10 +183,10 @@
   },
   "active": "95616e4f99606021",
   "lastOpenFiles": [
-    "Pasted Image 20241019122334_706.png",
-    "Pasted Image 20241019122245_042.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
+    "Pasted Image 20241019122334_706.png",
+    "Pasted Image 20241019122245_042.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
     "Notes/Mathematics/Numerical Models/Galerkin Method.md",
@@ -223,7 +229,6 @@
     "Research/UCSD Classes/CHEM 41A/Untitled.canvas",
     "Self/Schedule/Visual Plan - Fall 2024.canvas",
     "Self/Schedule/Images/Pasted image 20241001113452.png",
-    "Self/Schedule/Images/Pasted image 20240926141052.png",
-    "Self/Schedule/Images/Pasted image 20240826190459.png"
+    "Self/Schedule/Images/Pasted image 20240926141052.png"
   ]
 }
