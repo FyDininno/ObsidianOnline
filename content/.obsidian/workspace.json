@@ -20,36 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4be9db54ffbf807a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbe453c14e32f168",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "homework1"
-            }
-          },
-          {
-            "id": "7e3f81383f551194",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Day 6.excalidraw"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
