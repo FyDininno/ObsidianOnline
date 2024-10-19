@@ -15,7 +15,15 @@ The space which contains the vectors {$f$} is called a function space.
 # Functionals
 
 Functionals are functions on our so-called "vectors" which return a numerical value for each point in our domain.
+For example, the functional $F(A,B)=A+B$, $A$ and $B$ really depend on our domain $V$, so it should be taken to mean $F(A(x),B(x))=A(x)+B(x)$
 
+## The derivative of a functional
+
+Given the above-mentioned functional, we might try to calculate the derivative with respect to $A$
+This would result in $\frac{\partial F}{\partial A} = 1 + \frac{\partial B}{\partial A} = 1+0=1$.
+
+Suppose that $B=F(A(x))$.
+Then, the equation would have read $\frac{\partial F}{\partial A} = 1 + \frac{\partial B}{\partial A} = 1+0=1$
 
 # Euler Lagrange Equation
 
