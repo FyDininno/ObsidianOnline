@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4585175560c051ab",
+        "id": "d8fe51907b45e403",
         "type": "tabs",
         "children": [
           {
-            "id": "75f36b0db2cbd779",
+            "id": "3a5220289d344534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/NANO 119/Homework/Homework 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homework 2"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -165,20 +160,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75f36b0db2cbd779",
+  "active": "5ca816a0edb5115c",
   "lastOpenFiles": [
+    "Notes/Imports and Pastes/Pasted image 20241018223658.png",
+    "Pasted Image 20241019122245_042.png",
+    "Notes/Mathematics/Algebra/Function Spaces and Functionals.md",
+    "Notes/Imports and Pastes",
+    "Pasted Image 20241019122334_706.png",
     "Research/UCSD Classes/Fall Junior/NANO 119/Homework/Homework 2.md",
     "Research/UCSD Classes/Fall Junior/ECE 107",
     "Research/UCSD Classes/Fall Junior/PHYS 139",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
-    "Pasted Image 20241019122334_706.png",
-    "Pasted Image 20241019122245_042.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 6.excalidraw.md",
     "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
     "Notes/Mathematics/Numerical Models/Galerkin Method.md",
-    "Notes/Mathematics/Algebra/Function Spaces and Functionals.md",
-    "Pasted image 20241018223658.png",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Self/My Thoughts/Rules of Thumb.md",
@@ -200,12 +196,10 @@
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/First Informal Meeting.md",
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/Day 1.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
     "Research/UCSD Classes/Fall Junior",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Models",
-    "Notes/Mathematics/Calculus",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
