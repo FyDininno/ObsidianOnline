@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mathematics/Numerical Models/Function Spaces and Functionals.md",
+                "file": "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Function Spaces and Functionals"
+              "title": "The Finite Element Method"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "40668600fcd70d04",
   "lastOpenFiles": [
+    "Notes/Mathematics/Numerical Models/Galerkin Method.md",
+    "Notes/Mathematics/Algebra/Function Spaces and Functionals.md",
+    "Pasted image 20241018223658.png",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
-    "Notes/Mathematics/Numerical Models/Function Spaces and Functionals.md",
     "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
     "Self/My Thoughts/Rules of Thumb.md",
@@ -194,7 +196,6 @@
     "Research/UCSD Classes/Fall Junior/SYN 2/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
     "Templates/Drawing 2024-10-15 18.07.38.excalidraw.md",
-    "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 1.md",
     "Research/UCSD Classes/Fall Junior",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
@@ -212,7 +213,6 @@
     "Self/Schedule/Images/Pasted image 20241001113452.png",
     "Self/Schedule/Images/Pasted image 20240926141052.png",
     "Self/Schedule/Images/Pasted image 20240826190459.png",
-    "Self/Schedule/Images/Pasted image 20240826162706.png",
-    "Pasted image 20240926141008.png"
+    "Self/Schedule/Images/Pasted image 20240826162706.png"
   ]
 }

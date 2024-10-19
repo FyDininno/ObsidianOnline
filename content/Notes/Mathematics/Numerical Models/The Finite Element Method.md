@@ -13,5 +13,6 @@ In our example, we let u(0)=0.
 # Four Types of Solutions
 
 ## Pure Mathematics
-We view the equation as a linear problem, where the derivatives act as linear operators.  $$Lu-f$$
+We view the equation as a linear problem, where the derivatives act as linear operators.  $$Lu-f=0$$
 We find all $f$ st there is a $u$ which satisfies the equation above. Then, we count the problem as solved.
+What we can do 

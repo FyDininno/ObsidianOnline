@@ -24,7 +24,9 @@ This would result in $\frac{\partial F}{\partial A} = 1 + \frac{\partial B}{\par
 
 When we talk about the derivative definition of a functional, we treat all inputs as completely independent fixed inputs to F, so $\frac{\partial B}{\partial A} = 0$. This alternative type of derivative is called a variation. The specific definition for the functional derivative is as follows:
 
+![[Pasted image 20241018223658.png]]
 
+Notice how the right hand side looks like a normal derivative, a difference quotient that mentions nothing about the domain of the function $f$. This allows us to take partials of the functional like we did earlier and treat the inputs as completely independent.
 # Euler Lagrange Equation
 
 Let's say that we change our function vector just a little bit $y_{\epsilon}(x) = y_{0}(x) + \epsilon \eta(x)$.
