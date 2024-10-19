@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Day 6.excalidraw"
             }
+          },
+          {
+            "id": "d00cde73a7f92da0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "o-chem scratch.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40668600fcd70d04",
+  "active": "d00cde73a7f92da0",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
     "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
     "Self/My Thoughts/Rules of Thumb.md",
     "Self/My Thoughts/Oppenness.md",
@@ -191,7 +205,6 @@
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 2.md",
     "Templates/Drawing 2024-10-15 18.07.38.excalidraw.md",
     "Research/UCSD Classes/Fall Junior/ECE 182/Lecture Notes/Day 1.md",
-    "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
     "Research/UCSD Classes/Fall Junior",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 5.excalidraw.md",
     "Research/UCSD Classes/ECE 182/Lecture Notes/Day 6.md",
