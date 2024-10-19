@@ -22,7 +22,9 @@ For example, the functional $F(A,B)=A+B$, $A$ and $B$ really depend on our domai
 Given the above-mentioned functional, we might try to calculate the derivative with respect to $A$
 This would result in $\frac{\partial F}{\partial A} = 1 + \frac{\partial B}{\partial A} = 1+0=1$.
 
-When we talk about the derivative definition of a functional, we treat all inputs as completely independent fixed inputs to F, so $\frac{\partial B}{\partial A} = 0$. This alternative type of derivative is called a variation. If we used the derivative definition as it pertains to traditional calculus, we would have to employ the chain rule $\frac{\partial B}{\partial A} = 0$.
+When we talk about the derivative definition of a functional, we treat all inputs as completely independent fixed inputs to F, so $\frac{\partial B}{\partial A} = 0$. This alternative type of derivative is called a variation. The specific definition for the functional derivative is as follows:
+
+
 # Euler Lagrange Equation
 
 Let's say that we change our function vector just a little bit $y_{\epsilon}(x) = y_{0}(x) + \epsilon \eta(x)$.
