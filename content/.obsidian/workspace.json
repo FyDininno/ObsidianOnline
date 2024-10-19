@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b1f545e39661317",
+        "id": "4585175560c051ab",
         "type": "tabs",
         "children": [
           {
-            "id": "95616e4f99606021",
+            "id": "75f36b0db2cbd779",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md"
+                "file": "Research/UCSD Classes/Fall Junior/NANO 119/Homework/Homework 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Homework 1.excalidraw"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2717b6d230a55abc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3a30e86468089bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "homework1"
+              "icon": "lucide-file",
+              "title": "Homework 2"
             }
           }
         ]
@@ -93,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5024719238281,
-    "collapsed": true
+    "width": 444.5024719238281
   },
   "right": {
     "id": "16299901d7716f13",
@@ -181,8 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95616e4f99606021",
+  "active": "75f36b0db2cbd779",
   "lastOpenFiles": [
+    "Research/UCSD Classes/Fall Junior/NANO 119/Homework/Homework 2.md",
+    "Research/UCSD Classes/Fall Junior/ECE 107",
+    "Research/UCSD Classes/Fall Junior/PHYS 139",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Imports/homework1.pdf",
     "Research/UCSD Classes/Fall Junior/ECE 182/Homework/Homework 1.excalidraw.md",
     "Pasted Image 20241019122334_706.png",
@@ -219,8 +205,6 @@
     "Notes/Mathematics/Algebra",
     "Notes/Mathematics/Numerical Models",
     "Notes/Mathematics/Calculus",
-    "Notes/Mathematics/Differential Equations",
-    "Notes/Mathematics/Statistics",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
