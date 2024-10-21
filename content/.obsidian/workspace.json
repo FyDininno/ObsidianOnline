@@ -11,12 +11,14 @@
             "id": "3a5220289d344534",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Scratch/o-chem scratch.excalidraw.md"
+                "file": "Notes/Mathematics/Special Functions/Logarithms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "o-chem scratch.excalidraw"
+              "icon": "lucide-file",
+              "title": "Logarithms"
             }
           }
         ]
@@ -164,6 +166,9 @@
   },
   "active": "3a5220289d344534",
   "lastOpenFiles": [
+    "Notes/Mathematics/Special Functions/Logarithms.md",
+    "Notes/Scratch/o-chem scratch.excalidraw.md",
+    "Notes/Mathematics/Special Functions",
     "Notes/Imports and Pastes/Pasted image 20241018223658.png",
     "Pasted Image 20241019122245_042.png",
     "Notes/Mathematics/Algebra/Function Spaces and Functionals.md",
@@ -178,7 +183,6 @@
     "Notes/Mathematics/Numerical Models/The Finite Element Method.md",
     "Notes/Mathematics/Numerical Models/Galerkin Method.md",
     "Research/UCSD Classes/Fall Junior/CHEM 41A/Class Notes/Day 6.excalidraw.md",
-    "Notes/Scratch/o-chem scratch.excalidraw.md",
     "Self/My Thoughts/Rules of Thumb.md",
     "Self/My Thoughts/Oppenness.md",
     "Self/My Thoughts/Power of Sexual Activity.md",
@@ -201,7 +205,6 @@
     "Research/UCSD Classes/Fall Junior",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
-    "Notes/Mathematics/Numerical Models",
     "Research/UCSD Classes/ECE 182/Labs/Lab 1.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212659_799.png",
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Images/Pasted Image 20241006212753_823.png",
