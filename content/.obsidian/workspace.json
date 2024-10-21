@@ -11,14 +11,12 @@
             "id": "55d175f6574c3592",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Chemistry/Bonding/Orbit Hybridization.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Chemistry/Functional Groups.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Orbit Hybridization"
+              "icon": "excalidraw-icon",
+              "title": "Functional Groups.excalidraw"
             }
           }
         ]
@@ -167,6 +165,7 @@
   },
   "active": "55d175f6574c3592",
   "lastOpenFiles": [
+    "Notes/Chemistry/Bonding/Orbit Hybridization.md",
     "Templates/Excalidraw Template.excalidraw.md",
     "Notes/Chemistry/Functional Groups.excalidraw.md",
     "Notes/Mathematics/Special Functions/Logarithms.md",
@@ -202,7 +201,6 @@
     "Research/UCSD Classes/Fall Junior/ECE 182/Labs/Lab 3.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 7.md",
     "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 2.md",
-    "Research/UCSD Classes/Fall Junior/NANO 110/Lecture Notes/Day 3.md",
     "Research/UCSD Classes/Fall Junior",
     "Notes/Mathematics/Topology",
     "Notes/Mathematics/Algebra",
