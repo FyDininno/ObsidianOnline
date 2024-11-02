@@ -19,7 +19,7 @@ My skill set includes **programming** (Java, Python, Matlab, Bash, Linux, Github
 #### Major
 My current major is **nanoengineering**. The major specializes in consumer electronics (screens, batteries, computer chips), new pharmaceuticals (micelles, nanoparticle drug delivery), and nanomanufacturing (metallic polyhedra, carbon nanotubes)
 
-#### Research Labq
+#### Research Lab
 I am currently in a **photonics**-based research lab run by **Yeshaiahu Fainman**. I joined in the Fall of 2024. My current assignment is to run simulations using the Finite Element Method to calculate the normal modes of silicon waveguides. Right now, the software I am using is FEniCSx.
 
 #### Personal Projects
