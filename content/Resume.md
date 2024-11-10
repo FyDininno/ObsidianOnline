@@ -5,7 +5,7 @@
 #### Introduction
 I'm Frank Dininno, born and raised in California, and I am an undergraduate at The University of California, San Diego.
 
-My primary interests are photonics and molecular self-assembly, and I believe these are necessary to the clean, technological development of our society. 
+My primary interests are photonics and molecular self-assembly, and simulations.
 
 I am interested in any **jobs involving** organic **chemical synthesis** or **self-assembly**.
 
