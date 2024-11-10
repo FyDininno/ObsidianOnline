@@ -5,15 +5,15 @@
 #### Introduction
 I'm Frank Dininno, born and raised in California, and I am an undergraduate at The University of California, San Diego.
 
-My primary interests are photonics and molecular self-assembly, and simulations.
+My primary interests are photonics and molecular self-assembly, and simulations for engineering.
 
-I am interested in any **jobs involving** organic **chemical synthesis** or **self-assembly**.
+I am interested in any jobs involving organic **chemical synthesis** or **self-assembly**.
 
 #### Skills
-My skill set includes **programming** (Java, Python, Matlab, Bash, Shell, Linux, Github), **computer-aided design** (Onshape, Autodesk, Blender, Klayout), and **3D printing** (FLM, Resin). 
+My skill set includes **programming** (Java, Python, Matlab, Bash, Shell, Linux, Github), **computer-aided design** (Onshape, Autodesk, Blender, Klayout), **3D printing** (FLM, Resin), and **running simulations** (FEM, DFT).
 
 #### Major
-My current major is **nanoengineering**. The major specializes in **consumer electronics** (screens, batteries, computer chips), new **pharmaceuticals** (micelles, nanoparticle drug delivery), and **nanomanufacturing** (metallic polyhedra, carbon nanotubes)
+My current major is **nanoengineering**, which specializes in **consumer electronics** (screens, batteries, computer chips), emerging **pharmaceuticals** (micelles, nanoparticle drug delivery), and **nanofabrication** (metallic polyhedra, carbon nanotubes)
 
 #### Course History
 
