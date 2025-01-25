@@ -64,6 +64,12 @@ $\mathbb{G}^n =\cup_{i} \{G_{0}\dots G_{n}\}$ where:
 7. *Equivalent Representations of $A_{k}$*
 	1. A_k stays the same under the rotation 
 	2. A_k stays the same under one vector having an addition within the span of the other vectors, within its own span
+8. Two elements of different grades are not collinear.
+	1. Start with a non-zero bivector 
+	2. Choose one of the two components
+	3. Argue that if the component not chosen is collinear, then the bivector does not satisfy the zero dot product condition. Therefore, a contradiction has arisen by assuming that both of the components are not collinear.
+9. All orthogonal transformations result in the same element or its negative.
+	1. I have no idea how to prove this yet.
 # Operations
 # Elucidations on the intent, rules, and geometric insights of GA
 # Applications
