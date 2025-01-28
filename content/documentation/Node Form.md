@@ -56,5 +56,7 @@ This is how it looks all together. I have added the "Select" node and the "Delet
 	- You cannot reference definitions created earlier in the same dictionary node.
 3. **Troubleshooting**
 	- The best way to troubleshoot a problem is to start with a working example, then run change one node at a time while pressing the start button in-between to see where the animation breaks.
-4. **Errors in the Add-on**:
+4. **Infinities in Your Calculations**:
+	- Dividing by zero will cause your animation to crash. Be careful, especially with the time variable. If you cannot avoid dividing by zero, you will have to import a file that catches the exception or returns a different value at the discontinuity.
+5. **Errors in the Add-on**:
 	- There are errors in the add-on, as of now. For example, when the frame sparseness is different between successive transformations, the animation formats the animation keys undesirably, leading to a warped animation frame at the transition between two successive transformation animations.
