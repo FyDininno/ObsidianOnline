@@ -19,7 +19,7 @@ My primary interests are photonics, molecular self-assembly, and simulations.
 
 I am interested in any jobs involving **photonics** or host-guest **supramolecular chemistry**.
 #### Skills
-My skill set includes **programming** (Java, Python, Matlab, Bash, Shell, Linux, Github), **computer-aided design** (Onshape, Autodesk, Blender, Klayout), **3D printing** (FLM, Resin), and **running simulations** (FEM, DFT).
+My skill set includes **programming** (Java, Python, Matlab, Bash, Shell, Linux, Github), **computer-aided design** (Onshape, Autodesk, Blender, Klayout), **3D printing** (FLM, Resin), and **simulations** (FEM, DFT).
 #### Major
 My current major is **nanoengineering**, which specializes in **consumer electronics** (screens, batteries, computer chips), emerging **pharmaceuticals** (micelles, nanoparticle drug delivery), and **nanofabrication** (metallic polyhedra, carbon nanotubes)
 #### Research Lab
