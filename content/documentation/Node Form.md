@@ -13,6 +13,7 @@ Every time you create a new file in Blender with the add-on enabled, you will se
 	- The central node. It runs all the transformations to its "right" side while referencing all the dictionary and library nodes to its "left" side.
 ## Adding a Node
 ![[adding_nodes.png]]
+
 **Execute Node**:
 This allows you to execute a general piece of Python code. Be careful if you are running Blender with elevated permissions, as it will simply execute the code, and ***this may damage your system!***
 ## Presets
