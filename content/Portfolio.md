@@ -6,3 +6,4 @@ This was my Eagle Project
 
 # Optical Waveguide Profiles
 This is work I do for my lab to help them understand the normal modes of their system.
+![[waveguide_mode.png]]
