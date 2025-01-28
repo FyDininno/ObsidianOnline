@@ -1,5 +1,6 @@
 # Tutorial
-
+![[SphereSquash.gif]]
+Today we will be making the animation above. And I promise, with Node Form it is way easier than it seems!
 ## Default Node Path
 ![[default.png]]
 ## Adding a Node
@@ -28,19 +29,10 @@ def identity_function(value):
 
 def cap(value, max_value):
 	return value if value < max_value else max_value
-
-def flor(value, min_value):
-	return value if min_value < value else min_value
-
-def barr(value, start_value):
-	return 0 if start_value < value else start_value
-  
-def wall(value, end_value):
-	return end_value if value > end_value else 0
 ```
-
-
 ## Putting it All Together
+![[all_together.png]]
+
 ## Things To Watch out For
 ### Syntax
 ### 
