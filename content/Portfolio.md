@@ -3,7 +3,7 @@ I wrote this add-on for Blender in an effort to help people better visualize mat
 
 ![[SineForm.gif]]
 # Alameda Garden
-This was my [[Eagle Garden|Eagle Project]]
+This was my [[Eagle Project|Eagle Project]]
 
 ![[final_garden.png]]
 
