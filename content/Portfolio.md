@@ -1,5 +1,5 @@
 # Node Form
-I wrote this add-on for Blender in an effort to help people better visualize mathematics. The tutorial can be found [[Node Form|here]].
+I wrote this add-on for Blender in an effort to help people better visualize mathematics. The tutorial can be found [[Tutorial|here]].
 
 ![[SineForm.gif]]
 # Alameda Garden

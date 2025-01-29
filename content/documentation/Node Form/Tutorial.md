@@ -1,5 +1,5 @@
 See the [Github](https://github.com/FyDininno/NodeForm) for installation directions.
-# Tutorial
+
 ![[SphereSquash.gif]]
 Today we will be making the animation above in Blender. And I promise, with Node Form it is way easier than it seems.
 ## Default Node Path
