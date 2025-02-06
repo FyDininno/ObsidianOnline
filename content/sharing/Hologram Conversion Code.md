@@ -49,6 +49,7 @@ X, Y = np.meshgrid(x, y)  # Physical coordinates (meters)
 # Compute the phase factor S1
 S1 = np.exp((1j * k) / (2 * z) * (X**2 + Y**2))  # Now correctly using physical coordinates
 
+
 # ---------------------- 4. FFT Reconstruction ----------------------
 # Multiply the hologram with S1, apply fftshift before and after fft2
 reconstruction = np.fft.fftshift(np.fft.fft2(np.fft.fftshift(cropped_USAF * S1)))
