@@ -26,7 +26,7 @@
 5. Simtrum
    - <font color="#9bbb59">This website the holy grail of tunable lasers</font>
 	1. [C-Band Tunable Lasers (1529 -1567nm)](https://www.simtrum.com/WebShop/ProductList5.aspx?pid=1497)
-	   - Price : $1500 - $6000 depending on the model
+	   - Price : $1500 -- $6000 depending on the model
 	   - Center Wavelength: 1550nm
 	   - Tunable Range : 38nm
 	   - Form Factor : Large
