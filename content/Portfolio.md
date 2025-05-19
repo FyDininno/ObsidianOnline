@@ -22,3 +22,7 @@ For more details on the project, information can be found [[Eagle Project|here]]
 I have used FEnICsx, an open source finite element package, to calculate the normal modes of optical waveguides. Although the use of this package was discontinued in our lab due to software complexity, I learned quite a bit about the theory of finite element methods and how to apply them to engineering situations.
 
 ![[waveguide_mode.png|500]]
+
+# Graphene Compression Machine
+
+> 

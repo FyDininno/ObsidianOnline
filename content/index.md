@@ -17,7 +17,7 @@ I'm Frank Dininno, born and raised in California, and I am an undergraduate at T
 
 My primary interests are photonics, molecular self-assembly, and simulations.
 
-I am interested in any jobs involving **photonics** or host-guest **supramolecular chemistry**.
+I am interested in any jobs involving **photonic materials and devices** or **conformational molecular photoswitches**.
 #### Skills
 My skill set includes **programming** (Java, Python, Matlab, Bash, Shell, Linux, Github), **computer-aided design** (Onshape, Autodesk, Blender, Klayout), **3D printing** (FLM, Resin), and **simulations** (FEM, DFT).
 #### Major
