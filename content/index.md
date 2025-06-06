@@ -11,7 +11,7 @@ Website: https://fydininno.github.io/ObsidianOnline/index
 
 **Documentation**
 - [[Portfolio]]
-- [[Resume.pdf|Resume]]
+- [[Quartz/assets/pdfs/Resume.pdf|Resume]]
 #### Introduction
 I'm Frank Dininno, born and raised in California, and I am an undergraduate at The University of California, San Diego.
 
