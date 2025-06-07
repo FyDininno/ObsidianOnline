@@ -68,6 +68,7 @@ A .zip file will be automatically downloaded with all the pdb files.
 
 - RFdiffusion (colored), Alphafold 2 (grey)
 
+**Extracting a Sequence**
 Sequence: 
 `LTTPEEWEILNEVE`
 Reverse Translation:
@@ -119,3 +120,54 @@ Look up the other enzyme you chose using the shadowed search bar, set an overhan
 ![[Pasted image 20250606074107.png|500]]
 
 Congratulations, you have finished everything you need to do on the computer. Now, it is time for the experimental procedure. Purchase the plasmid, the primers, the gene, and then perform PCR and insertion into the plasmid.
+
+**PCR Setup**
+Necessary Ingredients:
+1. 1 uL Template DNA (10–100 ng)
+2. 1 uL Forward primer (10 µM)
+3. 1 uL Reverse primer (10 µM)
+4. 0.5 uL dNTP mix (10 mM each)
+5. 5 uL 5x High-Fidelity PCR Buffer
+6. 0.25 uL High-fidelity DNA Polymerase
+7. 16.25 uL Nuclease-free water
+
+**PCR Cycling Steps**
+1. Heat to 98$^{\circ}$C for 30 seconds (deconglomerate DNA)
+2. Heat at 98$^{\circ}$C for 10 seconds (separate dsDNA to ssDNA)
+3. Cool to 60$^{\circ}$C for 20 seconds (enable primer binding)
+4. Heat to 72$^{\circ}$C for 30 seconds (polymerase bind and extend primers)
+5. Heat to 72$^{\circ}$C for 5 minutes (ensure all strands are completed)
+6. Repeat steps 2 through 5 as many times as required.
+7. Cool to 5$^{\circ}$C for retrieval.
+8. Check the product size using gel electrophoresis.
+9. If satisfactory, purify the PCR product with a purification kit.
+
+**Restriction Enzyme Digestion**
+Required Ingredients:
+1. 1 ug of DNA plasmid
+2. 2 uL of 10x Buffer
+3. 1 uL of Enzyme 1 (EcoRI in our case)
+4. 1 uL of Enzyme 2 (ACC651 in our case)
+5. 20 uL of Water
+- Incubate this mixture for 1 hour at 36$^{\circ}$C
+
+**Ligation**
+Ingredients Required:
+1. 50ng of Plasmid DNA
+2. 150ng of Insert DNA (from PCR)
+3. 1 uL of 10x Ligase buffer
+4. 1 uL of T4 Ligase
+5. Incubate for 12 hours at 5$^{\circ}$C
+
+**Gene Uptake**
+1. Cultivate a plate of E. coli.
+2. Add 5 uL of ligation to 50 uL of cells.
+3. Chill the agar plate for 30 minutes on ice.
+4. Heat shock the plate at 44$^{\circ}$C for 30 seconds.
+5. Chill the agar plate on ice for 2 minutes.
+6. Add 250 uL of SOC medium
+7. Put the mixture in a shaker for 1 hour.
+
+**Cultivation and Selection**
+1. Plate 50 uL of processed E. coli cells on to an agar plate with ampicillin.
+2. Incubate for 12 hours at 37$^{\circ}$C
