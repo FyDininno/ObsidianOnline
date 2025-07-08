@@ -48,9 +48,10 @@ Link to RFdiffusion Google Colab: https://colab.research.google.com/github/sokry
 	- `contigs='B:10-25'` means that chain B is fixed and the resulting binder to be generated on it is 10 to 25 residues long
 	- Iterations `25`, the more iterations, the longer the simulation and the more accurate the output.
 	- `/content/reduced-export.pdb` This is the path to be passed into the generation. 
-	- `hotspot=('B325,B409,B465)` These are the residues to be targeted, they are part of the identified binding surface.
+	- `hotspot=('B325,B409,B465')` These are the residues to be targeted, they are part of the identified binding surface.
 	- num_designs `1`. Having multiple designs output allows you to see how well defined your constraints are. If you get similar results many time, then your constraints are very well defined, and there seems to only be one solution to your problem. This may or may not be a good thing depending on how much variability you want.
 	- Turn `initial guess` on and `num_recycles=3` for binder designs. 
+	- `symmetry` makes a copy of your original chain in a point symmetry around the origin's z-axis to design perfectly symmetric multimers. When using this feature, turn on `use_multimer` in the ProteinMPNN section to ensure that the sequence guesser treats the generated protein as a multi-chain unit.
 	- Avoid using spaces. If you get errors, look for silly syntax mistakes or unnecessary inclusions in your input like quotation marks or parentheses. Don't worry about the extra folder you see to the left. They will show up after you press "Run All".
 	- Click 'Run All'
 
