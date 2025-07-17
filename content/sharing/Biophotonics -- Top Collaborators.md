@@ -93,10 +93,10 @@ Departments of
 3. 1998 *Nature* [Preparation and hybridization analysis of DNA/RNA from E. coli on microfabricated bioelectronic chips](https://pubmed.ncbi.nlm.nih.gov/9624684/) (590)
 4. 1997 *OUP* [Electric field directed nucleic acid hybridization on microchips](https://pubmed.ncbi.nlm.nih.gov/9396795/) (428)
 ## Most Recent Papers
-1. 2025 *ScienceDirect* [A Single Microfluidic Device Approach to Direct Isolation, Purification, and Amplification of cfDNA from Undiluted Plasma](https://pubmed.ncbi.nlm.nih.gov/39525360/)
-2. 2024 *ScienceDirect* [Simultaneous Cases of Familial Hypokalemic Periodic Paralysis Induced by Illicit Injection of Betamethasone](https://pubmed.ncbi.nlm.nih.gov/39952820/)
-3. 2024 *Wiley* [Oligo cyc-DEP: On-chip cyclic immunofluorescence profiling of cell-derived nanoparticles](https://pubmed.ncbi.nlm.nih.gov/39049673/)
-4. 2022 *Wiley* [cyc-DEP: Cyclic immunofluorescence profiling of particles collected using dielectrophoresis](https://pubmed.ncbi.nlm.nih.gov/35753078/)
+1. 2025 *Sens. Actuators B: Chem.* [A Single Microfluidic Device Approach to Direct Isolation, Purification, and Amplification of cfDNA from Undiluted Plasma](https://pubmed.ncbi.nlm.nih.gov/39525360/)
+2. 2024 *Sens. Actuators B: Chem.* [Simultaneous Cases of Familial Hypokalemic Periodic Paralysis Induced by Illicit Injection of Betamethasone](https://pubmed.ncbi.nlm.nih.gov/39952820/)
+3. 2024 *Electrophoresis* [Oligo cyc-DEP: On-chip cyclic immunofluorescence profiling of cell-derived nanoparticles](https://pubmed.ncbi.nlm.nih.gov/39049673/)
+4. 2022 *Electrophoresis* [cyc-DEP: Cyclic immunofluorescence profiling of particles collected using dielectrophoresis](https://pubmed.ncbi.nlm.nih.gov/35753078/)
 ## Most Relevant Papers
 1. 2018 *Nature* [DNA multi-bit non-volatile memory and bit-shifting operations using addressable electrode arrays and electric field-induced hybridization](https://pubmed.ncbi.nlm.nih.gov/29348493/)
 2. 2017 *ACS* [Rapid Isolation and Detection of Exosomes and Associated Biomarkers from Plasma](https://pubmed.ncbi.nlm.nih.gov/28671449/)
@@ -134,6 +134,6 @@ Departments of
 ## Most Relevant Papers
 1. 2021 *eLIfe* [Single-molecule view of coordination in a multi-functional DNA polymerase](https://pubmed.ncbi.nlm.nih.gov/33704066/)
 2. 2013 *ACS* [Dynamics of site switching in DNA polymerase](https://pubmed.ncbi.nlm.nih.gov/23409810/)
-3. 2011 *ScienceDirect* [Single-molecule studies reveal that DEAD box protein DDX1 promotes oligomerization of HIV-1 Rev on the Rev response element](https://pubmed.ncbi.nlm.nih.gov/21763499/)
-4. 2006 *Wiley* [The Effects of Antibodies on Stilbene Excited-State Energetics](https://onlinelibrary.wiley.com/doi/10.1002/anie.200602720)
+3. 2011 *JMB* [Single-molecule studies reveal that DEAD box protein DDX1 promotes oligomerization of HIV-1 Rev on the Rev response element](https://pubmed.ncbi.nlm.nih.gov/21763499/)
+4. 2006 *Angewandte Chemie Int. Ed.* [The Effects of Antibodies on Stilbene Excited-State Energetics](https://onlinelibrary.wiley.com/doi/10.1002/anie.200602720)
 
