@@ -1,5 +1,5 @@
 Departments of
-*Bioengineering, Molecular and Structural Biology, Pharmacology, Skripps Research Institute, Salk Research Institute, Chemistry and Biochemistry, Biophotonics Technology Center*
+*Bioengineering, Molecular and Structural Biology, Pharmacology, Scripps Research Institute, Salk Institute for Biological Studies, Chemistry and Biochemistry, Biophotonics Technology Center*
 
 **Gathered 07/17/2025**
  Editor: Frank Dininno
@@ -25,7 +25,7 @@ Departments of
 1. 2002 *Nature* [Creating new fluorescent probes for cell biology](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&citation_for_view=wklLtMQAAAAJ:TQgYirikUcIC)  (2602)
 2. 2001 *PNAS* [Genetically encoded reporters of protein kinase A activity reveal impact of substrate tethering](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&citation_for_view=wklLtMQAAAAJ:d1gkVwhDpl0C)  (751)
 3. 2017 *Cell* [The Growing and Glowing Toolbox of Fluorescent and Photoactive Proteins](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&citation_for_view=wklLtMQAAAAJ:3fE2CSJIrl8C)  (722)
-4. 2003 *Rockefeller* [A genetically encoded fluorescent reporter reveals oscillatory phosphorylation by protein kinase C](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&citation_for_view=wklLtMQAAAAJ:hFOr9nPyWt4C)  (675)
+4. 2003 *JCB* [A genetically encoded fluorescent reporter reveals oscillatory phosphorylation by protein kinase C](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&citation_for_view=wklLtMQAAAAJ:hFOr9nPyWt4C)  (675)
 ## Most Recent Papers
 1. 2025 *Cell* [Aberrant phase separation of two PKA RIβ neurological disorder mutants leads to mechanistically distinct signaling deficits](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&sortby=pubdate&citation_for_view=wklLtMQAAAAJ:VaXvl8Fpj5cC) 
 2. 2025 *Nature* [Far-red chemigenetic kinase biosensors enable multiplexed and super-resolved imaging of signaling networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&sortby=pubdate&citation_for_view=wklLtMQAAAAJ:k8Z6L05lTy4C) 
@@ -50,7 +50,7 @@ Departments of
 | department          | Department of Integrative Structural and Computational Biology                 |
 | title               | Professor                                                                      |
 | research focus      | Single-Molecule Biopolymer Physics                                             |
-| affiliations        | Skripps Research Institute                                                     |
+| affiliations        | Scripps Research Institute                                                     |
 | lab website         | https://www.scripps.edu/deniz/                                                 |
 | publications        | [Google Scholar](https://scholar.google.com/citations?user=bNzBCLYAAAAJ&hl=en) |
 
@@ -80,7 +80,7 @@ Departments of
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | profile             | https://jacobsschool.ucsd.edu/node/3322                                                                                                                                               |
 | email               | mjheller@ucsd.edu                                                                                                                                                                     |
-| department          | Department of Nanoengineering, Bioengineering                                                                                                                                         |
+| department          | Departments of Nanoengineering and Bioengineering                                                                                                                                         |
 | title               | Professor Emeritus                                                                                                                                                                    |
 | research focus      | Photonic Chip-Based DNA Assays                                                                                                                                                        |
 | affiliations        | Institute of Engineering in Medicine                                                                                                                                                  |
@@ -96,7 +96,7 @@ Departments of
 1. 2025 *ScienceDirect* [A Single Microfluidic Device Approach to Direct Isolation, Purification, and Amplification of cfDNA from Undiluted Plasma](https://pubmed.ncbi.nlm.nih.gov/39525360/)
 2. 2024 *ScienceDirect* [Simultaneous Cases of Familial Hypokalemic Periodic Paralysis Induced by Illicit Injection of Betamethasone](https://pubmed.ncbi.nlm.nih.gov/39952820/)
 3. 2024 *Wiley* [Oligo cyc-DEP: On-chip cyclic immunofluorescence profiling of cell-derived nanoparticles](https://pubmed.ncbi.nlm.nih.gov/39049673/)
-4. 2022 *Wiley* [cyc-DEP: Cyclic immunofluorescence profiling of particles collected using dielectrophoresis](https://pubmed.ncbi.nlm.nih.gov/39049673/)
+4. 2022 *Wiley* [cyc-DEP: Cyclic immunofluorescence profiling of particles collected using dielectrophoresis](https://pubmed.ncbi.nlm.nih.gov/35753078/)
 ## Most Relevant Papers
 1. 2018 *Nature* [DNA multi-bit non-volatile memory and bit-shifting operations using addressable electrode arrays and electric field-induced hybridization](https://pubmed.ncbi.nlm.nih.gov/29348493/)
 2. 2017 *ACS* [Rapid Isolation and Detection of Exosomes and Associated Biomarkers from Plasma](https://pubmed.ncbi.nlm.nih.gov/28671449/)
@@ -116,7 +116,7 @@ Departments of
 | department          | Department of Integrative Structural and Computational Biology                                                                                                               |
 | title               | Professor                                                                                                                                                                    |
 | research focus      | Fluorescence Probing of Protein Conformational Dynamics                                                                                                                      |
-| affiliations        | Skripps Research Institute                                                                                                                                                   |
+| affiliations        | Scripps Research Institute                                                                                                                                                   |
 | lab website         | https://www.scripps.edu/millar/Millar_Lab/Home.html                                                                                                                          |
 | publications        | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Millar+DP&sort=date), [Google Scholar](https://scholar.google.com/scholar?start=0&q=author:DP+author:Millar&hl=en&as_sdt=0,5) |
 
@@ -127,7 +127,7 @@ Departments of
 4. 1982 *AIP* [Torsion and bending of nucleic acids studied by subnanosecond time‐resolved fluorescence depolarization of intercalated dyes](https://pubs.aip.org/aip/jcp/article/76/4/2080/217632/Torsion-and-bending-of-nucleic-acids-studied-by) (192)
 
 ## Most Recent Papers
-1. 2025 *eLIfe* [Distinct activation mechanisms of CXCR4 and ACKR3 revealed by single-molecule analysis of their conformational landscapes](https://pubmed.ncbi.nlm.nih.gov/40232828/) 
+1. 2025 *eLife* [Distinct activation mechanisms of CXCR4 and ACKR3 revealed by single-molecule analysis of their conformational landscapes](https://pubmed.ncbi.nlm.nih.gov/40232828/) 
 2. 2025 *Research Square* [Early HIV-1 Gag Assembly on Lipid Membrane with vRNA](https://pubmed.ncbi.nlm.nih.gov/37461524/)
 3. 2023 *frontiers* [Conformational Dynamics of DNA Polymerases Revealed at the Single-Molecule Level](https://pubmed.ncbi.nlm.nih.gov/35281261/) 
 4. 2023 *OUP* [Computational investigation of the impact of core sequence on immobile DNA four-way junction structure and dynamics](https://pubmed.ncbi.nlm.nih.gov/34935970/) 
@@ -136,6 +136,4 @@ Departments of
 2. 2013 *ACS* [Dynamics of site switching in DNA polymerase](https://pubmed.ncbi.nlm.nih.gov/23409810/)
 3. 2011 *ScienceDirect* [Single-molecule studies reveal that DEAD box protein DDX1 promotes oligomerization of HIV-1 Rev on the Rev response element](https://pubmed.ncbi.nlm.nih.gov/21763499/)
 4. 2006 *Wiley* [The Effects of Antibodies on Stilbene Excited-State Energetics](https://onlinelibrary.wiley.com/doi/10.1002/anie.200602720)
-
----
 
