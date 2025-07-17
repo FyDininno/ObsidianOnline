@@ -130,7 +130,7 @@ Departments of
 1. 2025 *eLife* [Distinct activation mechanisms of CXCR4 and ACKR3 revealed by single-molecule analysis of their conformational landscapes](https://pubmed.ncbi.nlm.nih.gov/40232828/) 
 2. 2025 *Research Square* [Early HIV-1 Gag Assembly on Lipid Membrane with vRNA](https://pubmed.ncbi.nlm.nih.gov/37461524/)
 3. 2023 *frontiers* [Conformational Dynamics of DNA Polymerases Revealed at the Single-Molecule Level](https://pubmed.ncbi.nlm.nih.gov/35281261/) 
-4. 2023 *OUP* [Computational investigation of the impact of core sequence on immobile DNA four-way junction structure and dynamics](https://pubmed.ncbi.nlm.nih.gov/34935970/) 
+4. 2023 *Nucleic Acids Research* [Computational investigation of the impact of core sequence on immobile DNA four-way junction structure and dynamics](https://pubmed.ncbi.nlm.nih.gov/34935970/) 
 ## Most Relevant Papers
 1. 2021 *eLIfe* [Single-molecule view of coordination in a multi-functional DNA polymerase](https://pubmed.ncbi.nlm.nih.gov/33704066/)
 2. 2013 *ACS* [Dynamics of site switching in DNA polymerase](https://pubmed.ncbi.nlm.nih.gov/23409810/)
