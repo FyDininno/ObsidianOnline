@@ -1,4 +1,4 @@
-[[Biophotonics -- Top Collaborators.pdf|Download As PDF]]
+[[Biophotonics -- Top Collaborators.pdf|Download as PDF]]
 
 Departments of
 *Bioengineering, Molecular and Structural Biology, Pharmacology, Scripps Research Institute, Salk Institute for Biological Studies, Chemistry and Biochemistry, Biophotonics Technology Center*
