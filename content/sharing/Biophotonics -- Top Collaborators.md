@@ -74,39 +74,6 @@ Departments of
 
 ---
 
-# Michael J. Heller
-
-**![|168](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdkANp5BHKRcGCochUqDbRg_7ejDuorV30K_C6mODh1eYNcZcsUBiDCRtTviW32rH_uMfNW4MjCWFvTSneY-1sF8apxweJl4GTfs3f4EkYFF29pIx2fUlBSJsz8m57_PBl6R5pAiA=s2048?key=1tIPnkej3Vg29G0H5wKOsQ "Heller.jpg")**
-
-| Contact Information |                                                                                                                                                                                       |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| profile             | https://jacobsschool.ucsd.edu/node/3322                                                                                                                                               |
-| email               | mjheller@ucsd.edu                                                                                                                                                                     |
-| department          | Departments of Nanoengineering and Bioengineering                                                                                                                                         |
-| title               | Professor Emeritus                                                                                                                                                                    |
-| research focus      | Photonic Chip-Based DNA Assays                                                                                                                                                        |
-| affiliations        | Institute of Engineering in Medicine                                                                                                                                                  |
-| lab website         | http://nano.ucsd.edu/                                                                                                                                                                 |
-| publications        | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Heller+MJ&cauthor_id=9396795), [Google Scholar](https://scholar.google.com/scholar?start=0&q=author:MJ+author:Heller&hl=en&as_sdt=0,5) |
-
-## Most-Cited Papers
-1. 2002 *AR* [DNA microarray technology: devices, systems, and applications](https://pubmed.ncbi.nlm.nih.gov/12117754/) (1627)
-2. 1997 *PNAS* [Rapid determination of single base mismatch mutations in DNA hybrids by direct electric field control](https://pubmed.ncbi.nlm.nih.gov/9037016/) (697)
-3. 1998 *Nature* [Preparation and hybridization analysis of DNA/RNA from E. coli on microfabricated bioelectronic chips](https://pubmed.ncbi.nlm.nih.gov/9624684/) (590)
-4. 1997 *OUP* [Electric field directed nucleic acid hybridization on microchips](https://pubmed.ncbi.nlm.nih.gov/9396795/) (428)
-## Most Recent Papers
-1. 2025 *Sens. Actuators B: Chem.* [A Single Microfluidic Device Approach to Direct Isolation, Purification, and Amplification of cfDNA from Undiluted Plasma](https://pubmed.ncbi.nlm.nih.gov/39525360/)
-2. 2024 *Sens. Actuators B: Chem.* [Simultaneous Cases of Familial Hypokalemic Periodic Paralysis Induced by Illicit Injection of Betamethasone](https://pubmed.ncbi.nlm.nih.gov/39952820/)
-3. 2024 *Electrophoresis* [Oligo cyc-DEP: On-chip cyclic immunofluorescence profiling of cell-derived nanoparticles](https://pubmed.ncbi.nlm.nih.gov/39049673/)
-4. 2022 *Electrophoresis* [cyc-DEP: Cyclic immunofluorescence profiling of particles collected using dielectrophoresis](https://pubmed.ncbi.nlm.nih.gov/35753078/)
-## Most Relevant Papers
-1. 2018 *Nature* [DNA multi-bit non-volatile memory and bit-shifting operations using addressable electrode arrays and electric field-induced hybridization](https://pubmed.ncbi.nlm.nih.gov/29348493/)
-2. 2017 *ACS* [Rapid Isolation and Detection of Exosomes and Associated Biomarkers from Plasma](https://pubmed.ncbi.nlm.nih.gov/28671449/)
-3. 2016 *RSC* [Enhanced fluorescent resonant energy transfer of DNA conjugates complexed with surfactants and divalent metal ions](https://pubmed.ncbi.nlm.nih.gov/26985458/)
-4. 2007 *ACS* [Low-Frequency Electrophoretic Actuation of Nanoscale Optoentropic Transduction Mechanisms](https://pubmed.ncbi.nlm.nih.gov/17355161/)
-
----
-
 # David Millar
 
 **![|168](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUc-yQrhKHQGFmDA6vOfoTv26RNIT3x-JO-DFXkxiqlwtTrbHkh42KaCWs0HEALV2WlhmIi45qWhh7YQ1BpIrQeIicXabFzbZZJLXGj82dShz3VCn19U4XfCkAVMj4xIypIOtIGl=s2048?key=1tIPnkej3Vg29G0H5wKOsQ "David-Millar.jpg")**
