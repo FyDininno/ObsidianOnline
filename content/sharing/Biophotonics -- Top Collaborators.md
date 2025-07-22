@@ -45,6 +45,9 @@ Dr. Zhang's lab does both fluorescence protein engineering and purification.
 ---
 
 # Akif Tezcan
+
+**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfZM5I52QpW6xN-367EjTp4YUed4GEhoI6ikDag4sXpafWmW_A7zksPxwVb2OEk0j6-V9aChKfBN9T19sZTI8DGe5gXAuwmSI_V9W268F67ew1XlZRZF8wB12N_aKPiKInCYiEdbg=s2048?key=1tIPnkej3Vg29G0H5wKOsQ "Akif-Tezcan.jpg")**
+
 ### Contact Information
 | Contact Information |                                                                                |
 | ------------------- | ------------------------------------------------------------------------------ |
@@ -75,7 +78,6 @@ Dr. Zhang's lab does both fluorescence protein engineering and purification.
 Dr. Akif's lab is capable of performing protein purification, as detailed in his lab website. However, his specialization is not in the field of fluorescence, but he does demonstrate the ability to tag his proteins by appending fluorescent proteins to them.
 
 ---
-
 # Ashok Deniz
 
 **![|168](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcXGtLl4DB5fZ6Gb2hzuMPtdLFhuOlwbjsi0tVCvkucFP8JqtBYLWN7s2DlPyG6KcmZJzGGCo0hDaS7fJtLoI27J2v8Pf90kObp5VfwhcTdk3p7nxSzZ0xY8Cs9SsRAZSv7ZDTU=s2048?key=1tIPnkej3Vg29G0H5wKOsQ "Ashok-Deniz.jpg")**
