@@ -39,6 +39,41 @@ Departments of
 3. 2015 *Nature* [Ratiometric biosensors based on dimerization-dependent fluorescent protein exchange](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&cstart=20&pagesize=80&citation_for_view=wklLtMQAAAAJ:O3NaXMp0MMsC)
 4. 2007 *RSC* [FRET-based biosensors for protein kinases: illuminating the kinome](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wklLtMQAAAAJ&cstart=20&pagesize=80&citation_for_view=wklLtMQAAAAJ:KlAtU1dfN6UC)
 
+### Notes
+Dr. Zhang's lab does both fluorescence protein engineering and purification.
+
+---
+
+# Akif Tezcan
+### Contact Information
+| Contact Information |                                                                                |
+| ------------------- | ------------------------------------------------------------------------------ |
+| profile             | https://matsci.ucsd.edu/faculty/akif-tezcan                                    |
+| email               | tezcan@ucsd.edu                                                                |
+| department          | Department of Chemistry and Biochemistry                                       |
+| title               | Professor                                                                      |
+| research focus      | Protein Design\Analysis, Self-Assembled Crystal Arrays                         |
+| affiliations        | UCSD MRSEC                                                                     |
+| lab website         | http://tezcan.ucsd.edu/                                                        |
+| publications        | [Google Scholar](https://scholar.google.com/citations?user=hr4xnJgAAAAJ&hl=en) |
+
+## Most-Cited Papers
+1. 2002 *Science* [Nitrogenase MoFe-Protein at 1.16 Å Resolution: A Central Ligand in the FeMo-Cofactor](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hr4xnJgAAAAJ&citation_for_view=hr4xnJgAAAAJ:u5HHmVD_uO8C) (1362)
+2. 2012 *Nature* [Metal-directed, chemically tunable assembly of one-, two-and three-dimensional crystalline protein arrays](https://www.nature.com/articles/nchem.1290) (413)
+3. 2005 *RSA* [Structural basis of biological nitrogen fixation](https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2004.1539) (410)
+4. 1998 *JACS* [Effects of ligation and folding on reduction potentials of heme proteins](https://pubs.acs.org/doi/abs/10.1021/ja982536e) (327)
+## Most Recent Papers
+1. 2025 *JAC* [Efficient analysis of small-angle scattering curves for large biomolecular assemblies using Monte Carlo methods](https://journals.iucr.org/paper?uu5014)
+2. 2025 *ChemRxiv* [A de novo designed protein with versatile metal binding and tunable hydrolytic activity](https://chemrxiv.org/engage/chemrxiv/article-details/68183ca150018ac7c56f44bb)
+3. 2025 *JACS* [De Novo Design of Proteins for Autocatalytic Isopeptide Bond Formation](https://pubs.acs.org/doi/abs/10.1021/jacs.5c03319)
+4. 2025 *Cell* [Design of light-and chemically responsive protein assemblies through host-guest interactions](https://www.cell.com/chem/abstract/S2451-9294\(24\)00652-1)
+## Relevant Papers
+1. 2025 *Cell* [Design of light-and chemically responsive protein assemblies through host-guest interactions](https://www.cell.com/chem/abstract/S2451-9294\(24\)00652-1)
+2. 2023 *JACS* [Spatially patterned, porous protein crystals as multifunctional materials](https://pubs.acs.org/doi/abs/10.1021/jacs.3c06348)
+3. 2022 *Biochemistry* [Enzyme-Directed Functionalization of Designed, Two-Dimensional Protein Lattices](https://pmc.ncbi.nlm.nih.gov/articles/PMC7855359/)
+### Notes
+Dr. Akif's lab is capable of performing protein purification, as detailed in his lab website. However, his specialization is not in the field of fluorescence, but he does demonstrate the ability to tag his proteins by appending fluorescent proteins to them.
+
 ---
 
 # Ashok Deniz
@@ -71,6 +106,9 @@ Departments of
 2. 2008 *ACS* [A General and Efficient Method for the Site-Specific Dual-Labeling of Proteins for Single Molecule Fluorescence Resonance Energy Transfer](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bNzBCLYAAAAJ&citation_for_view=bNzBCLYAAAAJ:a0OBvERweLwC) 
 3. 2002 *ACS* [Unnatural Amino Acid Mutagenesis of Green Fluorescent Protein](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bNzBCLYAAAAJ&citation_for_view=bNzBCLYAAAAJ:g5m5HwL7SMYC)
 4. 2001 *ACS* [Monitoring the Conformational Fluctuations of DNA Hairpins Using Single-Pair Fluorescence Resonance Energy Transfer](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bNzBCLYAAAAJ&citation_for_view=bNzBCLYAAAAJ:KxtntwgDAa4C)
+
+### Notes
+Dr. Deniz seems to be more focused on imaging known proteins by attaching fluorophores to them rather than *de novo* protein engineering.
 
 ---
 
@@ -105,4 +143,3 @@ Departments of
 2. 2013 *ACS* [Dynamics of site switching in DNA polymerase](https://pubmed.ncbi.nlm.nih.gov/23409810/)
 3. 2011 *JMB* [Single-molecule studies reveal that DEAD box protein DDX1 promotes oligomerization of HIV-1 Rev on the Rev response element](https://pubmed.ncbi.nlm.nih.gov/21763499/)
 4. 2006 *Angewandte Chemie Int. Ed.* [The Effects of Antibodies on Stilbene Excited-State Energetics](https://onlinelibrary.wiley.com/doi/10.1002/anie.200602720)
-
