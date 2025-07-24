@@ -12,10 +12,10 @@
 - [ ] 1tbsp dried parsely flakes (bulk) 0.40
 - [ ] 1 large carrot (Rlph) 0.10
 - [ ] 1/4c shiitake mushrooms / 3-4 medium caps (R99) 0.30
+- [ ] 1/2c oats, 1/4c chia seeds, brim almond milk calc fortified, whatever frozen fruits (Usual breakfast) 0.50
 - [ ] 1 orange or kiwi (dinner) 0.50
 - [ ] 1/4c almond or hemp (dinner) 0.25
 - [ ] 1/2c almond milk (dinner) 0.20
-- [ ] 1/2c oats, 1/4c chia seeds, brim almond milk calc fortified, whatever frozen fruits (Usual breakfast) 0.50
 
 <u>Extras</u>: Optional.
 - [ ] 1/4c olive oil (Rlph) 0.60 (not needed if clams are bought from TJ)
