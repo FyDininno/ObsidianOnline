@@ -15,14 +15,3 @@ For more details on the project, information can be found [[Eagle Project|here]]
 
 ![[final_garden.png]]
 
-# Optical Waveguide Profiles
-
-> Optical waveguides profiles describe the normal operation modes of optical waveguides, devices which enable the flow of light in a controlled way. Common ways to calculate mode profiles involve using numerical software packages such as FEM or FDTD based packages. FEM stands for the finite element method, and it is a mathematical framework that allows for the stationary states of the waveguide modes to be calculated. FDTD stands for the finite difference time domain method, and it calculates the normal modes of the system at a particular wavelength by allowing the system to come to equilibrium under a steady state optical input.
-
-I have used FEnICsx, an open source finite element package, to calculate the normal modes of optical waveguides. Although the use of this package was discontinued in our lab due to software complexity, I learned quite a bit about the theory of finite element methods and how to apply them to engineering situations.
-
-![[waveguide_mode.png|500]]
-
-# Graphene Compression Machine
-
-> 
