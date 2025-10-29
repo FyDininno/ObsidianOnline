@@ -10,4 +10,5 @@ Github: https://github.com/FyDininno/
 Website: https://fydininno.github.io/ObsidianOnline/index
 
 **Documentation**
+- [[Frank Dininno's Resume ~ Fall 2025.pdf|Resume]]
 - [[Portfolio]]
