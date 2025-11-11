@@ -5,6 +5,7 @@
 Mathematical transformations are quite beautiful, but not everyone has the background to see them from equations alone. I wanted to give others the ability to see them, through my software. During my freshman year of college, I finished my first version of the program. It was not until nearly a year later when I completely finalized my project. The results of which can be found here on my [github](https://github.com/FyDininno/NodeForm), and the tutorial for it is [[Tutorial|linked here]].
 
 ![[SineForm.gif]]
+
 # Alameda Garden
 
 > The Alameda Garden is a specialized garden bed designed for the residents of the Alameda Homeless Shelter in San Jose. It is rollable, elevated, and able to be closed and locked during the night.
@@ -15,3 +16,5 @@ For more details on the project, information can be found [[Eagle Project|here]]
 
 ![[final_garden.png]]
 
+
+### (Research Projects Available Upon Request)
