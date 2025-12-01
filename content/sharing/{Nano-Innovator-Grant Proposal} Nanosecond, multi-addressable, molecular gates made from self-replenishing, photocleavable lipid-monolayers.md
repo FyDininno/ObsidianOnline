@@ -3,6 +3,7 @@ Author: Frank Dininno
 Current Status: Senior Undergraduate - University of California, San Diego
 Contact: frankdininno@gmail.com, +1(619) 431-1836
 Date of Authorship: 25 November 2025
+*Submitted to the Tikhomirov Lab*
 
 # Abstract
 
