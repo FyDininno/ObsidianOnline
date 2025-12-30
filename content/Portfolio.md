@@ -16,5 +16,9 @@ For more details on the project, information can be found [[Eagle Project|here]]
 
 ![[final_garden.png]]
 
+# Photochemical Nanosecond Switching Langmuir Nanopore Gate
+> This was a theoretical device that I theorized and proposed as a component for a larger device for genetic manipulation. (*IP protections for grant proposals apply*)
 
-### (Research Projects Available Upon Request)
+![[{Nano-Innovator-Grant Proposal} Nanosecond, multi-addressable, molecular gates made from self-replenishing, photocleavable lipid-monolayers.pdf]]
+
+### (Research Project Documentation Available Upon Request)
