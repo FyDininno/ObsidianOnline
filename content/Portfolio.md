@@ -21,4 +21,4 @@ For more details on the project, information can be found [[Eagle Project|here]]
 
 ![[{Nano-Innovator-Grant Proposal} Nanosecond, multi-addressable, molecular gates made from self-replenishing, photocleavable lipid-monolayers.pdf]]
 
-### (Research Project Documentation Available Upon Request)
+***(Research Project Documentation Available Upon Request)***
