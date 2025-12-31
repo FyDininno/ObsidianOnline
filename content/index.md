@@ -11,4 +11,6 @@ Website: https://fydininno.github.io/ObsidianOnline/index
 
 **Documentation**
 - [[Quartz/assets/pdfs/Frank Dininno's Resume - Fall 2025.pdf|Resume]]
+
+
 - [[Portfolio]]
