@@ -23,7 +23,9 @@ For more details on the project, information can be found [[Eagle Project|here]]
 # Photochemical Nanosecond Switching Langmuir Nanopore Gates
 > This was a theoretical device that I theorized and proposed as a component for a larger device for genetic printing. (*IP protections for grant proposals apply*)
 
-I spent one summer researching the field of biophotonics at UCSD. One of the central goals of the research was to discover a way to synthesize larger DNA strands that current oligonucleotide synthesis protocols can produce. As part of my theorized genetic printing device, a molecular gate which could switch its gating state with perfect efficiency within a few microseconds was required. No solid-state nanopore in the literature was capable of fulfilling such a task, the best were gates were more than one-thousand times slower than required and typically were not capable of complete efficiency. The gate I proposed is completely efficient and switches within nanoseconds, operating by photochemical principles. The full documentation for my proposal may be found [here]().
+![[Pasted image 20251230170345.png|300]]
+
+I spent one summer researching the field of biophotonics at UCSD. One of the central goals of the research was to discover a way to synthesize larger DNA strands that current oligonucleotide synthesis protocols can produce. As part of my theorized genetic printing device, a molecular gate which could switch its gating state with perfect efficiency within a few microseconds was required. No solid-state nanopore in the literature was capable of fulfilling such a task, the best were gates were more than one-thousand times slower than required and typically were not capable of complete efficiency. The gate I proposed is completely efficient and switches within nanoseconds, operating by photochemical principles. The full documentation for my proposal may be found [here](https://drive.google.com/drive/u/3/folders/1olPEwSzgb0m5NDMdTePGnmPIz3qZK_ny).
 
 
 ***(More Research Project Documentation Available Upon Request)***
