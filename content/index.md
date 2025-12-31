@@ -10,7 +10,7 @@ Github: https://github.com/FyDininno/
 Website: https://fydininno.github.io/ObsidianOnline/index
 
 **Documentation**
-- [Resume](https://drive.google.com/file/d/1WQNaBtQ7AlUjvqj63MRzjdTPN4fWe-3p/view?usp=sharing)
+- [[Resume]]
 - [[Portfolio]]
 
 **Autobiography**
