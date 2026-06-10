@@ -1,10 +1,3 @@
-# Nanosecond-Switching Langmuir Gates
-> This was a theoretical device that I theorized and proposed as a component for a larger device for genetic printing. The proposal has been submitted to the Nano-Innovator-Grant for evaluation Summer 2027.
-
-![[Pasted image 20251230170345.png|300]]
-
-I spent one summer researching the field of biophotonics at UCSD. One of the central goals of the research was to discover a way to synthesize DNA strands longer than the current upper limit. As part of my theorized genetic printing device, a molecular gate which could switch its gating state with perfect efficiency within a few microseconds was required. No solid-state nanopore in the literature was capable of fulfilling this task. The best gates were more than one-thousand times slower than required and were not completely efficient. The gate I proposed *is* completely efficient and switches within nanoseconds, remaining open only when exposed to UV light. The full documentation for my proposal may be found [here](https://drive.google.com/file/d/1lyA0Z3sMoBZ2iBMynL5CXD7sFpnyLW9X/view?usp=sharing).
-
 # Graphene Composite Compressor
 > The following graphene compression machine is meant to handle one thousand pounds of force and is machined from stainless steel. It was a central device to synthesize our team's desired thermal composite material.
 
@@ -32,3 +25,10 @@ I attained the rank of Eagle Scout on November 9, 2021. A major requirement of t
 For more details on the project, information can be found [[Eagle Project|here]].
 
 ***(More Research Project Documentation Available Upon Request)***
+
+# Nanosecond-Switching Langmuir Gates
+> This was a theoretical device that I theorized and proposed as a component for a larger device for genetic printing. The proposal has been submitted to the Nano-Innovator-Grant for evaluation Summer 2027.
+
+![[Pasted image 20251230170345.png|300]]
+
+I spent one summer researching the field of biophotonics at UCSD. One of the central goals of the research was to discover a way to synthesize DNA strands longer than the current upper limit. As part of my theorized genetic printing device, a molecular gate which could switch its gating state with perfect efficiency within a few microseconds was required. No solid-state nanopore in the literature was capable of fulfilling this task. The best gates were more than one-thousand times slower than required and were not completely efficient. The gate I proposed *is* completely efficient and switches within nanoseconds, remaining open only when exposed to UV light. The full documentation for my proposal may be found [here](https://drive.google.com/file/d/1lyA0Z3sMoBZ2iBMynL5CXD7sFpnyLW9X/view?usp=sharing).
